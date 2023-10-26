@@ -1401,3 +1401,29 @@ https://epg.pw/stream/ef8c4b1ef6ca99a60c4bee132e3c082999b4d0d0f5357f1e510278c4bd
 https://epg.pw/stream/d61dcc867b731e2537641e69a4fa0c9d69897d1d41d376493acdf583973b34f8.m3u8
 #EXTINF:-1,telebärn[1280x720][3.0mb]
 https://epg.pw/stream/58c0d55a245cdd95e47dcfb9318a1f8a47b494e55402e04ba016f2a4c73f6837.m3u8
+#EXTINF:-1,cctv10@@41[1920x1080][9.0mb][geo-limited]
+https://epg.pw/stream/06b09f4275afd6f70b37dd582c58063ae71a090116ae2935b038d1e158547229.m3u8
+#EXTINF:-1,青海卫视@@29[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/a501bc0df9181a2d41789abe01dfc3f2d9e81fb9e34e7dfaa935fc8630e0f81e.m3u8
+#EXTINF:-1,东方卫视@@45[1920x1080][12.0mb][geo-limited]
+https://epg.pw/stream/c8984ee249e5de5376d275d92e4a523089969eb2f8fd0ccb9597a0ec6aee5990.m3u8
+#EXTINF:-1,江苏卫视@@35[1920x1080][13.0mb][geo-limited]
+https://epg.pw/stream/f0459bc8151cf285bfd8ef31cad788914c63c04a52653cc5ebccb3c4dd380101.m3u8
+#EXTINF:-1,th ninh bình@@1[1920x1080][2.0mb]
+https://epg.pw/stream/fd39f2fc2f6cec06a3fcbcdc315ea7378eff45e3ee3a39bbe3b60ff40a4db24d.m3u8
+#EXTINF:-1,th bình phước[1280x720][3.0mb]
+https://epg.pw/stream/56669aa78cbc35e80cea18419ebaa2de61dcb04c088d795e7d2bb0e4832031cf.m3u8
+#EXTINF:-1,th hải phòng@@3[1920x1080][3.0mb]
+https://epg.pw/stream/6e7bdf627e1343cafb3fb637278b949d991d8a2fa6d699c7d067202abcb26094.m3u8
+#EXTINF:-1,zing mp3 - acoustic[240x240][0.0mb][geo-limited]
+https://epg.pw/stream/7f7d0c8f42514681f87861e76be85f29b9a5b74837ad61e1f64f4f892492551b.m3u8
+#EXTINF:-1,vtv3[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/b857a76fa7315b143a95d267b68e0394186400e7efc188e0981ce4040b680c8a.m3u8
+#EXTINF:-1,opt1@@4[1920x1080][4.0mb]
+https://epg.pw/stream/a86409633e7c9c5c80f5c78f0c7ddae89e323cb413c7174853f919fc63d86c6b.ctv
+#EXTINF:-1,aniplus[1920x1080][5.0mb]
+https://epg.pw/stream/41ca91e711a2c5e9994ff6785028af59ab808a7e85f8eeeefd91c60ba0f9e93a.m3u8
+#EXTINF:-1,aniplus@@1[1280x720][1.0mb][geo-limited]
+https://epg.pw/stream/5d4af536aed11395ad2d7562580faad93c1bfbee340cf4da56878d4ce1c819f9.ctv
+#EXTINF:-1,glory kickboxing[1920x1080][7.0mb][geo-limited]
+https://epg.pw/stream/15c0813d56fd2a7e9cc5d4b2a6ae56684404d24a8890f97dab3fab2d99505977.m3u8
