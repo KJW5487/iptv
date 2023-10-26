@@ -947,3 +947,55 @@ https://epg.pw/stream/9e8250cf6671455f7697f0e9073e914eda68968cea79b4581cc6f179f6
 https://epg.pw/stream/1f028d42bc39f305ce48e88cc9e53bf2b1aed8cd368ed87cd9470bc93721537d.m3u8
 #EXTINF:-1,ช่อง celestial movies@@1[1280x720][2.0mb][geo-limited]
 https://epg.pw/stream/caa985405d7bf72a16c62b36032429af5f0f756ff15f8331948449a87c378bef.m3u8
+#EXTINF:-1,cctv7@@37[1920x1080][8.0mb][geo-limited]
+https://epg.pw/stream/bce880691930d766a4ef4d8a25c45c25e433aa7afbd387411944687e675c1c18.m3u8
+#EXTINF:-1,cctv12@@34[1920x1080][7.0mb][geo-limited]
+https://epg.pw/stream/8d5d262410bc3546e8dbcb2effe74d9bdf2b87b037ba0514ab969f92c324f0be.m3u8
+#EXTINF:-1,cctv9@@40[1920x1080][8.0mb][geo-limited]
+https://epg.pw/stream/e1eb03091964a688738cf19e98fdc2e4c234c4853d055d11e83acd990723ca52.m3u8
+#EXTINF:-1,凤凰资讯@@2[1280x720][1.0mb][geo-limited]
+https://epg.pw/stream/687ae839a0d84d1c2d3098229e376c4d4cf1cb2dfc1ab28fba4195d27bc6f589.m3u8
+#EXTINF:-1,翡翠台@@4[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/b43f94b33e3f2222a12195487519c698c65d7c2d50bc627205f24e20919c6fe2.ctv
+#EXTINF:-1,风云音乐@@3[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/caabedaab4b79b69e4a09e8549d059ba0fc0631bd1582383e1d3af80c4c96509.m3u8
+#EXTINF:-1,cctv5+@@32[1920x1080][8.0mb]
+https://epg.pw/stream/32011df21ee5fa29a8034eed078ab5dc3e6a791e751f27c4b9849bb5a5dccb06.ctv
+#EXTINF:-1,cctv5+@@43[1920x1080][6.0mb]
+https://epg.pw/stream/18bfe9352f8e760428496e7f4206ad2cce20be2be1d71c8e75edd35929e5379b.ctv
+#EXTINF:-1,发现之旅@@3[720x576][h264xaac]
+https://epg.pw/stream/3031bf6dfc02384984e1c8e33201ca46f7faee507dad7bee669088be8b84db70.m3u8
+#EXTINF:-1,求索动物“ tvg-logo=[1920x1080][4.0mb]
+https://epg.pw/stream/85abab4b1b52b96ee01055ef9533110037656c0d107d53df07f0a847e53686f3.ctv
+#EXTINF:-1,bloombergtv[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/0832127bccd3dd68750257558bcb4faa8cdfa316bffa878857dfbb07c5bcb955.m3u8
+#EXTINF:-1,云南娱乐@@1[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/1dd432153a368680faa9071bb0bebe3025847f07436cff4c960c4421aab1a632.m3u8
+#EXTINF:-1,云南都市@@1[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/123654a346750f63223ca6801f70eba5b966443ffb7b94fe0b3ebfd50936f50f.m3u8
+#EXTINF:-1,云南影视@@1[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/e6a7dd18952a7c4809f9e3d2a5e715a65de1ff83aad748c0fd38df1d6ec496d2.m3u8
+#EXTINF:-1,云南康旅@@2[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/f080a66b5dad132be3744028da08e0878f59ff7afc7a99621185533062a3c7f0.m3u8
+#EXTINF:-1,rtp@@1[1280x720][1.0mb]
+https://epg.pw/stream/6b765962d15300e53e1fe286f04fd8f978e2d0bf1512f594b279b50f6da0c7a7.m3u8
+#EXTINF:-1,radio yaqeen jordan[426x240][1.0mb]
+https://epg.pw/stream/62946506d2e5228ebe5e26999265fe14b1267545d3ca9223a066f9c630236419.m3u8
+#EXTINF:-1,radio yaqeen jordan@@1[320x180][0.0mb]
+https://epg.pw/stream/2f9cf8c6b963c08244226ab4a32f6a5e6131c0e70302a9a11f57c0464f53679b.m3u8
+#EXTINF:-1,delta tv@@1[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/2d1d72a1604d608ce7c9455fdab7b1a43a26ce54abe235b1790a73f887ff77e6.m3u8
+#EXTINF:-1,on music hd[1920x1080][][geo-limited]
+https://epg.pw/stream/905bafbfca524f6a9d17a666a2738c54462c90ecd75d8acc9e0cafd9d73f33cb.ctv
+#EXTINF:-1,on o2tv hd[1920x1080][][geo-limited]
+https://epg.pw/stream/b7f1b9e814706149407a0e97b4f75f6c3485a724764a1d22d32fae084c31b051.ctv
+#EXTINF:-1,rudaw tv[1920x1080][]
+https://epg.pw/stream/220d1a855c9f6356eb10d8b7568a291f209d76dfa2ebeb46e32fbd214ccfe19d.m3u8
+#EXTINF:-1,music[1920x1080][]
+https://epg.pw/stream/7f3f544f90e944e0d800fe58cafcf891f298aefd6f50119bd59a60e45ce37b33.ctv
+#EXTINF:-1,ke tv[480x360][]
+https://epg.pw/stream/c78d8d84cde5b4d86e7ba627bfbaf36bc4c62d4bb127ceb6601499a057af3ad6.m3u8
+#EXTINF:-1,radio fann jordan[320x180][1.0mb]
+https://epg.pw/stream/a71ee08f8a4238e572c684886917f712369da33f1924da43a8682840bc86be4c.m3u8
+#EXTINF:-1,canal 4 jujuy[1280x720][9.0mb]
+https://epg.pw/stream/47ec1179f87d11db872f80995b1ba004c2b7357951f537b7d1b9d28fa83738fd.m3u8
