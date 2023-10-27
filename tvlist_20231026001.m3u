@@ -1361,5 +1361,8 @@ https://epg.pw/stream/ff29d5e164232a65d31001996ded991f9830eb10e7f563e5b4b4541a94
 https://epg.pw/stream/765ab9479fccec975eea8f5a279ad8955fb23140cb33a6038639c5a7c4887cb9.m3u8
 #EXTINF:-1,культура@@1[848x480][3.0mb][geo-limited]
 https://epg.pw/stream/36637322f6798073a16b0ac91a0d2568459e48bda34c2d725245aa4a23358048.m3u8
-
+#EXTINF:-1,telebärn[1280x720][]
+https://epg.pw/stream/58c0d55a245cdd95e47dcfb9318a1f8a47b494e55402e04ba016f2a4c73f6837.m3u8
+#EXTINF:-1,发现之旅[720x576][]
+https://epg.pw/stream/3031bf6dfc02384984e1c8e33201ca46f7faee507dad7bee669088be8b84db70.m3u8
 
