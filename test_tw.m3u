@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,公視[1280x720][3.0mb][geo-limited]
 https://epg.pw/stream/5ca3ca65db262171f7c5e591b1b3a028671a6b15cd187e4d73ca13cd3d84abf3.m3u8
+#EXTINF:-1,民視[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/7401229ebba48dab78da3eb2e6912ed1aa1f295c056697946a2949901268ad3a.m3u8
 #EXTINF:-1,台视[1280x720][]
 https://epg.pw/stream/b57889f317c41a3ef6ea44e0b60419fa9a1dce33dcccd6a9f67df23413cb2899.m3u8
 #EXTINF:-1,中视[1280x720][]
@@ -21,12 +23,22 @@ https://epg.pw/stream/ef8c4b1ef6ca99a60c4bee132e3c082999b4d0d0f5357f1e510278c4bd
 https://epg.pw/stream/d61dcc867b731e2537641e69a4fa0c9d69897d1d41d376493acdf583973b34f8.m3u8
 #EXTINF:-1,台视新闻台[1280x720][][geo-limited]
 https://epg.pw/stream/bf8ade14e21ac5f4da20707f18505595c705dd80d51956a04e6e5f100a992dbd.m3u8
-#EXTINF:-1,民视台湾台@@1[1920x1080][2.0mb][geo-limited]
-https://epg.pw/stream/d556721a4d6daab4d96d3203e9b247315c5b2633c31e1b794e076bffc1203b64.m3u8
+
+##EXTINF:-1,民視新闻台[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/9e0c5226b50fcd68d592dc0ae62154c62a9fd50732329250ee0daf4879ccae49.m3u8
+##EXTINF:-1,中天新闻台[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/63e8b74e2b8d54eb1dddb5159fc153e3b3f8868f626b715e8fb94fdb11da763d.m3u8
 ##EXTINF:-1,三立新闻台[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/a5fc038f36087bfc6bb222c8082ca6e8fef103ce6b06a9f97613809d19895325.ctv
+##EXTINF:-1,三立inews[1920x1080][2.0mb][geo-limited]
 #https://epg.pw/stream/043e9ba5a69ed473708efc931ff9b35590d90f03f45bbeabe1899ef448ee59c6.m3u8
+#EXTINF:-1,東森新聞[1280x720][1.0mb][geo-limited]
+https://epg.pw/stream/0c1a2def94ba956a1cd2a6bd068abf307d3bdcafd911e111f88acc295a76b6e1.m3u8
 #EXTINF:-1,東森財經新聞[1280x720][1.0mb][geo-limited]
 https://epg.pw/stream/1f0d0e82ff3b9bbf3fbb877a47a08099bd3c5d972e033a5015f3da0097a458d3.m3u8
+##EXTINF:-1,寰宇新闻台[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/839bd1c9378b73c9c5b21d3ec7839de4673acaa1b57c1de83aedf0422d70e503.m3u8
+
 #EXTINF:-1,八大综合台[1920x1080][][geo-limited]
 https://epg.pw/stream/9def8bdb64bdf23ccb0993c95c528d9991624e9791cf73194ce72e09e157fac8.m3u8
 #EXTINF:-1 ,ช่อง 东森电影[1920x1080][2.0mb][geo-limited]
@@ -61,6 +73,16 @@ https://epg.pw/stream/1df3601f344fa4b1c79295aefec312f528d418c2ed0b391b3fe630ed1d
 https://epg.pw/stream/2e1b1a186ddd4ff125cb987151cb634b4ddce0401e4b22f0c3c82be4ca83ec9f.m3u8
 #EXTINF:-1,axn@@2[1920x1080][2.0mb][geo-limited]
 https://epg.pw/stream/8e3a4843a93bc80f79396da95d22b5b67f74764a9f1a7f58fc6729bab875bce0.m3u8
+#EXTINF:-1,三立都會台[1920x1080][][geo-limited]
+https://epg.pw/stream/b49c002c700cdbcd7cb82dceff7a4a3029193d5edb6ce9e216d0c338e352856d.m3u8
+#EXTINF:-1,民視綜藝台[1920x1080][][geo-limited]
+https://epg.pw/stream/411b144e7fcad8431117b4c2774c390de66cdc281b2cc546bc9b6599193e8e05.m3u8
+#EXTINF:-1,三立台灣台[1920x1080][][geo-limited]
+https://epg.pw/stream/c7dbae714c89491ea3eea1f746be7982f4fa8a8c81d67b3854ff67d46931a191.m3u8
+##EXTINF:-1,民視台灣台[1920x1080][][geo-limited]
+#https://epg.pw/stream/1009a80025ad9b6285074fdb63ab6db2a289ffd21cf5283c75f63d00c1d379ba.m3u8
+#EXTINF:-1,民视台湾台@@1[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/d556721a4d6daab4d96d3203e9b247315c5b2633c31e1b794e076bffc1203b64.m3u8
 
 #EXTINF:-1,凤凰中文@@10[1920x1080][5.0mb][geo-limited]
 https://epg.pw/stream/0d952d5ca340fe5e3bf834441246861fc489e3dfe01f52a6e92a1040f817cf80.ctv
