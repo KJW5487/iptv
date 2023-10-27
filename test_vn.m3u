@@ -14,6 +14,9 @@ https://epg.pw/stream/2d97afd9c7aa0ba955d198d6e61ef7871aae8d165748a35a4ea0cab610
 ##EXTINF:-1,vtv3 hd@@1[1920x1080][6.0mb][geo-limited]
 #https://epg.pw/stream/612bdf3a707080c177210a3f3c0d4a1fd2106e52c173b2fe8e4b86a76e449678.ctv
 
+##EXTINF:-1,vtv3[1920x1080][5.0mb][geo-limited]
+#https://epg.pw/stream/b857a76fa7315b143a95d267b68e0394186400e7efc188e0981ce4040b680c8a.m3u8
+
 #EXTINF:-1 ,vtv4 hd(國際頻道)[1920x1080][6.0mb][geo-limited]
 https://epg.pw/stream/3d4f81666fa9788238e46fc0d11202c31c80e3399032eed55ec404512b6e8ec4.ctv
 
@@ -109,6 +112,12 @@ https://epg.pw/stream/bfd0f74830c959c840481a46c53bc4729a1fabfa28bded998c015bc8ab
 https://epg.pw/stream/fc26b46d44d8573bec587d0e257b778e9511371ee4834b075f6e360940171971.ctv
 #EXTINF:-1,th hải phòng@@1[1920x1080][3.0mb][geo-limited](THP)
 https://epg.pw/stream/755ffb9e8309a3c5e0c9427ae87d23a475e7812c848f0ab364ed5038ad0780dc.ctv
+#EXTINF:-1,th ninh bình@@1[1920x1080][2.0mb]
+https://epg.pw/stream/fd39f2fc2f6cec06a3fcbcdc315ea7378eff45e3ee3a39bbe3b60ff40a4db24d.m3u8
+#EXTINF:-1,th bình phước[1280x720][3.0mb]
+https://epg.pw/stream/56669aa78cbc35e80cea18419ebaa2de61dcb04c088d795e7d2bb0e4832031cf.m3u8
+#EXTINF:-1,th hải phòng@@3[1920x1080][3.0mb]
+https://epg.pw/stream/6e7bdf627e1343cafb3fb637278b949d991d8a2fa6d699c7d067202abcb26094.m3u8
 
 
 ##EXTINF:-1,on phim việt hd@@1[1920x1080][6.0mb][geo-limited]
@@ -121,3 +130,7 @@ https://epg.pw/stream/755ffb9e8309a3c5e0c9427ae87d23a475e7812c848f0ab364ed5038ad
 #https://epg.pw/stream/b7f1b9e814706149407a0e97b4f75f6c3485a724764a1d22d32fae084c31b051.ctv
 ##EXTINF:-1,on phim việt hd@@2[1920x1080][6.0mb][geo-limited]
 #https://epg.pw/stream/8d58cfdef145ea5a53562958574ecb699605c71b1143572569fe4b6a2d315f6c.ctv
+##EXTINF:-1,on music hd[1920x1080][][geo-limited]
+#https://epg.pw/stream/905bafbfca524f6a9d17a666a2738c54462c90ecd75d8acc9e0cafd9d73f33cb.ctv
+##EXTINF:-1,on o2tv hd[1920x1080][][geo-limited]
+#https://epg.pw/stream/b7f1b9e814706149407a0e97b4f75f6c3485a724764a1d22d32fae084c31b051.ctv

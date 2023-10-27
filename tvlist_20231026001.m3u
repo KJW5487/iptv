@@ -41,8 +41,7 @@ https://epg.pw/stream/2998a77cbc4d7150faef5cc257653d8c9ba987cf64880c3fde4adebb33
 https://epg.pw/stream/e6516eb2fb691917a98249066eaa1de3cf00134d474d5afd6e91c67b4acc5775.ctv
 #EXTINF:-1,cctv14[1920x1080][4.0mb]
 https://epg.pw/stream/81b7797c31f3ca9a91e207b707f88027d93cf50d35999fc2e33c24e9bf30d709.m3u8
-#EXTINF:-1,凤凰香港@@4[1280x720][1.0mb][geo-limited]
-https://epg.pw/stream/d004872b834b5b726d43c1dc539903068b7a75321cd8528ae65fc02dda2a7c89.m3u8
+
 #EXTINF:-1,cctv15@@13[1920x1080][6.0mb][geo-limited]
 https://epg.pw/stream/40584a90545d35d31321da27d317744615c2310ea2570b0f7fa221e09fbba63e.ctv
 #EXTINF:-1,cnbc indonesia[1280x720][2.0mb]
@@ -315,8 +314,6 @@ https://epg.pw/stream/069e5877b0f35a7824a8f2a54210c1212cb8bc80a7da96b96cd39a538b
 https://epg.pw/stream/4b1392519ec769f0d527078ce03c44ff3c1732b707b17c4218a814712e5dc7cb.m3u8
 #EXTINF:-1,cctv11@@32[1920x1080][4.0mb][geo-limited]
 https://epg.pw/stream/e68f3d67857667df8953026b6ee43b6f92e8e4930e4d43c9dc971a7bebb945db.m3u8
-#EXTINF:-1,凤凰中文@@8[1920x1080][10.0mb]
-https://epg.pw/stream/fdd2516b5d14e79741090413c895c89931e7c874af81d8ab7b7a194f0328bfbc.m3u8
 #EXTINF:-1,青海卫视@@26[960x540][3.0mb][geo-limited]
 https://epg.pw/stream/01bdcfd0d1c80878661818a577170242bae21db56aaeacb2d7c3b8a441d7c155.ctv
 #EXTINF:-1,record rj 2[1280x720][2.0mb]
@@ -381,10 +378,7 @@ https://epg.pw/stream/09e67dc252684dac5bc07fdf6dab0dfe4e5f8a82ea9d67262185f4d698
 https://epg.pw/stream/e3bf6d95070a4f6a6e8a85eab1f527c921310a306250962cb0c9559db10f18bd.m3u8
 #EXTINF:-1,新动漫[720x576][3.0mb]
 https://epg.pw/stream/187f95234d2d67e9f3d4447ceb6f838e19e31279748c6dd9b5091d92a2f1cff1.m3u8
-#EXTINF:-1,凤凰中文@@11[720x576][3.0mb]
-https://epg.pw/stream/6951cb17f6ce3e33b538d1af716211b74f547db1e1f82a3bb46e52d8bcaca264.m3u8
-#EXTINF:-1,凤凰资讯@@9[720x576][2.0mb]
-https://epg.pw/stream/38cd2c57a23268cec6d4a8ca06f59b90dc9fa8ba748b0090f9d204c12285f5e9.m3u8
+
 #EXTINF:-1,北京财经[720x576][2.0mb]
 https://epg.pw/stream/ba733506a182931a0cd8d774cb98301347058d0f2d7b3822c5229c4498894f12.ctv
 #EXTINF:-1,北京体育休闲[1920x1080][3.0mb]
@@ -425,16 +419,14 @@ https://epg.pw/stream/f05bbd9e0e8983f5eb91d53cbe631347ad29fa9f8bd8b7541846835ece
 https://epg.pw/stream/8a7d8be541f96fb1fbaca3635c723a42aa8fa4dba9a776d1e21d871d3adeed6f.m3u8
 #EXTINF:-1,cctv5@@28[1920x1080][8.0mb]
 https://epg.pw/stream/3eb61cfd54cff93444ec661596c302b2fb4b838aa194d114c8d40cb9139cfb8c.m3u8
-#EXTINF:-1,凤凰资讯@@12[1920x1080][10.0mb]
-https://epg.pw/stream/351b52b06dbf0782492e7cbabf96b5b1f5c05978170ef22de84de5db30240038.m3u8
+
 #EXTINF:-1,世界地理@@4[1920x1080][h264xmp2]
 https://epg.pw/stream/211de3321bf2ae43e92e2158d1b55ac91c09078ab0fc25a1ad72975f810d65aa.m3u8
 #EXTINF:-1,cctv8@@39[1920x1080][h264xmp2]
 https://epg.pw/stream/0c8ed6e5beb18dab6d9806c51753ac6c03d29b324cc6edf799c713c790653207.m3u8
 #EXTINF:-1,cctv3@@41[1920x1080][8.0mb]
 https://epg.pw/stream/997ab654be252edfe9b6f38b7a1575a5d51911d8977d512c9b61bdd80e7eab6b.m3u8
-#EXTINF:-1,凤凰中文@@12[1920x1080][10.0mb]
-https://epg.pw/stream/544b45a6ee430683fdf2aef7329b7b277e7827a3a57a57f3700b7fd1b15c5df4.m3u8
+
 #EXTINF:-1,风云音乐@@3[1920x1080][h264xmp2]
 https://epg.pw/stream/caabedaab4b79b69e4a09e8549d059ba0fc0631bd1582383e1d3af80c4c96509.m3u8
 #EXTINF:-1,广东新闻[1920x1080][9.0mb]
@@ -487,8 +479,7 @@ https://epg.pw/stream/e50a44e544d9abfc7429bcfb6ae31ed8e09a6be2026b61703c252da839
 https://epg.pw/stream/90704e55d76e0869e93b537e84bb2a8416bfae5439f66f4557c4ecb7fe68a897.m3u8
 #EXTINF:-1,快乐垂钓@@14[1920x1080][h264xmp2]
 https://epg.pw/stream/f13c1924d4e4dc51b0eadba53b3bd789448afec7d8c9ece8308b4eb8a031503d.m3u8
-#EXTINF:-1,凤凰香港@@6[1920x1080][mp2xh264]
-https://epg.pw/stream/b22976296a71b1a2a7fd440ea009e5501378f1e8193bcc7edaa6ad5a31a3e5e6.m3u8
+
 #EXTINF:-1,广西综艺旅游@@1[1920x1080][h264xmp2]
 https://epg.pw/stream/4a9b63dfeef007a3d3ab6db2cdbac91ef56a26fd70ab26c320618dbcd9c68c76.m3u8
 #EXTINF:-1,女性时尚@@1[1920x1080][8.0mb]
@@ -547,148 +538,12 @@ https://epg.pw/stream/db8d94bfefe7c0a9fc1925ce367c0f6e83a03ececc7373db8067e3368d
 https://epg.pw/stream/2250bd009db2db0c031e433858e84cec859ac312f1e1e5b1e6e79946f1dcfa5f.m3u8
 #EXTINF:-1,金色学堂@@2[1920x1080][8.0mb][geo-limited]
 https://epg.pw/stream/ebfbe185f310c5489265ac9d2b1a23747c2b317e7e9365f522006f6b9ad8be34.m3u8
-#EXTINF:-1,杭州影视[1920x1080][mp2xh264][geo-limited]
-https://epg.pw/stream/c1cac088d4439936948f0bd2c496ce5cd75107fd1bbfbfc7b6ee8e7668619205.ctv
-#EXTINF:-1,newtv超级体育[1920x1080][4.0mb][geo-limited]
-https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb4818ffdb6c7aab217d3294c3189.m3u8
 #EXTINF:-1,游戏风云@@17[720x576][2.0mb]
 https://epg.pw/stream/101fa3564300bf046a3f2d6cdd998e65c5f9a18907ae5b8b516ea78cb8eac37d.ctv
-#EXTINF:-1,江西卫视@@30[1920x1080][4.0mb][geo-limited]
-https://epg.pw/stream/53764874e06c36c205d45a434335f4862fe104fc6252fdfb8ee31fac2f398ec5.ctv
-#EXTINF:-1,海南自贸@@1[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/17e0894c4f8524d8dcccd54b7e16cacfc3afa5f71c84728ea673deac3e85b0c9.m3u8
-#EXTINF:-1,海南文旅@@1[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/1c2b971bc20589b1d5d26d5a997982a5f249832732e2b42cd8a6cb9a8bd2bc05.m3u8
-#EXTINF:-1,海南少儿@@1[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/1ca2636a0fb6b70feefed1e2160ec8ea1106b089ca6b36b10144473bb030282e.m3u8
 #EXTINF:-1,cctv14@@5[1920x1080][hevcxaac]
 https://epg.pw/stream/6cef7d3d168de641b9fa97248d8218d2a9c07e92b96af6a0d921878fe93582a8.ctv
 #EXTINF:-1,足球[1920x1080][h264xac3]
 https://epg.pw/stream/5a4c39e11028d432845a53aef51133d102018dcd83c1a31325a7fc66ccd3113d.ctv
-#EXTINF:-1,游戏风云@@18[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/616c4561fd85795b3955604d825c888f43a3dfa2f008767b2b63c41fb90fd849.m3u8
-#EXTINF:-1,家庭理财@@1[720x576][4.0mb][geo-limited]
-https://epg.pw/stream/44a6b9e0133e3b94bb10bc86e10fc03f4589deab29ea6d0e3f6ee4755118e630.ctv
-#EXTINF:-1,先锋乒羽@@1[720x576][4.0mb][geo-limited]
-https://epg.pw/stream/621e01502b2481504522633f4eebbe41d8729fd5acbe3ec5e6d3dea18c13de6a.ctv
-#EXTINF:-1,卡酷少儿@@2[720x576][2.0mb][geo-limited]
-https://epg.pw/stream/3fcb331f648ef3adc37414e1b27c2a77d6c4308e5b6875d4de055d9a8c018209.ctv
-#EXTINF:-1,凤凰中文@@1[1920x1080][9.0mb][geo-limited]
-https://epg.pw/stream/5ba3dbdeac956f68628f146391478e334a9b8117d40aa7e81fe9f0db508140d8.m3u8
-#EXTINF:-1,游戏风云@@19[720x576][2.0mb][geo-limited]
-https://epg.pw/stream/d2f0a7d4d3a6b8e43253e3cb62bbfb3b245724ef6d72feded699291f5ad62465.m3u8
-#EXTINF:-1,利州综合[1920x1080][4.0mb][geo-limited]
-https://epg.pw/stream/d35fa70639cc0b29c61e9a4eec7ea3a2d2c0029ceefe7057d7173fafa4bc779f.ctv
-#EXTINF:-1,河南卫视@@31[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/50d65108ba3b6e8bae1d53e6fd6e4458e094a22b6e4afc9e2ed0e8398629d710.m3u8
-#EXTINF:-1,东方卫视@@35[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/53f39ebdbb1f56b627681f60ce47fa383e45df7795daed37403af0cc514365dc.m3u8
-#EXTINF:-1,山西卫视@@25[720x576][2.0mb][geo-limited]
-https://epg.pw/stream/65fbe7e9ba0bf091340496f8274881598bcc3a1d2a1ec22dea3ec2ecf312eb55.m3u8
-#EXTINF:-1,广西卫视@@8[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/08ad32ed40231dd087aa1751355dfcd648178ad2e73f25f678f389845e836371.m3u8
-#EXTINF:-1,内蒙古卫视@@20[720x576][3.0mb][geo-limited]
-https://epg.pw/stream/bea98c9a3f833ac1f8b6c6dea4946b74e844f1d9e10369aab0387c174e4f2b0c.m3u8
-#EXTINF:-1,宁夏卫视@@18[720x576][2.0mb][geo-limited]
-https://epg.pw/stream/1fdbc78949ff9e9cd450e7cd2917419661cfdb79d7a0784fbd25ae7a4a929c24.m3u8
-#EXTINF:-1,山东卫视@@36[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/d2fbe51326b36388e966b8b1645c8fef58c342197b57ed745a45cd40fcc8763b.m3u8
-#EXTINF:-1,安徽卫视@@18[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/4c2c313a8d2ebef4ad9b9a71d735b7b2308394f3376b5376fdbe5d77cc5e9719.m3u8
-#EXTINF:-1,陕西卫视@@2[720x576][2.0mb][geo-limited]
-https://epg.pw/stream/b112c2621ba53dd3ef6c71d7014c9ff169d2dda3727b4e944ce6d328bda92cbf.m3u8
-#EXTINF:-1,天津卫视@@9[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/a185cc6dea636e18ee48e35fe3880d89babde9bef7da0fca02347b91a3eb7f16.m3u8
-#EXTINF:-1,江苏卫视@@33[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/4d8a687e3cde92bedaf7b461d97a0693ea210dea9919822c80dff8a05360ffbb.m3u8
-#EXTINF:-1,云南卫视@@27[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/244207c3b2db27ffd2c6006d892845ac17b3f31de91710a0c01674b57b23cba9.m3u8
-#EXTINF:-1,兵团卫视@@19[720x576][3.0mb][geo-limited]
-https://epg.pw/stream/0fafde1a2dcb334e12b7791e4ed1e877fabe6ac07e82a85f4543b4ff0236b30a.m3u8
-#EXTINF:-1,辽宁卫视@@33[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/8ef3046cc5c3bf640b9211e79f3498afa0f828444edcd381aed21c8659ae19f8.m3u8
-#EXTINF:-1,黑龙江卫视@@39[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/2e6ac1beef1745af07fc81ea0147a4d117c9d3e49547f4952253497bf2ef4ce5.m3u8
-#EXTINF:-1,湖南卫视@@32[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/f4d405466faadb38c6a2a46939dc76bfa6a408fbc6081a50a74fc6a1acee159f.m3u8
-#EXTINF:-1,深圳卫视@@28[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/25c2e5a071d816e81dd4cd55793f4bff5632b510dae432a80d64f40e0686f8d3.m3u8
-#EXTINF:-1,甘肃卫视@@27[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/b0a16b704be78af4c5bcaaba202b3ee1b53dbc87d8f56731dfde9b05e5af57c6.m3u8
-#EXTINF:-1,河北卫视@@26[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/2e0ee05baec6bd3eba18e39c6a6c904299420497d72d2ba42a7e0d7782a2f1f4.m3u8
-#EXTINF:-1,新疆卫视@@14[720x576][3.0mb][geo-limited]
-https://epg.pw/stream/76712c2f80eaaae7b0397c0e229eb2d52573e6b62d728fb223c9df36230b6915.m3u8
-#EXTINF:-1,浙江卫视@@50[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/be31d8f5082fe00545024f222615032c9ab22dadcf9701de8b5e75c40e01bab6.m3u8
-#EXTINF:-1,东南卫视@@26[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/8db178343a03284dfd59ea42b23e326617f83a42a26be578d9cf17ff94bf75b2.m3u8
-#EXTINF:-1,广东卫视@@39[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/4327e45f343c03b40eee300590ee844c5b170b22e0890b6762432452d160e2f4.m3u8
-#EXTINF:-1,北京卫视@@30[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/e7edf4670bf4710d2be99f2de68c28f9984373bfd736c5eee413bd3906b611f9.m3u8
-#EXTINF:-1,青海卫视@@27[720x576][2.0mb][geo-limited]
-https://epg.pw/stream/4459d07286b1007b8156ec5f2e3b775c1bf630763ce2c4dfa069fe4f0a82cdb7.m3u8
-#EXTINF:-1,吉林卫视@@24[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/ffe2dc0c9b5978d7cde243cd99bdb228579f01b25a760859eb77552cea476c71.m3u8
-#EXTINF:-1,厦门卫视@@13[720x576][2.0mb][geo-limited]
-https://epg.pw/stream/35f175987c46233eeb1064e9c023500c8df8a34daa03e89182ac95e5efad9a48.m3u8
-#EXTINF:-1,西藏卫视@@28[720x576][3.0mb][geo-limited]
-https://epg.pw/stream/7ddc1dc9a4bf79da6a33226be7048cb961c6f5226ea28b6d6204800a450ba764.m3u8
-#EXTINF:-1,江西卫视@@31[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/2e17b47ed94ef82376d7e19e941c1da7d59aea9955d18247cee6599d9d0f2f05.m3u8
-#EXTINF:-1,金鹰纪实@@22[1920x1080][9.0mb][geo-limited]
-https://epg.pw/stream/dcd09ed03e632b95e3728cd78282c446e5ae01b31f2d6a681db4740882c6eed0.m3u8
-#EXTINF:-1,三沙卫视@@16[720x576][3.0mb][geo-limited]
-https://epg.pw/stream/3baa72041ce4e24024e218cc0388388a551ff04c896360275705509f01a996a1.m3u8
-#EXTINF:-1,四川卫视@@29[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/87c51b7731f01974ee0632d81f3c3ab992f47a3221fb60ee231bdd42e84198a8.m3u8
-#EXTINF:-1,海南卫视@@17[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/f772ceb3463afe752534e133a319b763b10c375dc43f77b364974f8acfb20d5b.m3u8
-#EXTINF:-1,北京纪实@@5[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/00d46fd34f4dd7fda82228457c4f2850748cb61d47d4be5a0f160d0c3dcec923.m3u8
-#EXTINF:-1,贵州卫视@@27[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/24f732c9852fb86d7b5111a2973160f25a7712a05a5a75407e86080bc8fe604c.m3u8
-#EXTINF:-1,湖北卫视@@33[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/db997b3979eff73d5b110c30ac1fe71767a59eca1f76436727580bfc6468af0e.m3u8
-#EXTINF:-1,cctv15@@37[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/1c0653eb4d2d556be72d32c2a6209e13210c35eec838a79bee156d4e898891f1.m3u8
-#EXTINF:-1,cctv17@@16[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/b27672b7c2bb72c9d09950ced9c0962c113015e8d6d3280799ce5c226d7d6bef.m3u8
-#EXTINF:-1,cctv1@@22[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/57eb8c20ab82ee6e2f2036468ffe5bf77c2f33dbc5d7df72c251bdd41940d4f1.m3u8
-#EXTINF:-1,cctv16@@47[3840x2160][13.0mb][geo-limited]
-https://epg.pw/stream/e369ec23db46da6622620e53ed9555c62bce9628b40ef796da1c25574b5d93e0.m3u8
-#EXTINF:-1,cctv11@@36[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/029adc2c37703bebe4ad02b0a314c86451bec72f1d93b8199da9c99f4c54295e.m3u8
-#EXTINF:-1,cctv12@@30[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/fed1414caa3c6695595b9b133a168a5763f4c1d320b10fae2bc6c0d0ca04c382.m3u8
-#EXTINF:-1,cctv13@@32[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/a1968efdac6a00d9b145649a1df4f2f4215882aa467305813824d1953a5b5b33.m3u8
-#EXTINF:-1,cctv9@@26[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/0a9f2c07d9c0781a541a5bf0328e0784834ec73f76f54b26648b44c4a98c5681.m3u8
-#EXTINF:-1,cctv10@@40[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/39f537a054b4146662601497679d930f56e80d80167055f52bb92c6064dcd4bd.m3u8
-#EXTINF:-1,cctv8@@40[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/cc29a0810d2768d82a3946f8921d4219209e9113beab286d86a51c6a79eb8475.m3u8
-#EXTINF:-1,cctv5@@45[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/728dc37a6db461f71c481fa0e057db29c12084efd403825a1991d1a649b3989c.m3u8
-#EXTINF:-1,cctv6@@7[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/466a41732878afdef2dc81d4a751735252b9aa1a51ae0583ea3c770fa711f4bf.m3u8
-#EXTINF:-1,cctv14@@35[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/07a50ec31b384184763b19e4828c4df13516895b4666e855be9fa13a3d184395.m3u8
-#EXTINF:-1,cctv3@@42[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/8a0892619e41ec8a4feb7b20a86cfc97ad9efded8498f70edb1a2df4a20304d1.m3u8
-#EXTINF:-1,cctv7@@32[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/1f19b88dacd4a1fa2d6d15506658522390743f754bdf3928720e55e97bda6b67.m3u8
-#EXTINF:-1,cctv2@@41[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/ca3de5fc64e115bb703e1d560c371434c2429d6af7fd0df07cdeb11f1dba42b9.m3u8
-#EXTINF:-1,cgtn英语@@1[720x576][3.0mb][geo-limited]
-https://epg.pw/stream/7560b15a563225ce417ab0c180342020a19be1787d2c286d348c9b25b85e6cdd.m3u8
-#EXTINF:-1,real disaster channel[1280x720][6.0mb][geo-limited]
-https://epg.pw/stream/8434e7e67d7576f9e297ce4527cd7d80d4a552f292644b5ca3dcf79febcc0572.m3u8
-#EXTINF:-1,mtv flow latino[1280x720][6.0mb][geo-limited]
-https://epg.pw/stream/c3f2aa32ec755cc4a2fb34bb598b9100ea5900c08ed240b3dab1d5a70cb2e8f7.m3u8
 #EXTINF:-1,jetsons[640x480][1.0mb]
 https://epg.pw/stream/81c4bc84036707822c39ae8d89e7d596d0be5c5672eb860371c8130a026c7802.m3u8
 #EXTINF:-1,music@@1[1920x1080][3.0mb]
@@ -697,16 +552,11 @@ https://epg.pw/stream/7f3f544f90e944e0d800fe58cafcf891f298aefd6f50119bd59a60e45c
 https://epg.pw/stream/f0818e2332ac96edd11b20ceb741e93c2e2367559e26584f39054b9ac542f9a7.m3u8
 #EXTINF:-1,ke tv[1920x804][2.0mb]
 https://epg.pw/stream/c78d8d84cde5b4d86e7ba627bfbaf36bc4c62d4bb127ceb6601499a057af3ad6.m3u8
-#EXTINF:-1,al jazeera english@@4[1920x1080][6.0mb][geo-limited]
-https://epg.pw/stream/37315a6a4e0fce5105b4a4aa1cec2f755081f5ab0e446b9d5cbc6dac4c8cc27f.m3u8
+
 #EXTINF:-1,gaza israel 1 2rnews[1920x1080][2.0mb][geo-limited]
 https://epg.pw/stream/2c47da87f6e60c501608b754e42af2f7ed9eb872008462e01dc713d0ab8512f9.m3u8
 #EXTINF:-1,gaza israel 2 inquizex[1920x1080][3.0mb][geo-limited]
 https://epg.pw/stream/904b755e0479657390fb7963686ddd97aabbb4ef39baafed091e181354cb2a09.m3u8
-#EXTINF:-1,tv a critica[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/2aa5ac08b33b73232720545e2aebfbcb4b6ccde78a1b46200ffa84b2d861ee5b.m3u8
-#EXTINF:-1,homefull[1280x720][4.0mb][geo-limited]
-https://epg.pw/stream/f81a629d65086ad232541559f48dee0b0a37fe7ef537dd3ec6465709caa123ff.m3u8
 #EXTINF:-1,河北卫视@@27[1280x720][2.0mb][geo-limited]
 https://epg.pw/stream/269d61756feda86677d3f00b4bed03382c585381751939e04cde01b8f80d50ad.m3u8
 #EXTINF:-1,安徽卫视@@27[1280x720][3.0mb][geo-limited]
@@ -719,8 +569,6 @@ https://epg.pw/stream/5b083124c83e3f2aad69ffb78255d855f56979235612fc9af97f3c20fa
 https://epg.pw/stream/1cad4826fa557382457aadec0f16026360994b82ffae49a51c3b3de47eb96cbf.m3u8
 #EXTINF:-1,深圳卫视@@35[1920x1080][12.0mb][geo-limited]
 https://epg.pw/stream/1c7b834edf2eb13c0672b05c6690bd224928909653a926e20ccd1d7c6cfed188.m3u8
-#EXTINF:-1,东方卫视@@36[1920x1080][14.0mb][geo-limited]
-https://epg.pw/stream/0ca4b78fa06a6cb92692ee1fdb52a9e4b0268e0012e250e79b0d50a231988bbb.m3u8
 #EXTINF:-1,广西卫视@@25[1920x1080][6.0mb][geo-limited]
 https://epg.pw/stream/7c1d8264919dc5357d26c00415e4e3717db647d08bb1e88dce1fcff4bfdc317c.m3u8
 #EXTINF:-1,山西卫视@@26[720x576][3.0mb][geo-limited]
@@ -729,8 +577,6 @@ https://epg.pw/stream/52c6dc52d7f21368b80bbcaf8bcf10190c23e3b11303c8b4fb77495837
 https://epg.pw/stream/7eac0c4e94fec81cdc2de4d8785b3c048e2d5d7a3baad13ec070eed28630042d.m3u8
 #EXTINF:-1,海南卫视@@19[1280x720][3.0mb][geo-limited]
 https://epg.pw/stream/e10ba35ca9bf2a609020d212f031eb43cdce67d9b2ec82b4e7670d3d41f2a148.m3u8
-#EXTINF:-1,云南卫视@@28[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/546158867594e1c9822c432f1938b398058beb815729095cdaddb5c66acddba8.m3u8
 #EXTINF:-1,cctv5+@@38[1920x1080][6.0mb][geo-limited]
 https://epg.pw/stream/7d16f5642aa12685773f479f7f9a02cb97d1c4af7121785e422f82247cb1c2db.m3u8
 #EXTINF:-1,湖南卫视@@35[1920x1080][5.0mb][geo-limited]
@@ -763,8 +609,6 @@ https://epg.pw/stream/2babf333d072492298d10f8c3ca39b756ab565e08f622d8b1bf4718b34
 https://epg.pw/stream/435622a23436990befbee8d058c02a3f9161d98caea96e42aeb3603ddfb82fd2.m3u8
 #EXTINF:-1,cctv11@@37[1920x1080][15.0mb][geo-limited]
 https://epg.pw/stream/bf64c71c58f4cf9ab2b7cafe40f96bb8cefe831d759c2585b0863bcd225b168d.m3u8
-#EXTINF:-1,吉林卫视@@30[1920x1080][aacxh264xh264xh264xh264][geo-limited]
-https://epg.pw/stream/30ff3951bfd6cb7bc18208b81f17891bce15dc2963c4ad2a60b5d414e96b2502.m3u8
 #EXTINF:-1,四川卫视@@30[1920x1080][14.0mb][geo-limited]
 https://epg.pw/stream/d353a87cd64481cc57077dc7e0a248b934088830804130c6235f555729c443f6.m3u8
 #EXTINF:-1,黑龙江卫视@@40[1280x720][8.0mb][geo-limited]
@@ -801,174 +645,23 @@ https://epg.pw/stream/0710ffda192cc004dcf0c44f8d8d29ec3f1a842ece08af2f59921109e9
 https://epg.pw/stream/32135949804777ef3a2e5d832e2c2a87e081f15c29f82f2386720aba254729c0.m3u8
 #EXTINF:-1,cctv13@@30[1920x1080][aacxh264xh264xh264][geo-limited]
 https://epg.pw/stream/c56399bf906d33e8ee29c0ec2b54a2ea5b28c1f4ed6a8f9e574a29dc3d3a5698.m3u8
-#EXTINF:-1,三立新闻台[1920x1080][2.0mb][geo-limited]
-https://epg.pw/stream/043e9ba5a69ed473708efc931ff9b35590d90f03f45bbeabe1899ef448ee59c6.m3u8
 #EXTINF:-1,新疆卫视@@24[720x576][3.0mb][geo-limited]
 https://epg.pw/stream/bc5db9e966b20ece9d816fa30d93d9e7187974050359970293428b31ade008f6.m3u8
-#EXTINF:-1,中天亚洲台[1280x720][2.0mb][geo-limited]
-https://epg.pw/stream/a9d088ac00598b278adc64978f34cc0349face9cbadbd268eda1a42c0c95d6eb.m3u8
-#EXTINF:-1,东森幼幼台@@1[1280x720][1.0mb][geo-limited]
-https://epg.pw/stream/ef8c4b1ef6ca99a60c4bee132e3c082999b4d0d0f5357f1e510278c4bd114334.m3u8
-#EXTINF:-1,幸福空间居家台[1920x1080][2.0mb][geo-limited]
-https://epg.pw/stream/d61dcc867b731e2537641e69a4fa0c9d69897d1d41d376493acdf583973b34f8.m3u8
 #EXTINF:-1,telebärn[1280x720][3.0mb]
 https://epg.pw/stream/58c0d55a245cdd95e47dcfb9318a1f8a47b494e55402e04ba016f2a4c73f6837.m3u8
-#EXTINF:-1,cctv10@@41[1920x1080][9.0mb][geo-limited]
-https://epg.pw/stream/06b09f4275afd6f70b37dd582c58063ae71a090116ae2935b038d1e158547229.m3u8
-#EXTINF:-1,青海卫视@@29[1920x1080][4.0mb][geo-limited]
-https://epg.pw/stream/a501bc0df9181a2d41789abe01dfc3f2d9e81fb9e34e7dfaa935fc8630e0f81e.m3u8
-#EXTINF:-1,东方卫视@@45[1920x1080][12.0mb][geo-limited]
-https://epg.pw/stream/c8984ee249e5de5376d275d92e4a523089969eb2f8fd0ccb9597a0ec6aee5990.m3u8
-#EXTINF:-1,江苏卫视@@35[1920x1080][13.0mb][geo-limited]
-https://epg.pw/stream/f0459bc8151cf285bfd8ef31cad788914c63c04a52653cc5ebccb3c4dd380101.m3u8
-#EXTINF:-1,th ninh bình@@1[1920x1080][2.0mb]
-https://epg.pw/stream/fd39f2fc2f6cec06a3fcbcdc315ea7378eff45e3ee3a39bbe3b60ff40a4db24d.m3u8
-#EXTINF:-1,th bình phước[1280x720][3.0mb]
-https://epg.pw/stream/56669aa78cbc35e80cea18419ebaa2de61dcb04c088d795e7d2bb0e4832031cf.m3u8
-#EXTINF:-1,th hải phòng@@3[1920x1080][3.0mb]
-https://epg.pw/stream/6e7bdf627e1343cafb3fb637278b949d991d8a2fa6d699c7d067202abcb26094.m3u8
 #EXTINF:-1,zing mp3 - acoustic[240x240][0.0mb][geo-limited]
 https://epg.pw/stream/7f7d0c8f42514681f87861e76be85f29b9a5b74837ad61e1f64f4f892492551b.m3u8
-#EXTINF:-1,vtv3[1920x1080][5.0mb][geo-limited]
-https://epg.pw/stream/b857a76fa7315b143a95d267b68e0394186400e7efc188e0981ce4040b680c8a.m3u8
-#EXTINF:-1,opt1@@4[1920x1080][4.0mb]
-https://epg.pw/stream/a86409633e7c9c5c80f5c78f0c7ddae89e323cb413c7174853f919fc63d86c6b.ctv
-#EXTINF:-1,aniplus[1920x1080][5.0mb]
-https://epg.pw/stream/41ca91e711a2c5e9994ff6785028af59ab808a7e85f8eeeefd91c60ba0f9e93a.m3u8
-#EXTINF:-1,aniplus@@1[1280x720][1.0mb][geo-limited]
-https://epg.pw/stream/5d4af536aed11395ad2d7562580faad93c1bfbee340cf4da56878d4ce1c819f9.ctv
-#EXTINF:-1,glory kickboxing[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/15c0813d56fd2a7e9cc5d4b2a6ae56684404d24a8890f97dab3fab2d99505977.m3u8
-#EXTINF:-1,新闻综合@@2[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/be5ce7d687ea1aba7bab0e0bcab040d830a3a0ebc2808f230df3d2c522af1c58.m3u8
-#EXTINF:-1,东方卫视@@46[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/a36293d39d193a1c4d6619c22ed8d27928b5ca3cd7a382eee051fc3248dfad67.m3u8
-#EXTINF:-1,上海ics外语@@2[1920x1080][4.0mb][geo-limited]
-https://epg.pw/stream/5288af9218a0518b7b5fe4c363ec16d0b727f6fe62e63570780dc6651d3b74ea.m3u8
-#EXTINF:-1,上海ics外语@@3[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/9bad4789ab52dd9a1b486a7ec687f7b421eb6af3757d58507e4e7660eab9765b.m3u8
-#EXTINF:-1,第一财经@@3[1920x1080][4.0mb][geo-limited]
-https://epg.pw/stream/6aed2eee91097517458d563f731dd66d2260c3714434ecd59906d8a6ae9e37bb.m3u8
-#EXTINF:-1,都市剧场@@13[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/bd0c403350a3dc8ed0e1a29162c4c26395aa70905bfbef7ab56f26cceed89920.m3u8
-#EXTINF:-1,新闻综合@@5[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/0bbcc629d429d04676e836e70f6e1c21278ce3737c3ea17731b13ba3e6f9de32.m3u8
-#EXTINF:-1,东方卫视@@48[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/7a7c1c1734f5b892aa0efa412d0090d6ed28decda3919967970c61cdcced7d37.m3u8
-#EXTINF:-1,乐游@@9[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/284fb45cd54f55410375b419acaecab1b9aedf66e10fc45671258d630574900a.m3u8
-#EXTINF:-1,法治天地@@4[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/70a48d9b0aa9a7ea501974d6c5c975975b216047f6a1f431bea72fa2118f129a.m3u8
-#EXTINF:-1,纪实人文[1920x1080][5.0mb][geo-limited]
-https://epg.pw/stream/1cf98a92573659b43694da1fbb747670f224f73e69fa3848ebfe8f5807a89ade.m3u8
-#EXTINF:-1,七彩戏剧@@4[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/e42687d1278f6f0219043ce09d886f693ee62ce27df746c08369cdd75527335c.m3u8
-#EXTINF:-1,东方财经@@8[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/2e1b2a9d6d7d5d50ffbb875104c7781f2ec60afdb49eb61c2dea94926e48a483.m3u8
-#EXTINF:-1,东方财经@@11[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/685649dc9ed62fa31787320854ab3506c6c04a88c61e476270b91af3df6ebe24.m3u8
-#EXTINF:-1,cctv4k@@17[3840x2160][12.0mb][geo-limited]
-https://epg.pw/stream/8bbc9044471a624ead565b9b06df9a8ff80dc3e7f62a21862d4b5fdf53182dc8.m3u8
-#EXTINF:-1,上海都市@@16[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/08add6c1d75abd661dfce817f352d35519c72f35df5a53fd9d03317e03fed1d6.m3u8
-#EXTINF:-1,咪咕精彩足球@@1[1920x1080][9.0mb][geo-limited]
-https://epg.pw/stream/76a96e4488e5f71933ed3aac7db6af5911d591977f38327c9f3bf9c993cbaffe.m3u8
-#EXTINF:-1,咪咕精彩足球@@2[1920x1080][9.0mb][geo-limited]
-https://epg.pw/stream/46ce82073fce2402e5e4acce73c1f7200c5b471f9e0b96cd93a55be8f1da0a93.m3u8
 #EXTINF:-1,新闻综合@@6[1920x1080][7.0mb]
 https://epg.pw/stream/44486131db7f3bfb6fe96d0da63beed8cf55d256b370ea9d4c0d0644c7f7dcaa.m3u8
-#EXTINF:-1,cctv5@@61[1920x1080][10.0mb][geo-limited]
-https://epg.pw/stream/0eabe8ad32f103e35f9e09ade641564d2e692f720fc2f7aabf3a0654f6d20cff.m3u8
-#EXTINF:-1,cctv13@@36[1920x1080][9.0mb][geo-limited]
-https://epg.pw/stream/0655b2fdf9a569af228343e37793939ba781f09ae4495dc5c08af6fbd744d671.m3u8
-#EXTINF:-1,cctv6@@44[720x576][2.0mb][geo-limited]
-https://epg.pw/stream/91d3d747eb3bb8b75cbe1d6cc50e521595459bf0adf0be84acb1e5cfb1d16728.m3u8
-#EXTINF:-1,cctv5@@62[1920x1080][4.0mb][geo-limited]
-https://epg.pw/stream/75f873cced1284b924e5b9803e3ee32c0aeea759773a59e83ddbb7040a2330a6.m3u8
-#EXTINF:-1,安徽卫视@@36[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/38727bf256767177209c8b56a4a8becfef113dccbd501602a211c71d193338c9.m3u8
-#EXTINF:-1,cetv4@@1[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/91946ed9987bedc9c6f4b72a26bf7d9bf5ee8a7a83a35cd7a2e09ea6f1fb3104.m3u8
-#EXTINF:-1,cetv1@@6[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/8d34e6e71dfaf4a1e5290b293fcd0187dbb081dba5f2cffe6fdad934adc2d07d.m3u8
-#EXTINF:-1,海南卫视@@21[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/59a872e4141a686fdf3ffb0f3d287cb646d5468708efb72630adef71f4c063c1.m3u8
-#EXTINF:-1,广西卫视@@26[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/7811dd557b481cb2ad2a9f832e1dfc4cb98208e769fb407a299690791f790736.m3u8
-#EXTINF:-1,广东卫视@@41[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/4a07e5765aafc0849b16313639aef9a642c560ebd0d5f509099c7c0cb92072c8.m3u8
-#EXTINF:-1,湖北卫视@@35[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/68f6112b1ebade09cf5d3070e2dc54d6a1bba02a62fcc6028fe93f5672bf4bed.m3u8
-#EXTINF:-1,cctv7@@36[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/f84015c5aa2c6a79b304745438886625b91706c8041b72a16a6c8cb22f4e6bf6.m3u8
-#EXTINF:-1,cctv5+@@42[1920x1080][9.0mb][geo-limited]
-https://epg.pw/stream/903591ffbedc17743dfb152412680585e19b72a3c169f38aff10a11f2a293fe1.m3u8
-#EXTINF:-1,吉林卫视@@32[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/10ca343150b6477395ea18961e4eb41c5d65130c6a423e250df13bba363054f4.m3u8
-#EXTINF:-1,辽宁卫视@@35[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/d4c07aed0622409c462eb7fbadd437df28f813b1e9fa9279f2e8b96e917b2e83.m3u8
-#EXTINF:-1,cetv4@@2[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/6741ac637f929e663aae1f69112c68b882932be76b99a6bd3f4e17b72f8b547e.m3u8
-#EXTINF:-1,重庆卫视@@25[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/6f74018259e10fefe04bb9f232dcd1ca9226176d5ac12c89146adbb341e14da7.m3u8
-#EXTINF:-1,江西卫视@@36[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/87fbac7b28812851b052c20431a7c93920e79df38b1ba4b02d9803abb4c8f0db.m3u8
-#EXTINF:-1,河南卫视@@33[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/89c4b78060edb1b1aeab31709be065569e5021ca1bd783877e3544edcaba7ee4.m3u8
-#EXTINF:-1,超级电视剧[1920x1080][5.0mb][geo-limited]
-https://epg.pw/stream/b43daeab12fd36e512e81fbd1b5b7f914d41f01c11124a57d4307cc14c98dc5d.m3u8
-#EXTINF:-1,超级综艺@@1[1920x1080][4.0mb][geo-limited]
-https://epg.pw/stream/e9302f9dbe065fd9d666ffe7c3e258a7ef8c4c459a93d7764da7c0431a5dbbbc.m3u8
-#EXTINF:-1,怡伴健康@@1[1920x1080][5.0mb][geo-limited]
-https://epg.pw/stream/23b9f18ab9eabb6e69d907740e35872d8cd9431052196dbb5862b186ea707584.m3u8
-#EXTINF:-1,超级综艺@@2[1920x1080][4.0mb][geo-limited]
-https://epg.pw/stream/ae316373a6b3aebd4ea0a83319007ca2af5bd09ce452df63330f78dbd4f27dcd.m3u8
-#EXTINF:-1,newtv超级体育@@1[1920x1080][4.0mb][geo-limited]
-https://epg.pw/stream/7ac145fac6fc014139bdf406dd06f84eca22d725df09e6a388dc910bbd482f45.m3u8
-#EXTINF:-1,新疆汉语信息[1280x720][h264xaac]
-https://epg.pw/stream/6117f6aab1f4205506abda3de1d813191abd62a3907a36f836da245a73ea63eb.ctv
-#EXTINF:-1,新疆哈语综艺[1280x720][h264xaac]
-https://epg.pw/stream/5e8e1275ce634f83f47d1714eb8350b76d76d8b66c75b8753e7a8d56e0f3e3b0.ctv
-#EXTINF:-1,新疆少儿[1280x720][1.0mb]
-https://epg.pw/stream/9cd7cf671effbaa77f035d64766043626d6d82d5df706107e6bb76b640747d07.ctv
-#EXTINF:-1,新疆汉语经济[1280x720][h264xaac]
-https://epg.pw/stream/02413537c7eb03615bdedaff45cc0aa8155598e8efa529a608e9e67fe82a964b.ctv
-#EXTINF:-1,新疆体育健康[1280x720][1.0mb]
-https://epg.pw/stream/4514be6aaa87ac9a675e2fd5462c561651cfd4092fff5255ff1452ee1d130048.ctv
-#EXTINF:-1,ช่อง 猫和老鼠[1280x720][2.0mb][geo-limited]
-https://epg.pw/stream/9ce8cef8e214b45bf1d7af177489bba1ecefdd9b9d800b0aeecfd17f0443f3ec.ctv
 #EXTINF:-1,ช่อง weathernews[1280x720][1.0mb]
 https://epg.pw/stream/443d555a1303d82424886987126b174cf90f17ac067835bff79e386dcc2833b8.m3u8
-#EXTINF:-1,ช่อง thrill[1920x1080][5.0mb]
-https://epg.pw/stream/5bc3884464d7141f50c953ae48f9e9f85d73771e501b32b36fa802baa11c91b6.m3u8
-#EXTINF:-1,ช่อง gem@@1[1920x1080][7.0mb]
-https://epg.pw/stream/9e8250cf6671455f7697f0e9073e914eda68968cea79b4581cc6f179f6c22dda.m3u8
-#EXTINF:-1,ช่อง celestial classic movies[1920x1080][5.0mb]
-https://epg.pw/stream/1f028d42bc39f305ce48e88cc9e53bf2b1aed8cd368ed87cd9470bc93721537d.m3u8
-#EXTINF:-1,ช่อง celestial movies@@1[1280x720][2.0mb][geo-limited]
-https://epg.pw/stream/caa985405d7bf72a16c62b36032429af5f0f756ff15f8331948449a87c378bef.m3u8
-#EXTINF:-1,cctv7@@37[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/bce880691930d766a4ef4d8a25c45c25e433aa7afbd387411944687e675c1c18.m3u8
-#EXTINF:-1,cctv12@@34[1920x1080][7.0mb][geo-limited]
-https://epg.pw/stream/8d5d262410bc3546e8dbcb2effe74d9bdf2b87b037ba0514ab969f92c324f0be.m3u8
-#EXTINF:-1,cctv9@@40[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/e1eb03091964a688738cf19e98fdc2e4c234c4853d055d11e83acd990723ca52.m3u8
-#EXTINF:-1,凤凰资讯@@2[1280x720][1.0mb][geo-limited]
-https://epg.pw/stream/687ae839a0d84d1c2d3098229e376c4d4cf1cb2dfc1ab28fba4195d27bc6f589.m3u8
+
 #EXTINF:-1,翡翠台@@4[1920x1080][5.0mb][geo-limited]
 https://epg.pw/stream/b43f94b33e3f2222a12195487519c698c65d7c2d50bc627205f24e20919c6fe2.ctv
-#EXTINF:-1,风云音乐@@3[1920x1080][3.0mb][geo-limited]
-https://epg.pw/stream/caabedaab4b79b69e4a09e8549d059ba0fc0631bd1582383e1d3af80c4c96509.m3u8
-#EXTINF:-1,cctv5+@@32[1920x1080][8.0mb]
-https://epg.pw/stream/32011df21ee5fa29a8034eed078ab5dc3e6a791e751f27c4b9849bb5a5dccb06.ctv
-#EXTINF:-1,cctv5+@@43[1920x1080][6.0mb]
-https://epg.pw/stream/18bfe9352f8e760428496e7f4206ad2cce20be2be1d71c8e75edd35929e5379b.ctv
 #EXTINF:-1,发现之旅@@3[720x576][h264xaac]
 https://epg.pw/stream/3031bf6dfc02384984e1c8e33201ca46f7faee507dad7bee669088be8b84db70.m3u8
 #EXTINF:-1,求索动物“ tvg-logo=[1920x1080][4.0mb]
 https://epg.pw/stream/85abab4b1b52b96ee01055ef9533110037656c0d107d53df07f0a847e53686f3.ctv
-#EXTINF:-1,bloombergtv[1920x1080][4.0mb][geo-limited]
-https://epg.pw/stream/0832127bccd3dd68750257558bcb4faa8cdfa316bffa878857dfbb07c5bcb955.m3u8
 #EXTINF:-1,云南娱乐@@1[1920x1080][4.0mb][geo-limited]
 https://epg.pw/stream/1dd432153a368680faa9071bb0bebe3025847f07436cff4c960c4421aab1a632.m3u8
 #EXTINF:-1,云南都市@@1[1920x1080][4.0mb][geo-limited]
@@ -985,10 +678,6 @@ https://epg.pw/stream/62946506d2e5228ebe5e26999265fe14b1267545d3ca9223a066f9c630
 https://epg.pw/stream/2f9cf8c6b963c08244226ab4a32f6a5e6131c0e70302a9a11f57c0464f53679b.m3u8
 #EXTINF:-1,delta tv@@1[1920x1080][2.0mb][geo-limited]
 https://epg.pw/stream/2d1d72a1604d608ce7c9455fdab7b1a43a26ce54abe235b1790a73f887ff77e6.m3u8
-#EXTINF:-1,on music hd[1920x1080][][geo-limited]
-https://epg.pw/stream/905bafbfca524f6a9d17a666a2738c54462c90ecd75d8acc9e0cafd9d73f33cb.ctv
-#EXTINF:-1,on o2tv hd[1920x1080][][geo-limited]
-https://epg.pw/stream/b7f1b9e814706149407a0e97b4f75f6c3485a724764a1d22d32fae084c31b051.ctv
 #EXTINF:-1,rudaw tv[1920x1080][]
 https://epg.pw/stream/220d1a855c9f6356eb10d8b7568a291f209d76dfa2ebeb46e32fbd214ccfe19d.m3u8
 #EXTINF:-1,music[1920x1080][]
@@ -1007,12 +696,8 @@ https://epg.pw/stream/13808240c29c7fb702822be82b8d3c1ee7af91f3f2293e0560ea2542b4
 https://epg.pw/stream/2132b7663de037786266cb8836020decbd04866e4c5008c27475f816d6a5ca7c.m3u8
 #EXTINF:-1,bailén tv[1280x720][4.0mb][geo-limited]
 https://epg.pw/stream/d322acd57da55d7506d5f0e8613169687b86e1cfc0b572a281bed1642a48950e.m3u8
-#EXTINF:-1,santa monica city tv 20[480x360][1.0mb]
-https://epg.pw/stream/ae8c6719e193744169ba6fe072db5a3d3761c7e3832638c1aff629e430daf8af.m3u8
 #EXTINF:-1,afriwood series[1280x720][4.0mb]
 https://epg.pw/stream/33e3050def8f98efe613586bea8967fa38ace5e1bd1e3304e3bd0f068bb3b969.m3u8
-#EXTINF:-1,mbc gangwon[1920x1080][3.0mb]
-https://epg.pw/stream/0cca7d6165c7bb4aba1a6edc4071c49d54799a5d9b9688abedeb0da5f86d7d17.m3u8
 #EXTINF:-1,телеканал 86[1920x1080][7.0mb]
 https://epg.pw/stream/58dc155754439258a544804f5e0acfdbcb6bf001df09763f18f2e2067af89659.m3u8
 #EXTINF:-1,neo tv[1280x720][2.0mb]
@@ -1037,86 +722,46 @@ https://epg.pw/stream/a656c72c491a62f57cfa804ce206f3340de286c3dd9a38af94472f6db0
 https://epg.pw/stream/56451946f067ff6b7f3be23156db3a0778aeb08e040324996464f33569d9e91c.m3u8
 #EXTINF:-1,авто плюс[768x576][1.0mb]
 https://epg.pw/stream/bf386e7220ddd0926524d35c0a27c082562b76610c6f5b71212ddfb195f4d7ca.m3u8
-#EXTINF:-1,мир[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/20c99089b0bf70d15ff37ae420a30cf8e163bdb5b02e6ffb14d701752b6b67ef.m3u8
 #EXTINF:-1,hd life[1280x720][2.0mb]
 https://epg.pw/stream/777828b1c60c32f15ab15c1356776c4716f42d58d450f291897e70937f3d2493.m3u8
-#EXTINF:-1,че![720x576][3.0mb]
-https://epg.pw/stream/efd84f788b7465ed335bcd3977556c42bbfd8812a39b879485740ad833407b36.m3u8
 #EXTINF:-1,индийское кино[720x576][1.0mb]
 https://epg.pw/stream/1f798460f6d292055b19aee5e85685f8c649141b1b566d60d57b8ea46eff4e23.m3u8
-#EXTINF:-1,դար21[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/0eb34d1448269a7ce2e6b20fefa390a8620380cd99c74c7056931684b20b5df8.m3u8
 #EXTINF:-1,домашний[720x576][1.0mb]
 https://epg.pw/stream/b8578d85657f267154f409fc9f6fa76144f7331d219c7598352174bdca7b8a65.m3u8
 #EXTINF:-1,киноужас[720x576][2.0mb]
 https://epg.pw/stream/9acf585431bb5b062a202dd29234d4dd1d119f74cf02cad1d465805ba2bba1c1.m3u8
-#EXTINF:-1,արմենիա[1920x1080][12.0mb][geo-limited]
-https://epg.pw/stream/1f5227efaf08f455f71d0e63b65613d853c9772fda89a5768cac1aa73bff018a.m3u8
-#EXTINF:-1,россия 24@@1[736x592][3.0mb]
-https://epg.pw/stream/e01f27f63cfac6d28bcb23c46d7c5d70fcb553ff989b4679831edcf093dad65c.m3u8
-#EXTINF:-1,5 թիվի[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/6469c3b4cc795753870973327ed30a934fe020decd412d6bde63fdb3c353feb1.m3u8
-#EXTINF:-1,тнт4@@1[720x576][3.0mb]
-https://epg.pw/stream/5bad4ff7f3162521627fd43d93aebb9c9c29c0c65dfba22b73832a7326616266.m3u8
-#EXTINF:-1,rai 1[854x480][4.0mb][geo-limited]
-https://epg.pw/stream/f2a5389112981d2d0ce02b6faeb62d858b5ede440174f5de2b83396facc118bb.m3u8
 #EXTINF:-1,кто есть кто[720x576][2.0mb]
 https://epg.pw/stream/ce4a60c422793f27a56cfbc7f99ded7a516c96833cde6a01c12362fce8a3fa82.m3u8
-#EXTINF:-1,արմենիա 1 պրեմիում[1920x1080][10.0mb][geo-limited]
-https://epg.pw/stream/0d0b472d5226d44c4f27303255951d7cc7a6b612a54bcfe47c592801930ef464.m3u8
-#EXTINF:-1,твц[720x576][3.0mb]
-https://epg.pw/stream/fb041c1cd4f8e858fb419400596b3aa911e240f8c81be596d3f2269195a8ff1c.m3u8
 #EXTINF:-1,da vinci[720x576][1.0mb]
 https://epg.pw/stream/54beda3c108d20c64210abcc1d4364558e044cfe696fd3c13e4a7b38fe38d7fe.m3u8
-#EXTINF:-1,стс[854x480][4.0mb][geo-limited]
-https://epg.pw/stream/b8c12584cdffa08b541df033a67ea4d76e216fc10e91815713bbe67583cea949.m3u8
 #EXTINF:-1,санкт петербург[1920x1080][15.0mb][geo-limited]
 https://epg.pw/stream/ba7ae90a8ac61c36ca6b5b9fe2ff4cf8409493b4529da7c97e7e58e857a57de4.m3u8
 #EXTINF:-1,первый канал[720x576][2.0mb]
 https://epg.pw/stream/2b0700627f543b3eb17bbcdbd00768613c4df65a9aec90bedb561dcf989d07d4.m3u8
 #EXTINF:-1,индия[720x576][2.0mb]
 https://epg.pw/stream/5ebc7abfea890c86cfbfaafb4fe690d2ae9ae97ae4396b5f967c636c00bc4c10.m3u8
-#EXTINF:-1,муз тв[720x576][3.0mb]
-https://epg.pw/stream/2e2ab4be17730840737cde8f26147e96b6fc48fd60d33fd380837d26f8bd9d78.m3u8
 #EXTINF:-1,tv1000 русское кино[768x576][1.0mb]
 https://epg.pw/stream/2ae2c2d9e6e61e6c8a13dee491b7b5cd4a4d5bb6d1b82ec1c0d209fd468791fd.m3u8
 #EXTINF:-1,vip family[768x576][1.0mb]
 https://epg.pw/stream/bcc8f4ed6f47e971e4ccc1b0f08948504238aaa127d9d3bf0a9e2a51b39aa907.m3u8
 #EXTINF:-1,bf1[960x540][2.0mb]
 https://epg.pw/stream/b098a18d0f39e037b8cf50900cf57790889cf6c79e9b17dd741db903f3c6ad59.m3u8
-#EXTINF:-1,приключения[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/e9b079c6d6369212a46efbed9699b6a5d546e498daa5c97dc6455d95d3999d13.m3u8
-#EXTINF:-1,tiji[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/86db8748cb25e42c0e52e268b0d08f88fb3640422386f057ab2b178be232474a.m3u8
-#EXTINF:-1,5 թիվի պլյուս[854x480][4.0mb][geo-limited]
-https://epg.pw/stream/95366d53da89537d07ff6a47d65c00d6085d2ae9f5d3d4161e21c6efe8f177c8.m3u8
 #EXTINF:-1,тнт music[1280x720][4.0mb]
 https://epg.pw/stream/6a6d0482a20e74b8789bd3d3a27215c91a64e73285a131124094e85199df1776.m3u8
 #EXTINF:-1,music tv[1920x1080][5.0mb]
 https://epg.pw/stream/5e924182fcf64ed20bf53c9b7b603ca50e3c671d9c9163557ec3a5d545d159b1.m3u8
-#EXTINF:-1,տունտունիկ[854x480][4.0mb][geo-limited]
-https://epg.pw/stream/9b45dc5ee5e193a94c9897e2f4cb14d5525f3b2d5345e2fb20d1ebceeb60adae.m3u8
 #EXTINF:-1,viasat history[720x576][1.0mb]
 https://epg.pw/stream/93d39d9807b053ed4f86b2c104b9037a73969a51f13de9198acfb1adab8e3368.m3u8
 #EXTINF:-1,egrisi tv[720x576][3.0mb]
 https://epg.pw/stream/7d5e7e7f841c00a1587456cb6991804451993aaa2e45a5942c6350891ac7c1a7.m3u8
-#EXTINF:-1,հ1[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/c1c6d0bd99eb11a8ea1656e1269f9db717dd4bc6659836d86aab796a8a605b1e.m3u8
 #EXTINF:-1,твц@@1[1600x1058][0.0mb]
 https://epg.pw/stream/a53671636c0961f0589977e1424d9418cacf7e44a8ac56893bd3919939c3ed6b.m3u8
 #EXTINF:-1,мир@@1[720x576][1.0mb]
 https://epg.pw/stream/98e9d087ead2e13961fcf8d1a81f0c763659c5aca703e13d5cd8420ff7ab26b3.m3u8
 #EXTINF:-1,ртр планета азия[1024x576][4.0mb][geo-limited]
 https://epg.pw/stream/b15669f861a4c639a4440f4fd128712b2c8a9aecdb07a2c86fb425ab8a67f813.m3u8
-#EXTINF:-1,детский мир[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/c942642917fcb17bf2c3eff34b4c56a61cbff4855cc9eaa9da2760343179bd98.m3u8
 #EXTINF:-1,пятница[768x576][1.0mb]
 https://epg.pw/stream/2645018bb8bc02931232537a7fe14cf0e9dae0b73cca866675e3e643ba8cc435.m3u8
-#EXTINF:-1,россия ртр[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/e9ccbde609c0944967a5d09616231e7016e38af5524e7ac56b7eb809c8e7354c.m3u8
-#EXTINF:-1,bolt[720x576][3.0mb]
-https://epg.pw/stream/604db51a3b2eb007e5977f2c67826283d40a002cc9187ec0537f230445147ea0.m3u8
 #EXTINF:-1,соловьев live[1920x1080][14.0mb][geo-limited]
 https://epg.pw/stream/f7f3cf8aa4c7b0ee8ae98ad9d72289c995bab1a682bc4486dfca7983148b2b1f.m3u8
 #EXTINF:-1,ртр планета снг[1024x576][4.0mb][geo-limited]
@@ -1127,8 +772,6 @@ https://epg.pw/stream/9c687ba3effe3172b6815dc61cbbc518ed0962b6cadf2ce578a10a3628
 https://epg.pw/stream/f11d2bd18e939c7c01b935c79d93aee01c1b6918ab70c02233b788b3bdf96720.m3u8
 #EXTINF:-1,радио маяк[720x576][3.0mb][geo-limited]
 https://epg.pw/stream/6f3c26d01959b667885e82991b1e7d5861a71b9b2053a4c9d679d4e5df4e1045.m3u8
-#EXTINF:-1,viju nature@@1[720x576][3.0mb]
-https://epg.pw/stream/29e48d637c87bdabf04a50eb00cc3c7a1080c68183120ac3760bedbe9a8fb494.m3u8
 #EXTINF:-1,рен тв[720x576][2.0mb]
 https://epg.pw/stream/f3e572e6c167b5a1872357daeae1abecf703b0d8ee4acb6e1bed301a2d48957b.m3u8
 #EXTINF:-1,оружие[768x576][1.0mb]
@@ -1139,8 +782,6 @@ https://epg.pw/stream/24e59629fe52de8bd7ba795bcd6007a81405e50ee888da7519013fdeee
 https://epg.pw/stream/42c953066709baa7f3270a6d07eeb31ab3fdae04309b73712b5fbecf4b6a2564.m3u8
 #EXTINF:-1,бокс тв[720x576][2.0mb]
 https://epg.pw/stream/e176eedfa436a2a3197959ed45a983b2973da0dadab3c692ec0c84483af76b43.m3u8
-#EXTINF:-1,viju history@@1[720x576][3.0mb]
-https://epg.pw/stream/cb9463e6c7dc492f937ca47bab8b681ddbeaa310cee1650b94e815683b000138.m3u8
 #EXTINF:-1,viasat sport[720x576][1.0mb]
 https://epg.pw/stream/d07d4e4656aad3d093a8d108892302603a8c1b77e9a039d767a0d07de1d45894.m3u8
 #EXTINF:-1,ртр планета евро[1024x576][4.0mb][geo-limited]
@@ -1153,56 +794,28 @@ https://epg.pw/stream/ea55f8fd225b17d560101edabb104c1417cb39d455efeee05e9d78cfc7
 https://epg.pw/stream/5ca5708d61a5866e36f68392ad83edb4968be4bb5c229e4328ba55b797e15318.m3u8
 #EXTINF:-1,лентв 24[1920x1080][15.0mb][geo-limited]
 https://epg.pw/stream/568c38b26095ee200ea8af595d7bdde7ff3d6360b47759b64f65ad20dd7d465f.m3u8
-#EXTINF:-1,русский иллюзион[720x576][3.0mb]
-https://epg.pw/stream/299557795822ad31397b8299944efe83b976ad595beb52e04ecfbcd850c5b321.m3u8
 #EXTINF:-1,кухня тв[720x576][2.0mb]
 https://epg.pw/stream/cf5d043153086ec34f884c3a1372ed8075ff6eb2a5743612b30affdef36c6bb3.m3u8
 #EXTINF:-1,stereoplus[768x576][1.0mb]
 https://epg.pw/stream/eeedb3df2f3b62b355be58480eff2d8ae7e9e134652e849b0a0e757166a3a41c.m3u8
-#EXTINF:-1,bbc world news[854x480][2.0mb][geo-limited]
-https://epg.pw/stream/ccb2ae4de52c80d7e0c4e2202fdb4eefc9aa6306a347ea8e0fd3d4b5b985251a.m3u8
 #EXTINF:-1,viasat explore[720x576][1.0mb]
 https://epg.pw/stream/1e51dd673d28edbda147888a5067140d4d09264ecfdaee8c6ec2339476bc1f77.m3u8
 #EXTINF:-1,365 дней тв[768x576][1.0mb]
 https://epg.pw/stream/f7c99d1e1b4f2ffc3adc3f190efc5ff03fb2447b38dcf598db0ac8f7b6b71a58.m3u8
 #EXTINF:-1,уникум[720x576][1.0mb]
 https://epg.pw/stream/59f43ab4ff33c3e85e63281c998165a0a896ff264d7ae5c765e698ffe03ccfbc.m3u8
-#EXTINF:-1,viju sport@@1[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/a7c389404a1e6246cc208d1eb179dbac9e207d54af0a5020fec0314e735abee7.m3u8
-#EXTINF:-1,рбк@@1[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/a61a4e209026e6acae4d37b7961cbbf984211ade089bafa42189057f429006a8.m3u8
 #EXTINF:-1,иллюзион+[768x576][1.0mb]
 https://epg.pw/stream/b75f00ff1ccad3a97445fa973787d49e898ba6a3a212e95ad1cd5b8d425c3817.m3u8
-#EXTINF:-1,мама[720x576][3.0mb]
-https://epg.pw/stream/c7471b418aadb9fdf830b6330eafb7a64d1c8be3fbffd044ced26997c01f9ebb.m3u8
 #EXTINF:-1,тнт[1280x720][4.0mb]
 https://epg.pw/stream/141b217e6a9add51a91cc00d05fed42a4e4ea1c04861fc295f38190f75eee223.m3u8
-#EXTINF:-1,abkhaz[1920x1080][3.0mb]
-https://epg.pw/stream/126f5c809eaaa0e1c1e30b3682b219a55a068e8d000ab5510849829d894ce621.m3u8
 #EXTINF:-1,24 техно[720x576][1.0mb]
 https://epg.pw/stream/d9f9864ab52ebf3aac897dd9a960592fac39a7835ece77dc06bd8daf307a1385.m3u8
-#EXTINF:-1,космический[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/d6df8bb02ea4418cc00bf67066f9c421efea528517b38f02e3664da02cc044b2.m3u8
 #EXTINF:-1,москва 24[1024x576][4.0mb][geo-limited]
 https://epg.pw/stream/8c4fa828bf161a054c9514701df2862c72b78ea0eeebd90aed65ccd93eb14f0e.m3u8
 #EXTINF:-1,amedia premium@@1[1280x720][3.0mb]
 https://epg.pw/stream/a0d88b19947e75228d8538332544dfa6f88e2489e1ea80beb3be90bb7ac6378e.m3u8
-#EXTINF:-1,լավֆհաք[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/d1a20dcf96214d3b09da14abde70609c237c266080e336f3093169243e029a39.m3u8
-#EXTINF:-1,viju explore@@1[720x576][3.0mb]
-https://epg.pw/stream/9f89a4a702d4fac356c137f17b2f529469ae6f88b613c1aa03b80bd9c80dba1c.m3u8
-#EXTINF:-1,արմենիա-հայկինո[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/1992c2d2b52632feed334e5f5290325ffd5ef2b1723c069e1a5de78d486bde95.m3u8
-#EXTINF:-1,тнт4@@2[854x480][4.0mb][geo-limited]
-https://epg.pw/stream/0403ee0d622e106d71cf1f4ebc023338e218421d60ca6e32bc025629f24d4d39.m3u8
-#EXTINF:-1,телекафе[854x480][4.0mb][geo-limited]
-https://epg.pw/stream/6cf7c5999573434947b1d8942830a8cda2b5ce44acdf0ff102afc05795c563df.m3u8
 #EXTINF:-1,мужское кино[768x576][1.0mb]
 https://epg.pw/stream/eb1a083e322b76688d14aceb05506477f275fd0090688744e0fdcba85c46f3f9.m3u8
-#EXTINF:-1,тнт@@1[720x576][3.0mb]
-https://epg.pw/stream/e126533ac4ce386607310859906fa5c7433395a9d91cd8093bb6e53fb00c8cc0.m3u8
-#EXTINF:-1,ru tv[720x576][3.0mb]
-https://epg.pw/stream/6daa458dea4c1be0cb0beb175fd87d895d6190d779c5a346b0f128be04f6e83c.m3u8
 #EXTINF:-1,зоопарк[704x576][1.0mb]
 https://epg.pw/stream/e4bdd3070630d6727c56757c64708ef6d30d3877dd37bc7f3da49127f654882b.m3u8
 #EXTINF:-1,ртр планета[1024x576][3.0mb][geo-limited]
@@ -1213,38 +826,22 @@ https://epg.pw/stream/db179b48157dfa0cd2430c51be6dba5c047db1ca5d5ce9e301fdbd9bc7
 https://epg.pw/stream/676c6e230c35e66f699b116f20ba148dfb22568c8235aabbc2c989bd7b600818.m3u8
 #EXTINF:-1,моя планета[720x576][3.0mb]
 https://epg.pw/stream/29539a11d23a8ad18f5d12e67521089003836020f334d663a9aeaa8834d9fae8.m3u8
-#EXTINF:-1,россия к[720x576][0.0mb]
-https://epg.pw/stream/f8c49bd0248963647aa208f259a479eef142524bb476011ea047250cd651295e.m3u8
 #EXTINF:-1,პირველი არხი[1280x720][3.0mb]
 https://epg.pw/stream/b85d7f043a1acd74c84de3043efba8a341ae29598f4a2017df86482d1ad24bcc.m3u8
-#EXTINF:-1,cbc[720x576][3.0mb]
-https://epg.pw/stream/24e6ecd24abff035a59400abf33771169c9cab53cc172a7894a2aeb428f33d1c.m3u8
 #EXTINF:-1,gds[768x576][1.0mb]
 https://epg.pw/stream/cdda81af69c2efc870f1e0993933360c2c8fa78dbd5bb248c79f2ea3939117d5.m3u8
 #EXTINF:-1,радио россии[1280x720][7.0mb][geo-limited]
 https://epg.pw/stream/3b7296234a85672d20c18e1ae28d5adb6f716901515f907f08f5ed4b88597223.m3u8
-#EXTINF:-1,киноужас@@1[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/3d25f354da66c9789204098f1b99d5fa6902da78e9448233030725e481165679.m3u8
-#EXTINF:-1,viju+ sport[720x576][3.0mb]
-https://epg.pw/stream/0df5e48b2febc3f54e0bacdfcce9a805a71140b957cf9dac0c3a770a780fa1b0.m3u8
 #EXTINF:-1,киносерия[720x576][1.0mb]
 https://epg.pw/stream/04cfd255edef8c5a7a186778710b5a3e76bec2f0a1661ad80590c9b9a7905b3a.m3u8
 #EXTINF:-1,იმედი hd[1280x720][3.0mb]
 https://epg.pw/stream/0469a0516a03a844292d34ebbbacc8cfbd2d46330a0718060c146fec223353c8.m3u8
 #EXTINF:-1,тнт music@@1[768x576][1.0mb]
 https://epg.pw/stream/e8525377248c7e15c7bddb1933a01172b90b0bf02d8a2e34c255d65b70dead4b.m3u8
-#EXTINF:-1,euronews по-русски[736x592][2.0mb]
-https://epg.pw/stream/361972d6d073d4bf0e48fc7a239e3ed0ad56b1bbd72c6cbe3cba2871a4c55252.m3u8
-#EXTINF:-1,հայ թիվի[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/58b033accc8f5167a901a2a34584fbd7c9904fdd1d463dd4cc4b416c979bc637.m3u8
-#EXTINF:-1,тнт@@2[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/8e8cc9ee8558f9832bed9e7954394fb47f7ef92856e8108f30d96e7f72598664.m3u8
 #EXTINF:-1,ностальгия[768x576][1.0mb]
 https://epg.pw/stream/5e3de3d06c608586eca1252d3be77451d9326ce587b319a1784b7ffc9a002445.m3u8
 #EXTINF:-1,еврокино[768x576][1.0mb]
 https://epg.pw/stream/5bdfe98cd282656a42f122d67fe43087e7305ea5b8bc1a9ff73e8088f3804290.m3u8
-#EXTINF:-1,звезда[720x576][3.0mb]
-https://epg.pw/stream/bd1e1167b296bb0a3ee645b79343f584f2c8b855d8b9951a5546f34c0f339d3f.m3u8
 #EXTINF:-1,детский мир@@1[720x576][1.0mb]
 https://epg.pw/stream/c779d1a391116792f455d515242c837b72c40f5a0441e3d21e0ce7d21c679bda.m3u8
 #EXTINF:-1,смотрим 24[1920x1080][15.0mb][geo-limited]
@@ -1255,8 +852,6 @@ https://epg.pw/stream/c6d140919ab92677f0831d0033b4527aee9663e0ac792291c829ac5460
 https://epg.pw/stream/4cebee5aec4776338100ed19142d44794a2a095e3826c359713b58a0fe2cecda.m3u8
 #EXTINF:-1,мир 24[720x576][1.0mb]
 https://epg.pw/stream/47e64e2f38e1f9f4c400f962b1aafa838d0497b6f0672852509efe7895792349.m3u8
-#EXTINF:-1,победа[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/8cd210f3492f4fa1fe13887a4d589456ab877e7e9a463b35e58ae2f9f071a26e.m3u8
 #EXTINF:-1,россия 1[1024x576][4.0mb]
 https://epg.pw/stream/965dcda1bde93823195235cbd0df1552e33aedcf1c64a945d318c3b4ce954603.m3u8
 #EXTINF:-1,карусель[1024x576][4.0mb][geo-limited]
@@ -1265,36 +860,16 @@ https://epg.pw/stream/2f0de0152c989b04bb15139e41c5a121ef8ee105c63fc0bd5d14005e05
 https://epg.pw/stream/96772c013646aa4d385a1010796ad507aab74a9147a6c20c87dccc3aaa2bd753.m3u8
 #EXTINF:-1,nwbctv[720x576][1.0mb]
 https://epg.pw/stream/3308ed8e90aff35b325543f6c1d238f42b834ab8fc4d8a68d09d89addda03d54.m3u8
-#EXTINF:-1,рен тв@@1[720x576][3.0mb]
-https://epg.pw/stream/d2ce8f952a9c2622029b0348c07b8025a146ccbba45321283747a88aaa25ec65.m3u8
-#EXTINF:-1,рбк@@2[736x592][3.0mb]
-https://epg.pw/stream/9ca015b78d8293423629309dbd254cd3db2bafd742d408cb41f2b2c396f5c2ff.m3u8
-#EXTINF:-1,шансон тв@@1[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/ee9cf448a22d1e068dabf0655bec3de9f53ae175c4c9d17eed3b05bd61b13627.m3u8
-#EXTINF:-1,սինեման[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/78ef6275712a6f163f50cfb635e6de0a88842baf9ee92375d16e63ae5eb920f0.m3u8
 #EXTINF:-1,киномикс[720x576][1.0mb]
 https://epg.pw/stream/3e19de92898439e5786972fcbd82444ad66890f3324dda83eeb6381a69739f7d.m3u8
-#EXTINF:-1,թավա թիվի[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/d24af743cbaaf163564e8aca047a206fb41f593a1d141f22cf4e4720f92f691b.m3u8
-#EXTINF:-1,extreme sports[720x576][3.0mb]
-https://epg.pw/stream/59bad09d296881a1686bb1374b3c6536cb161c0cc87671f260293737ab577324.m3u8
 #EXTINF:-1,ртр планета сша[1024x576][5.0mb][geo-limited]
 https://epg.pw/stream/dd145df2cfe83cef85891784ba02bb841c2b32e1688caf69d093645d22f48841.m3u8
 #EXTINF:-1,русский иллюзион@@1[768x576][1.0mb]
 https://epg.pw/stream/22f6d37c0e2467c81d4af82ffb80acd390dee8d200a8050565cd0bc8709deb11.m3u8
-#EXTINF:-1,совершенно секретно[720x576][3.0mb]
-https://epg.pw/stream/ca297909bd7135d7d5165c7d718e17cc84781dedfaf14df3d4a28148bdf8cae9.m3u8
-#EXTINF:-1,магнат[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/741ab988f6f55001aaaa882e0ace4cfae8a463a9933e6b999346ba6520afc6e4.m3u8
 #EXTINF:-1,тв3[1280x720][3.0mb]
 https://epg.pw/stream/5b98537685c389f80b3af415d66aa107b785551c50b7dc4fc9695a902c23e432.m3u8
 #EXTINF:-1,культура[1024x576][4.0mb]
 https://epg.pw/stream/ebffc2f88a1c805cd105c976a50b9cb26f99b747612bd624c7e9219366041b15.m3u8
-#EXTINF:-1,ազատություն թիվի[1920x1080][12.0mb][geo-limited]
-https://epg.pw/stream/6bc546b964a44006f37b735089b37b43f490fd5dce4fc28f3bf5df0dffd411f1.m3u8
-#EXTINF:-1,cristo visión canal 31[1280x720][2.0mb]
-https://epg.pw/stream/7f40f624df02a0f01a414baf44a416f3ad754585b5fe3b5204f3faa44aeb80c5.m3u8
 #EXTINF:-1,ahl-alquran tv[720x576][1.0mb][geo-limited]
 https://epg.pw/stream/6eced88ddaf2069d2eb7414d33f1596ff17bd223ba452535e1cf4301466cf7fc.m3u8
 #EXTINF:-1,canal 3 kmk tv[1280x720][2.0mb]
@@ -1317,8 +892,6 @@ https://epg.pw/stream/667d7fd7d70d28e2ed5118c37b7e77444160cce3fc9e1c354c83d3d1f6
 https://epg.pw/stream/91df1d3f516a62628c00b2dfec3861b3bdda477982c3becb96f7097dc57eb41f.m3u8
 #EXTINF:-1,tdtv[1280x720][2.0mb]
 https://epg.pw/stream/366ff0f838eb8bad2bfc4538ef291387d927e716d7e12d7bd123f5a90ef3ed28.m3u8
-#EXTINF:-1,первый канал@@1[854x480][3.0mb][geo-limited]
-https://epg.pw/stream/9cc2e651c09d8943f7c8fbf7e838a8df0448db240e78fcca04e3aa13ef630ac5.m3u8
 #EXTINF:-1,comunicaciones jiménez[1280x720][1.0mb]
 https://epg.pw/stream/5d05667c8f82c410a4679795dd78b99108d4613764c71e5477e981794fe1cd80.m3u8
 #EXTINF:-1,garabito tv[1280x720][2.0mb]
@@ -1331,16 +904,10 @@ https://epg.pw/stream/df46fc0a641b308b46e501dc74ecbb4de8ccbf3271650cca287e85be94
 https://epg.pw/stream/962a07d705d2de661a68dee1e1c8e28fdbded6ef62498052ea40d7fd282f364c.m3u8
 #EXTINF:-1,россия 24@@2[1024x576][2.0mb]
 https://epg.pw/stream/df8861a8b7f64d1d446744a30c9f0adb8aa5a8da6e6f235fcf25edb957d46b14.m3u8
-#EXTINF:-1,ностальгия@@1[720x576][3.0mb]
-https://epg.pw/stream/2c6818e90d494b93072ffcbcc7e8183b58e5d4747d5e1a12332fdc8e7818521f.m3u8
 #EXTINF:-1,ou mun toi[1280x720][1.0mb][geo-limited]
 https://epg.pw/stream/512ff993b9dfeef469721c6f72e1e98abc336aef7f6e313b4ce297a5c8d7d563.m3u8
 #EXTINF:-1,tvr international[1280x720][2.0mb]
 https://epg.pw/stream/5d0129eadc3ef0d136c75ba65ebaf5e9756921d472896c992f4c88ddaeb8edbe.m3u8
-#EXTINF:-1,gaza chiosphotos[1280x720][1.0mb][geo-limited]
-https://epg.pw/stream/d44a9d497940aa356ea4e52b52e5393588b55403258b8ea1d422406f9f6e6bbd.ctv
-#EXTINF:-1,a&e[1280x720][3.0mb]
-https://epg.pw/stream/44b6012f501c8938266af9dc8983611a1c2ec8f5e95f6ee2f01a9896897e52d1.m3u8
 #EXTINF:-1,gaza israel 1 2rnews@@1[1920x1080][2.0mb][geo-limited]
 https://epg.pw/stream/e0de86651aca209e7b1cb13fccbc262b1bad25f2649b3556cf0a8dde08320281.ctv
 #EXTINF:-1,al jazeera english@@5[1920x1080][2.0mb][geo-limited]
@@ -1351,18 +918,19 @@ https://epg.pw/stream/489b42d5c1edf01a243d729fca64cc58e83a9e1d35ce544494089a1a40
 https://epg.pw/stream/f2f95b3d535ad3920fdb06ebfbacb7a3cee51bef760205c6440c8a16c60832a5.ctv
 #EXTINF:-1,gaza israel 2 inquizex@@1[1920x1080][3.0mb][geo-limited]
 https://epg.pw/stream/a3134fe10a31c4d78b2703be8e5db6084f272611115792b27f5bdb6e3c42eb8f.ctv
-#EXTINF:-1,cgtndocumentary@@1[1920x1080][5.0mb]
-https://epg.pw/stream/9ff834e7d37c50a64c9b956331d3d790d6e16f15e05046329a881ee2bd925345.m3u8
 #EXTINF:-1,todo noticias@@1[1920x1080][5.0mb][geo-limited]
 https://epg.pw/stream/4cd54e13f6104b9be0bd9c3eb373be7704e3c5798d9192eb19444026ccbb71a7.ctv
-#EXTINF:-1,das erste international[1920x1080][6.0mb]
-https://epg.pw/stream/ff29d5e164232a65d31001996ded991f9830eb10e7f563e5b4b4541a94a56db2.m3u8
-#EXTINF:-1,deutsche welle@@1[854x480][4.0mb][geo-limited]
-https://epg.pw/stream/765ab9479fccec975eea8f5a279ad8955fb23140cb33a6038639c5a7c4887cb9.m3u8
-#EXTINF:-1,культура@@1[848x480][3.0mb][geo-limited]
-https://epg.pw/stream/36637322f6798073a16b0ac91a0d2568459e48bda34c2d725245aa4a23358048.m3u8
 #EXTINF:-1,telebärn[1280x720][]
 https://epg.pw/stream/58c0d55a245cdd95e47dcfb9318a1f8a47b494e55402e04ba016f2a4c73f6837.m3u8
-#EXTINF:-1,发现之旅[720x576][]
-https://epg.pw/stream/3031bf6dfc02384984e1c8e33201ca46f7faee507dad7bee669088be8b84db70.m3u8
-
+#EXTINF:-1,靖江新闻綜合@@1[1280x720][timed_id3xh264xaac][geo-limited]
+https://epg.pw/stream/9d369772e2ddb9daf9716066bde17fadfe87b57f34033351b5b288715362dd3d.m3u8
+#EXTINF:-1,retrô cartoon@@1[640x360][1.0mb]
+https://epg.pw/stream/698f67d57789a7d9c2e1ce63a5cb0079dc6f1b94d5514da0c6646ab2ffea78b0.m3u8
+#EXTINF:-1,tvo@@1[1280x720][2.0mb]
+https://epg.pw/stream/817fab4a9e9e181314c52cce9ca02e6a52b938c4d2bd361dd3d7ee6d3220f29f.m3u8
+#EXTINF:-1,cctv怀旧剧场[1920x1080][4.0mb]
+https://epg.pw/stream/a5f52c00f4c77e44c037e7c275b3302f808389e7f7755d19f0a4213abafcba4a.m3u8
+#EXTINF:-1,cct31@@1[1280x720][2.0mb]
+https://epg.pw/stream/0d2c9255bcc2e2e8a29debf5b43fd62e2bcd25e9442b38192523683f6f3a0fd1.m3u8
+#EXTINF:-1,king tv[960x544][1.0mb]
+https://epg.pw/stream/ca735276934b02e318ace3ead27ad171b589aa2e70fd692f6d479742236956ec.m3u8
