@@ -999,3 +999,24 @@ https://epg.pw/stream/c78d8d84cde5b4d86e7ba627bfbaf36bc4c62d4bb127ceb6601499a057
 https://epg.pw/stream/a71ee08f8a4238e572c684886917f712369da33f1924da43a8682840bc86be4c.m3u8
 #EXTINF:-1,canal 4 jujuy[1280x720][9.0mb]
 https://epg.pw/stream/47ec1179f87d11db872f80995b1ba004c2b7357951f537b7d1b9d28fa83738fd.m3u8
+#EXTINF:-1,zing mp3 - acoustic@@1[240x240][0.0mb][geo-limited]
+https://epg.pw/stream/f2cae8cebcc92ec8e8dcdc0248a0c6370be4dc564c35c4154474c843118bc95a.m3u8
+#EXTINF:-1,qvc uk style[960x540][3.0mb][geo-limited]
+https://epg.pw/stream/13808240c29c7fb702822be82b8d3c1ee7af91f3f2293e0560ea2542b4588b2d.m3u8
+#EXTINF:-1,tv7 colmar[1024x576][1.0mb]
+https://epg.pw/stream/2132b7663de037786266cb8836020decbd04866e4c5008c27475f816d6a5ca7c.m3u8
+#EXTINF:-1,bailén tv[1280x720][4.0mb][geo-limited]
+https://epg.pw/stream/d322acd57da55d7506d5f0e8613169687b86e1cfc0b572a281bed1642a48950e.m3u8
+#EXTINF:-1,santa monica city tv 20[480x360][1.0mb]
+https://epg.pw/stream/ae8c6719e193744169ba6fe072db5a3d3761c7e3832638c1aff629e430daf8af.m3u8
+#EXTINF:-1,afriwood series[1280x720][4.0mb]
+https://epg.pw/stream/33e3050def8f98efe613586bea8967fa38ace5e1bd1e3304e3bd0f068bb3b969.m3u8
+#EXTINF:-1,mbc gangwon[1920x1080][3.0mb]
+https://epg.pw/stream/0cca7d6165c7bb4aba1a6edc4071c49d54799a5d9b9688abedeb0da5f86d7d17.m3u8
+#EXTINF:-1,телеканал 86[1920x1080][7.0mb]
+https://epg.pw/stream/58dc155754439258a544804f5e0acfdbcb6bf001df09763f18f2e2067af89659.m3u8
+#EXTINF:-1,neo tv[1280x720][2.0mb]
+https://epg.pw/stream/e62a8c53332bfab12fba28518558001c0aeb1a7cce804dd604f2fe0027bc366f.m3u8
+#EXTINF:-1,rtp@@2[720x404][1.0mb]
+https://epg.pw/stream/8912c3b24c0af9f37c0bc48a6fcbd84e9d820524a66ceccd94043a1d9d24655b.m3u8
+
