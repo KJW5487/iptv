@@ -131,6 +131,9 @@ https://epg.pw/stream/2cdc670d211d363cd9f4191415711621c475c897f2b6d325be79ae1734
 #EXTINF:-1,HBTV 
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
+#EXTINF:-1,đêm chung kết \"tiếng hát hà nội 2023\"[1280x720][2.0mb][geo-limited]
+https://epg.pw/stream/534ca481303b40f655ff20a46599f2448de2df0dfb4f5a6406f3f9da03b354db.ctv
+
 #EXTINF:-1,th hà nội 2 hd[1920x1080][5.0mb][geo-limited]
 https://epg.pw/stream/f327e3b085b15e4be7a571442c0f82742814228fc164244dc9cdd23d34fd1425.ctv
 
