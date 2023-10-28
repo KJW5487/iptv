@@ -167,6 +167,28 @@ https://epg.pw/stream/971b30d1f3c3082bb5123116aa559d87460e11568085adba0c226d9bb1
 https://epg.pw/stream/53774e5dcaba3afb84caaf370039bc6852a1aa470100e0a8245fc9e8a2d99416.m3u8
 #EXTINF:-1,mtv live@@1[1280x720][2.0mb]
 https://epg.pw/stream/19265c372ea2b14c8dc2e18fa579401042c0fa04d5ec734bb8877a4d9321adaf.ctv
+#EXTINF:-1,日本全天新聞
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1,NHK_world
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1,朝日電視台
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+#EXTINF:-1,NBC News
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
+#EXTINF:-1,FOXNews
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,ABC News
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,半岛新闻
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+
 
 #EXTINF:-1,立法院ivod直播教育及文化委員會[800x450][2.0mb][geo-limited]
 https://epg.pw/stream/0f6ec07def37460a9308f5f473019fc183f47f3d12359d5bed23e25033dc7016.m3u8
