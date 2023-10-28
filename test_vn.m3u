@@ -81,6 +81,9 @@ https://epg.pw/stream/9bff1b3745d891d627ef3182a73bce23f6d665f7172e1384d4c8b06bb7
 https://epg.pw/stream/62a69b91061550f82915f38dbbbf20b692af0f34603a31a3f000e9f7133c58ea.ctv
 #EXTINF:-1,on trending tv[854x480][1.0mb][geo-limited]
 https://epg.pw/stream/9772a49dffc8cd325470e149a60ff7f4f5746135bca472d7be48db3a0b83abed.ctv
+#EXTINF:-1,on vie dramas (VTVCab19)[1280x720][aacxh264xh264xh264][geo-limited]
+https://epg.pw/stream/3358ae97eb640527519895aea6c5f20813905f0147f747f5a33d3de1283ca529.ctv
+
 
 
 
@@ -114,10 +117,23 @@ https://epg.pw/stream/fc26b46d44d8573bec587d0e257b778e9511371ee4834b075f6e360940
 https://epg.pw/stream/755ffb9e8309a3c5e0c9427ae87d23a475e7812c848f0ab364ed5038ad0780dc.ctv
 #EXTINF:-1,th ninh bình@@1[1920x1080][2.0mb]
 https://epg.pw/stream/fd39f2fc2f6cec06a3fcbcdc315ea7378eff45e3ee3a39bbe3b60ff40a4db24d.m3u8
+##EXTINF:-1,th ninh bình@@2[1920x1080][4.0mb][geo-limited]
+#https://epg.pw/stream/103c700d0ad05e1b4828108cd53cdfa380580652ed00d671e70d36a18d02f565.ctv
 #EXTINF:-1,th bình phước[1280x720][3.0mb]
 https://epg.pw/stream/56669aa78cbc35e80cea18419ebaa2de61dcb04c088d795e7d2bb0e4832031cf.m3u8
 #EXTINF:-1,th hải phòng@@3[1920x1080][3.0mb]
 https://epg.pw/stream/6e7bdf627e1343cafb3fb637278b949d991d8a2fa6d699c7d067202abcb26094.m3u8
+
+#EXTINF:-1,drt1 - th đà nẵng 1 hd[1920x1080][timed_id3xh264xaac][geo-limited]
+https://epg.pw/stream/416e74e17e55b7e8b97729462af21d130f37d36a7e304ba6764182bdd27955aa.ctv
+#EXTINF:-1,drt - th đắk lắk hd[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/2cdc670d211d363cd9f4191415711621c475c897f2b6d325be79ae17345838ed.ctv
+#EXTINF:-1,HBTV 
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+
+#EXTINF:-1,th hà nội 2 hd[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/f327e3b085b15e4be7a571442c0f82742814228fc164244dc9cdd23d34fd1425.ctv
+
 
 
 ##EXTINF:-1,on phim việt hd@@1[1920x1080][6.0mb][geo-limited]
