@@ -109,10 +109,13 @@ https://epg.pw/stream/180483cd8cb825351e01ffee2906d44b01ca4761784fc7d8dd7e0c4d19
 #EXTINF:-1,越·antv[720x576][1.0mb][geo-limited]
 https://epg.pw/stream/af3d85205c905012f4f7ddef53d15b63adaba87179694ecf21a63a460882a9bb.m3u8
 
+
+#EXTINF:-1,th nghệ an[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/206e1a26c1e6bac331991df0f6302ebe615b720181bcc33aba48429f3d1c83b0.ctv
+
 #EXTINF:-1,thvl2 hd@@1[1920x1080][6.0mb][geo-limited]
 https://epg.pw/stream/bfd0f74830c959c840481a46c53bc4729a1fabfa28bded998c015bc8abaafd04.ctv
-#EXTINF:-1,th ninh bình[1920x1080][3.0mb](NTV)
-https://epg.pw/stream/fc26b46d44d8573bec587d0e257b778e9511371ee4834b075f6e360940171971.ctv
+
 #EXTINF:-1,th hải phòng@@1[1920x1080][3.0mb][geo-limited](THP)
 https://epg.pw/stream/755ffb9e8309a3c5e0c9427ae87d23a475e7812c848f0ab364ed5038ad0780dc.ctv
 #EXTINF:-1,th ninh bình@@1[1920x1080][2.0mb]
@@ -134,7 +137,8 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1,th hà nội 2 hd[1920x1080][5.0mb][geo-limited]
 https://epg.pw/stream/f327e3b085b15e4be7a571442c0f82742814228fc164244dc9cdd23d34fd1425.ctv
 
-
+##EXTINF:-1,da nang tv1[1920x1080][10.0mb][geo-limited]
+#https://epg.pw/stream/7cea72e3a6aade4fe6ec43bfb6aaf7ab927202c41fdfb7c4ca97ec2826e4ce66.m3u8
 
 ##EXTINF:-1,on phim việt hd@@1[1920x1080][6.0mb][geo-limited]
 #https://epg.pw/stream/e70745893ee73ff394325713926d2ef8debc7823dfeae95a478cb81bf0811b6d.ctv

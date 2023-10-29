@@ -52,7 +52,10 @@ https://epg.pw/stream/7ab314dffe41c2c850533b7b9aa28c97704b751eee651e6c7c57aac886
 #EXTINF:-1,緯來體育[geo-blocked]
 https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
 #EXTINF:-1,緯來體育台[geo-blocked]
-,http://cloud.yumixiu768.com/tmp/123.m3u8
+http://cloud.yumixiu768.com/tmp/123.m3u8
+
+#EXTINF:-1,ELTA體育2台[geo-blocked]
+http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
 #EXTINF:-1,ELTA體育3[geo-blocked]
 https://epg.pw/stream/feb6c8657176040a0c254672c0aea4a004bb1edc10aec12f6e43a1b91d9c4477.m3u8
 #EXTINF:-1,ELTA體育4台[1280x720][3.0mb][geo-limited]
@@ -213,7 +216,9 @@ https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/ind
 
 #EXTINF:-1,豬哥會社[1920x1080][2.0mb][geo-limited]
 https://epg.pw/stream/e233486150b0f7bf6fd0413f82017a01165d52489c389266cda466598d8b8a5c.m3u8
-#EXTINF:-1,好萊塢電影[1920x1080][3.0mb][geo-limited]
-https://epg.pw/stream/36f1a2ef8d6480a38ad4c65a166c6255e41c491b5eab217156df24286a963e6a.m3u8
+##EXTINF:-1,好萊塢電影[1920x1080][3.0mb][geo-limited]
+#https://epg.pw/stream/36f1a2ef8d6480a38ad4c65a166c6255e41c491b5eab217156df24286a963e6a.m3u8
+#EXTINF:-1,好莱坞电影台@@1[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/ec2ef6091c0385d6faabde10807235ac9802761471a1b6dd5a435e3ef6516e83.m3u8
 
 
