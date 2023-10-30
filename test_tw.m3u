@@ -228,10 +228,6 @@ https://epg.pw/stream/ec2ef6091c0385d6faabde10807235ac9802761471a1b6dd5a435e3ef6
 
 #EXTINF:-1,cinemax@@2[1920x1080][2.0mb][geo-limited]
 https://epg.pw/stream/951ea64fa7b24d34388530068c19750a14c888fce2baaca575c6af4a48c21bf0.m3u8
-#EXTINF:-1,tvbs@@1[1920x1080][2.0mb][geo-limited]
-https://epg.pw/stream/55b53702b5b1adb04cdd1de3f5837efb2775cb11c105a8e90882e0da57601b5a.m3u8
-#EXTINF:-1,hbo@@1[1920x1080][2.0mb][geo-limited]
-https://epg.pw/stream/ec46009a9351290a355aad9f3d054d5e1db568c2df268681f0d4c2be76c9d37e.m3u8
 #EXTINF:-1,博斯高球1台[1280x720][4.0mb][geo-limited]
 https://epg.pw/stream/bce88d8a6e8745b5259b75bacea4c9c08261f4afb6c9e518f06b7b87d51910fb.m3u8
 #EXTINF:-1,bbcworldnews[1280x720][3.0mb][geo-limited]
@@ -262,12 +258,7 @@ https://epg.pw/stream/bfdbb781498097f82f932c4bdd54c13adee2ae1cc3124d5376c7e0daab
 https://epg.pw/stream/c3bac76fce10cd92357fe8186e6e35cba42d2043f7dc1f64f7772f582fc68f1e.m3u8
 #EXTINF:-1,東森綜合[1920x1080][2.0mb][geo-limited]
 https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
-#EXTINF:-1,cctv6@@7[1920x1080][8.0mb][geo-limited]
-https://epg.pw/stream/466a41732878afdef2dc81d4a751735252b9aa1a51ae0583ea3c770fa711f4bf.m3u8
-#EXTINF:-1,cctv11@@3[1920x1080][9.0mb][geo-limited]
-https://epg.pw/stream/4dbad17eedbd1453be29e404a8ccf8a6696cc9102d42f0c26189711a0e6af29f.m3u8
-#EXTINF:-1,winthrop community access tv@@1[640x480][2.0mb][geo-limited]
-https://epg.pw/stream/43cf15cef0cb51a07b93a5fa9ae292731a0c1e3d595b10fb67cf7899b5c7df49.m3u8
+
 
 
 
