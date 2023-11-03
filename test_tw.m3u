@@ -193,7 +193,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,松视1[1920x1080][2.0mb]
 https://epg.pw/stream/78d04e6ff1b4ce33e85c80ea66411d8ec86fc6e92a9a1fc870e6ea06621a4c11.m3u8
-
+#EXTINF:-1,voice of america[1920x1080][7.0mb]
+https://epg.pw/stream/8c737efa736cd4158d6666633781fea77cce2fb14cd7945f62e9aef4bb11e1a9.m3u8
 
 
 #EXTINF:-1,立法院ivod直播教育及文化委員會[800x450][2.0mb][geo-limited]
@@ -446,6 +447,19 @@ http://198.16.100.90:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&
 http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 #EXTINF:-1,东森新闻台@@1[1280x720][2.0mb][geo-limited]
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+
+#EXTINF:-1,Channel5[1280x720][20231101]
+https://epg.pw/stream/00224ca830bf9acd9cb5595ef012c01c2e98d8aa32b4d02e8bd9bdaf43c34241.ctv
+#EXTINF:-1,Channel5[1280x720][20231101]
+https://epg.pw/stream/c36f82d95c471f225043a38b2c14b8e371a485a07420e1e6b97ce9d093612e95.ctv
+#EXTINF:-1,Channel8[1280x720][20231101]
+https://epg.pw/stream/0c9abbdbd780657fb7a94941d97f13e83ab1d545fd11abd3d493f449c1398f50.ctv
+#EXTINF:-1,Channel8[1280x720][20231101]
+https://epg.pw/stream/bac5d37580f833f121b23eca173d40e6af5c86c2539fd112cef6d6caa22a01e7.ctv
+#EXTINF:-1,ChannelU[1280x720][20231101]
+https://epg.pw/stream/e751a6f28371e859c045e79c3db45798d5c886f3fa6b25213c280977e40dc5ec.ctv
+
+
 #EXTINF:-1,中天亞洲台[1920x1080][3.0mb][geo-limited]
 https://epg.pw/stream/b7c7a6b4d75da725a3442bff5211f78de7867c4065f9efcf01510250c52d8411.ctv
 #EXTINF:-1,中天新聞2[1920x1080][3.0mb][geo-limited]

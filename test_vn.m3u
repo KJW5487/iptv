@@ -143,6 +143,23 @@ https://epg.pw/stream/29565718252579c941aefe06e2cb9c041fe292d9ac4deec4b436c6f7d6
 ##EXTINF:-1,da nang tv1[1920x1080][10.0mb][geo-limited]
 #https://epg.pw/stream/7cea72e3a6aade4fe6ec43bfb6aaf7ab927202c41fdfb7c4ca97ec2826e4ce66.m3u8
 
+#EXTINF:-1,đồng tháp[960x540][2.0mb](THDT1)
+https://epg.pw/stream/31da1205b60c39418ed3ecc1f9d42cb1cea8fbf47a570c468c3402eaf6bb9a72.m3u8
+
+#EXTINF:-1,btv9 - an viên tv@@1[1280x720][aacxh264xh264]
+https://epg.pw/stream/f72f7e9f2a7a567966880e0738dbd8f5351eb6886af3ab3e7dc18094dad86d77.m3u8
+#EXTINF:-1,vtvcab 19[854x480][1.0mb]
+https://epg.pw/stream/b020815a4bbaa312089e2e8453fd9dc08ea27c6942f97cb6dd4f6c137438c69e.m3u8
+#EXTINF:-1,vtvcab 1[1280x720][3.0mb]
+https://epg.pw/stream/cf6061e80ad0f76b6340b985e7c12cbcd85cb31602ecff0aa40d8eeeb170e21e.m3u8
+#EXTINF:-1,th bình phước@@1[1280x720][3.0mb]
+https://epg.pw/stream/b3d07b0388d0f1d0a1a1de4d870871d022ac437ceddf2b67a44e017bbee9ea52.m3u8
+#EXTINF:-1,htv thể thao[1280x720][3.0mb]
+https://epg.pw/stream/37dd89b5b78701d0fccab29daef9431249f547562db95e16cb2c9f19a8dbd627.m3u8
+#EXTINF:-1,vtc7 hd - todaytv[1280x720][3.0mb]
+https://epg.pw/stream/050bb2908e41aa1ae751d223b59daa3a54173c49cbbe2e7e2a029aed477b2817.m3u8
+
+
 ##EXTINF:-1,on phim việt hd@@1[1920x1080][6.0mb][geo-limited]
 #https://epg.pw/stream/e70745893ee73ff394325713926d2ef8debc7823dfeae95a478cb81bf0811b6d.ctv
 ##EXTINF:-1,on music hd@@2[1920x1080][6.0mb][geo-limited]
