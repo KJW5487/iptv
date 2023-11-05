@@ -93,6 +93,9 @@ https://epg.pw/stream/abd974315dda7d16b2e5894ef79f450133a04774edcc3b86eda3dc4b4d
 https://epg.pw/stream/5515ec60780ab02e918dc6833e7550801fc7bd556a35cbf3fae02413811be4e4.ctv
 #EXTINF:-1,vtc10 hd[1920x1080][2.0mb]
 https://epg.pw/stream/c1d0e3d731310d2e1f38944ca732744274d19ded0e59e1a014b2f07c8eda45d7.m3u8
+#EXTINF:-1,vtc13 4k[1920x1080][2.0mb]
+http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+
 
 
 

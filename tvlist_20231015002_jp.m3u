@@ -374,6 +374,11 @@ https://epg.pw/stream/a29611cb89802fef158411abfbf010d2907208f94e190d05255ffd718a
 https://epg.pw/stream/2922c83768ce95590a1704e53507672e3b0c9df0d9ac5e95dc4b4ed832f3b83f.m3u8
 
 
+#EXTINF:-1,nagoya tv[1920x1080][2.0mb][geo-limited]
+http://for-testonly.ra1n.lol/nagoyatv/index.m3u8
+
+
+
 
 #EXTINF:-1,JAPANHDV.COM
 http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/indeindex.m3u8

@@ -447,6 +447,26 @@ http://198.16.100.90:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&
 http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 #EXTINF:-1,东森新闻台@@1[1280x720][2.0mb][geo-limited]
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+#EXTINF:-1,東森綜合[1920x1080][2.0mb][geo-limited]
+http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+#EXTINF:-1,動物星球[1920x1080][3.0mb][geo-limited]
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+#EXTINF:-1,中天新聞@@1[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/1a83de037c49efece573d043731a08720f30a6c0ffdb495762f205e7567a26ad.ctv
+#EXTINF:-1,tvbs@@1[1920x1080][1.0mb][geo-limited]
+http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
+#EXTINF:-1,非凡新聞[1920x1080][2.0mb][geo-limited]
+http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+#EXTINF:-1,影迷數位電影台[1280x720][1.0mb]
+http://64.31.55.194/shuwei/video.m3u8
+#EXTINF:-1,好消息2[1280x720][2.0mb][geo-limited]
+http://50.7.238.114:8278/good2_twn/playlist.m3u8?tid=MB3B3734070237340702&ct=19249&tsum=611b90a32eb986741a0b15652178c428
+#EXTINF:-1,龍華偶像[1280x720][3.0mb][geo-limited]
+http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
+#EXTINF:-1,三立inews@@1[1920x1080][3.0mb][geo-limited]
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+
+
 
 #EXTINF:-1,Channel5[1280x720][20231101]
 https://epg.pw/stream/00224ca830bf9acd9cb5595ef012c01c2e98d8aa32b4d02e8bd9bdaf43c34241.ctv
