@@ -471,9 +471,12 @@ http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 
 #EXTINF:-1,凤凰资讯[1920x1080][9.0mb][geo-limited]
 http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1,凤凰资讯[1920x1080][9.0mb][geo-limited]
+http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 #EXTINF:-1,凤凰中文@@1[1920x1080][8.0mb][geo-limited]
 http://php.17186.eu.org/phtv/fhzw.m3u8
-
+#EXTINF:-1,凤凰中文@@1[1920x1080][8.0mb][geo-limited]
+http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 
 #EXTINF:-1,Channel5[1280x720][20231101]
 https://epg.pw/stream/00224ca830bf9acd9cb5595ef012c01c2e98d8aa32b4d02e8bd9bdaf43c34241.ctv
