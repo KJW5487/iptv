@@ -162,6 +162,11 @@ https://epg.pw/stream/37dd89b5b78701d0fccab29daef9431249f547562db95e16cb2c9f19a8
 #EXTINF:-1,vtc7 hd - todaytv[1280x720][3.0mb]
 https://epg.pw/stream/050bb2908e41aa1ae751d223b59daa3a54173c49cbbe2e7e2a029aed477b2817.m3u8
 
+#EXTINF:-1,th đắk nông@@2[1920x1080][2.0mb][geo-limited](PTD)
+https://epg.pw/stream/a4cd24d903144b92332ccdbe9d5dd9486af4d2fbd751ea955863057d78eec012.ctv
+#EXTINF:-1,vthanh movies[1920x1080][15.0mb][geo-limited]
+http://stream2.vthanhtivi.pw:5080/LiveApp/streams/okita.m3u8
+
 
 ##EXTINF:-1,on phim việt hd@@1[1920x1080][6.0mb][geo-limited]
 #https://epg.pw/stream/e70745893ee73ff394325713926d2ef8debc7823dfeae95a478cb81bf0811b6d.ctv

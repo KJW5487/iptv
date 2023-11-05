@@ -466,6 +466,13 @@ http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130
 #EXTINF:-1,三立inews@@1[1920x1080][3.0mb][geo-limited]
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 
+#EXTINF:-1,france 24@@3[1920x1080][4.0mb][geo-limited]
+http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+
+#EXTINF:-1,凤凰资讯[1920x1080][9.0mb][geo-limited]
+http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1,凤凰中文@@1[1920x1080][8.0mb][geo-limited]
+http://php.17186.eu.org/phtv/fhzw.m3u8
 
 
 #EXTINF:-1,Channel5[1280x720][20231101]
