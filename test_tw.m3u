@@ -195,6 +195,9 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://epg.pw/stream/78d04e6ff1b4ce33e85c80ea66411d8ec86fc6e92a9a1fc870e6ea06621a4c11.m3u8
 #EXTINF:-1,voice of america[1920x1080][7.0mb]
 https://epg.pw/stream/8c737efa736cd4158d6666633781fea77cce2fb14cd7945f62e9aef4bb11e1a9.m3u8
+#EXTINF:-1,fox news[1280x720][6.0mb]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
+
 
 
 #EXTINF:-1,立法院ivod直播教育及文化委員會[800x450][2.0mb][geo-limited]

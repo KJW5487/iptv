@@ -395,4 +395,7 @@ https://epg.pw/stream/e26f1b81250169b16d6657c384a1dd201dcc0ea11062c4c974c8671573
 https://epg.pw/stream/38eda26ba59f93ebe3577033f10069eac3a96afb51e2b125231e27da7ab5ad64.m3u8
 #EXTINF:-1,русская ночь[1280x720][5.0mb][geo-limited]
 https://epg.pw/stream/7050ae341dfe10bf6f806d9bf422fcd763eacc2288e7948092a47914de1239bc.m3u8
-
+#EXTINF:-1,venus[1280x720][h264xaac][geo-limited]
+https://epg.pw/stream/b0b86ba55c2dd283c77593dd558f181a58365db30db723e11ed89457c1a2f32f.ctv
+#EXTINF:-1,playboy@@2[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/575bcd545724fc8dbc352794a79ac6cdbcb414f84b9ee9e88c1e0b14ab68a172.ctv
