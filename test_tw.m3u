@@ -516,6 +516,8 @@ https://epg.pw/stream/66d03a8a839116620b15dabc9b4c2f7c5a13cef9bdafb1fe6cfdc6232c
 https://epg.pw/stream/c4c3a42b59b2be77faa995e19856ec8f1995b3348c14d367f1308264c7fbbdd1.ctv
 #EXTINF:-1,playboy[1920x1080][][geo-limited]
 https://epg.pw/stream/b4c831f47be376bbf6ba19942d8103be699c329c8c26fdb26d0ef083a87e0a7a.ctv
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
+https://cntv.lat/tv?auth=202311030915&id=cctv13
 
 #EXTINF:-1,Channel5[1280x720][20231101]
 https://epg.pw/stream/00224ca830bf9acd9cb5595ef012c01c2e98d8aa32b4d02e8bd9bdaf43c34241.ctv
