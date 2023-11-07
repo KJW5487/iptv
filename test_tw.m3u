@@ -480,6 +480,42 @@ http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/i
 http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1,凤凰中文@@1[1920x1080][8.0mb][geo-limited]
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+#EXTINF:-1,凤凰资讯@@4[1920x1080][3.0mb][geo-limited]
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1,8 MEDIACORP[1280x720][][geo-limited]
+https://epg.pw/stream/38b801aaf040059e9337e61405c1a56f1cd76e5b43b8862a253db2454b09d4b2.ctv
+#EXTINF:-1,8TV MALAYSIA[720x540][][geo-limited]
+https://epg.pw/stream/f82e1a5c9a6fb31ebc23bfd8762ec6d9cef431a506342d4d05ca0e1d997729fa.ctv
+#EXTINF:-1,CNA[1920x1080][][geo-limited]
+https://epg.pw/stream/19e22b3abd5e248578097705be305220f4779fc0b1d5604e4f0a1978767c357d.ctv
+#EXTINF:-1,動物星球@@1[1920x1080][3.0mb][geo-limited]
+http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+#EXTINF:-1,CNN HD[1280x720][][geo-limited]
+https://epg.pw/stream/5496e887dbb0ef7d84006746d412ee30bb3bfedc28c864a9a36304c20c0df4ea.ctv
+#EXTINF:-1,MTV LIVE[1280x720][][geo-limited]
+https://epg.pw/stream/bed28840273361cec118a10eb59aa0d11de26c9667f4141279f3e9795556711a.ctv
+#EXTINF:-1,NHK World[1280x720][][geo-limited]
+https://epg.pw/stream/60231b383cf2e913b84bb020885a80af70dc8330365f323a224d0eb96380e6af.ctv
+#EXTINF:-1,凤凰卫视[1280x720][][geo-limited]
+https://epg.pw/stream/dfb3775c52015bb9f292142bad4417b5d3fdeb924db5a7e0553e5bb9b1005bc5.ctv
+#EXTINF:-1,凤凰资讯FHD[1280x720][][geo-limited]
+https://epg.pw/stream/79b9c5c06d008f9525778256d77fd5a2cc06bc6a944d1d94d8febda32b4d2f89.ctv
+#EXTINF:-1,8 MEDIACORP[1280x720][][geo-limited]
+https://epg.pw/stream/891a865cfdac1ae40cfdb79e01bad3e02c525d3c9015c4758a474699180e0ec1.ctv
+#EXTINF:-1,8TV MALAYSIA[720x540][][geo-limited]
+https://epg.pw/stream/a7bb4551362a3209d6977e3a66757fd9c64b58671e4fa7fa5fcae77d4c9f075f.ctv
+#EXTINF:-1,东森电影[1280x720][]
+https://epg.pw/stream/13b48261389bca36ee2b0efded529dfdc4eb8bb89ff704589979839a62d069ec.ctv
+#EXTINF:-1,凤凰卫视[1280x720][]
+https://epg.pw/stream/a268a5ee8411dfefa118bd8e6e0c918e5a380674602695c172effc6292891952.ctv
+#EXTINF:-1,凤凰资讯FHD[1280x720][]
+https://epg.pw/stream/2dc179aa3d1e74666e7379f7d02a3fdcf4b23aff3717fd442533164aeb323c7a.ctv
+#EXTINF:-1,TVB無線新聞[1280x720][]
+https://epg.pw/stream/66d03a8a839116620b15dabc9b4c2f7c5a13cef9bdafb1fe6cfdc6232c427ca2.ctv
+#EXTINF:-1,playboy[1280x720][]
+https://epg.pw/stream/c4c3a42b59b2be77faa995e19856ec8f1995b3348c14d367f1308264c7fbbdd1.ctv
+#EXTINF:-1,playboy[1920x1080][][geo-limited]
+https://epg.pw/stream/b4c831f47be376bbf6ba19942d8103be699c329c8c26fdb26d0ef083a87e0a7a.ctv
 
 #EXTINF:-1,Channel5[1280x720][20231101]
 https://epg.pw/stream/00224ca830bf9acd9cb5595ef012c01c2e98d8aa32b4d02e8bd9bdaf43c34241.ctv
