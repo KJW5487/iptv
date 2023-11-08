@@ -169,8 +169,7 @@ https://epg.pw/stream/d004872b834b5b726d43c1dc539903068b7a75321cd8528ae65fc02dda
 #EXTINF:-1,凤凰资讯@@2[1280x720][1.0mb][geo-limited]
 https://epg.pw/stream/687ae839a0d84d1c2d3098229e376c4d4cf1cb2dfc1ab28fba4195d27bc6f589.m3u8
 
-#EXTINF:-1,al jazeera english@@4[1920x1080][6.0mb][geo-limited]
-https://epg.pw/stream/37315a6a4e0fce5105b4a4aa1cec2f755081f5ab0e446b9d5cbc6dac4c8cc27f.m3u8
+
 #EXTINF:-1,CNN[1920x1080][6.0mb][geo-limited]
 https://epg.pw/stream/bf9c7383dcea9ef705a2779742a6a1b2aae2ff582e0103bd2a7ecfba56f12c5d.m3u8
 #EXTINF:-1,fashion tv@@1[800x450][1.0mb][geo-limited]
@@ -197,6 +196,9 @@ https://epg.pw/stream/78d04e6ff1b4ce33e85c80ea66411d8ec86fc6e92a9a1fc870e6ea0662
 https://epg.pw/stream/8c737efa736cd4158d6666633781fea77cce2fb14cd7945f62e9aef4bb11e1a9.m3u8
 #EXTINF:-1,fox news[1280x720][6.0mb]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
+#EXTINF:-1,AL JAZEERA[1280x720][][geo-limited]
+https://epg.pw/stream/7727f4725c0faa3d6497f28a684732fd4fc8cdc54ba42a1ec111a9e438a62d76.ctv
+
 
 
 
@@ -518,6 +520,8 @@ https://epg.pw/stream/c4c3a42b59b2be77faa995e19856ec8f1995b3348c14d367f1308264c7
 https://epg.pw/stream/b4c831f47be376bbf6ba19942d8103be699c329c8c26fdb26d0ef083a87e0a7a.ctv
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
 https://cntv.lat/tv?auth=202311030915&id=cctv13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="央视",CCTV-13新闻
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 #EXTINF:-1,Channel5[1280x720][20231101]
 https://epg.pw/stream/00224ca830bf9acd9cb5595ef012c01c2e98d8aa32b4d02e8bd9bdaf43c34241.ctv
@@ -529,6 +533,129 @@ https://epg.pw/stream/0c9abbdbd780657fb7a94941d97f13e83ab1d545fd11abd3d493f449c1
 https://epg.pw/stream/bac5d37580f833f121b23eca173d40e6af5c86c2539fd112cef6d6caa22a01e7.ctv
 #EXTINF:-1,ChannelU[1280x720][20231101]
 https://epg.pw/stream/e751a6f28371e859c045e79c3db45798d5c886f3fa6b25213c280977e40dc5ec.ctv
+
+
+#EXTINF:-1,tv051
+rtmp://9sv1.mine.nu:1935/sat/tv051
+#EXTINF:-1,tv071
+rtmp://9sv1.mine.nu:1935/sat/tv071
+#EXTINF:-1,tv091
+rtmp://9sv1.mine.nu:1935/sat/tv091
+#EXTINF:-1,tv111
+rtmp://9sv1.mine.nu:1935/sat/tv111
+#EXTINF:-1,tv421
+rtmp://9sv1.mine.nu:1935/sat/tv421
+#EXTINF:-1,tv521
+rtmp://9sv1.mine.nu:1935/sat/tv521
+#EXTINF:-1,tv551
+rtmp://9sv1.mine.nu:1935/sat/tv551
+#EXTINF:-1,tv571
+rtmp://9sv1.mine.nu:1935/sat/tv571
+#EXTINF:-1,tv701
+rtmp://9sv1.mine.nu:1935/sat/tv701
+#EXTINF:-1,tv721
+rtmp://9sv1.mine.nu:1935/sat/tv721
+#EXTINF:-1,tv731
+rtmp://9sv1.mine.nu:1935/sat/tv731
+#EXTINF:-1,tv741
+rtmp://9sv1.mine.nu:1935/sat/tv741
+#EXTINF:-1,tv761
+rtmp://9sv1.mine.nu:1935/sat/tv761
+#EXTINF:-1,tv771
+rtmp://9sv1.mine.nu:1935/sat/tv771
+#EXTINF:-1,md011
+rtmp://9sv1.mine.nu:1935/sat/md011
+#EXTINF:-1,md021
+rtmp://9sv1.mine.nu:1935/sat/md021
+#EXTINF:-1,md031
+rtmp://9sv1.mine.nu:1935/sat/md031
+#EXTINF:-1,md041
+rtmp://9sv1.mine.nu:1935/sat/md041
+#EXTINF:-1,md051
+rtmp://9sv1.mine.nu:1935/sat/md051
+#EXTINF:-1,cctv1hd
+rtmp://202.204.52.116:1935/livetv/cctv1hd
+#EXTINF:-1,cctv2hd
+rtmp://202.204.52.116:1935/livetv/cctv2hd
+#EXTINF:-1,cctv3hd
+rtmp://202.204.52.116:1935/livetv/cctv3hd
+#EXTINF:-1,cctv4hd
+rtmp://202.204.52.116:1935/livetv/cctv4hd
+#EXTINF:-1,cctv5hd
+rtmp://202.204.52.116:1935/livetv/cctv5hd
+#EXTINF:-1,cctv5phd
+rtmp://202.204.52.116:1935/livetv/cctv5phd
+#EXTINF:-1,cctv6hd
+rtmp://202.204.52.116:1935/livetv/cctv6hd
+#EXTINF:-1,cctv7hd
+rtmp://202.204.52.116:1935/livetv/cctv7hd
+#EXTINF:-1,cctv8hd
+rtmp://202.204.52.116:1935/livetv/cctv8hd
+#EXTINF:-1,cctv9hd
+rtmp://202.204.52.116:1935/livetv/cctv9hd
+#EXTINF:-1,cctv10科教@@1[1920x1080][aacxh264xh264xh264xh264][geo-limited]
+https://epg.pw/stream/9703fff8326a03d905e0b0b21929f4820655afac2cbaf4aca64bb83ce6d9b3fc.ctv
+#EXTINF:-1,cctv12hd
+rtmp://202.204.52.116:1935/livetv/cctv12hd
+#EXTINF:-1,cctv13hd
+rtmp://202.204.52.116:1935/livetv/cctv13hd
+#EXTINF:-1,cctv14hd
+rtmp://202.204.52.116:1935/livetv/cctv14hd
+#EXTINF:-1,cctv16@@14[1920x1080][8.0mb]
+https://epg.pw/stream/9a84ef104a25ddadf6dab824a53c14c5818e7e4f5197ce00d65064421efe99f9.ctv
+#EXTINF:-1,cctv17hd
+rtmp://202.204.52.116:1935/livetv/cctv17hd
+#EXTINF:-1,btv1hd
+rtmp://202.204.52.116:1935/livetv/btv1hd
+#EXTINF:-1,btv11hd
+rtmp://202.204.52.116:1935/livetv/btv11hd
+#EXTINF:-1,btv2hd
+rtmp://202.204.52.116:1935/livetv/btv2hd
+#EXTINF:-1,ahhd
+rtmp://202.204.52.116:1935/livetv/ahhd
+#EXTINF:-1,dfhd
+rtmp://202.204.52.116:1935/livetv/dfhd
+#EXTINF:-1,hunanhd
+rtmp://202.204.52.116:1935/livetv/hunanhd
+#EXTINF:-1,hbhd
+rtmp://202.204.52.116:1935/livetv/hbhd
+#EXTINF:-1,lnhd
+rtmp://202.204.52.116:1935/livetv/lnhd
+#EXTINF:-1,jshd
+rtmp://202.204.52.116:1935/livetv/jshd
+#EXTINF:-1,zjhd
+rtmp://202.204.52.116:1935/livetv/zjhd
+#EXTINF:-1,sdhd
+rtmp://202.204.52.116:1935/livetv/sdhd
+#EXTINF:-1,gdhd
+rtmp://202.204.52.116:1935/livetv/gdhd
+#EXTINF:-1,szhd
+rtmp://202.204.52.116:1935/livetv/szhd
+#EXTINF:-1,hljhd
+rtmp://202.204.52.116:1935/livetv/hljhd
+#EXTINF:-1,广西卫视@@20[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/a798a7e3667257cabf90e7bf947cb438f178674705d58568d0f0425f266cb659.ctv
+#EXTINF:-1,重庆卫视@@23[1920x1080][8.0mb][geo-limited]
+https://epg.pw/stream/4f84e784dbe3317e0775d01980bbdc70fc8666d5927e8634f7f0efa7a630e2b6.ctv
+#EXTINF:-1,天津卫视@@31[1920x1080][14.0mb][geo-limited]
+https://epg.pw/stream/9758d56cda0c7c049e9f57fe1768d8a6c97224bfa42df4f232102d965b6c65c5.ctv
+#EXTINF:-1,北京卫视@@25[1920x1080][15.0mb][geo-limited]
+https://epg.pw/stream/b508b2e5ec4287186ce9297ef4a3f14b9b12e70b641b16271ffe6e2ed9f4009e.ctv
+#EXTINF:-1,河北卫视@@2[1280x720][6.0mb][geo-limited]
+https://epg.pw/stream/f305de1fff9565c467912d4294300b6250893fad09993d10d5c19d7e1dfb2f2b.ctv
+#EXTINF:-1,贵州卫视@@24[1920x1080][14.0mb][geo-limited]
+https://epg.pw/stream/58e810ae3ff7362e32d14f62895c162982254416edc19846015ef8d6299389bc.ctv
+#EXTINF:-1,宁夏卫视@@20[960x540][3.0mb][geo-limited]
+https://epg.pw/stream/21078b28754a71d4899420a641f293a5f90d67415cd55010420d52880b1bfc9f.ctv
+#EXTINF:-1,三沙卫视@@3[720x576][3.0mb][geo-limited]
+https://epg.pw/stream/c4ba0d95e8a9b1c1da11803b921178cb165d67aebc2806e0f29d2180c05e684a.ctv
+#EXTINF:-1,海南卫视@@19[1280x720][1.0mb]
+https://epg.pw/stream/e10ba35ca9bf2a609020d212f031eb43cdce67d9b2ec82b4e7670d3d41f2a148.m3u8
+#EXTINF:-1,the design network@@3[1280x720][5.0mb]
+https://epg.pw/stream/22d79f8455122a8066779f85b9ad59583e0eac16a3ef3473378a06b252d152c7.m3u8
+#EXTINF:-1,fashion tv[1920x1080][12.0mb]
+https://epg.pw/stream/ea5ca79782937a18e87abb1cc786f0c30aa7fdfe2b781f7bcf6d18d38fd2669c.m3u8
+
 
 
 #EXTINF:-1,中天亞洲台[1920x1080][3.0mb][geo-limited]
