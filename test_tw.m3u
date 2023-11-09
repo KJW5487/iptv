@@ -522,6 +522,11 @@ https://epg.pw/stream/b4c831f47be376bbf6ba19942d8103be699c329c8c26fdb26d0ef083a8
 https://cntv.lat/tv?auth=202311030915&id=cctv13
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="央视",CCTV-13新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1,ann japanews24[1920x1080][4.0mb][geo-limited]
+https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+#EXTINF:-1,al jazeera hd
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
 
 #EXTINF:-1,Channel5[1280x720][20231101]
 https://epg.pw/stream/00224ca830bf9acd9cb5595ef012c01c2e98d8aa32b4d02e8bd9bdaf43c34241.ctv
@@ -678,3 +683,30 @@ https://epg.pw/stream/a2330bdca96a3420aa2a0558fee3e7a27377acf939e88305f7d3c66e9c
 https://epg.pw/stream/44ad561016de2d0f887ac3eeee5856bba8d19bbd1f3b0a971f5ed1b92eddcec0.ctv
 #EXTINF:-1,中視經典綜藝[1920x1080][3.0mb][geo-limited]
 https://epg.pw/stream/a6c3de257c1aff4773acd617a46021a66cc3ea237af3c8403c821531ecd18c2e.ctv
+
+#EXTINF:-1,discovery@@1[1920x1080][2.0mb][geo-limited]
+http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+#EXTINF:-1,緯來體育@@1[1920x1080][h264xaac]
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1,民視台灣台[1920x1080][2.0mb][geo-limited]
+http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+#EXTINF:-1,博斯網球@@1[1280x720][4.0mb][geo-limited]
+http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+#EXTINF:-1,NBA TV[1920x1080][]
+https://epg.pw/stream/75977bcf263db4aead25ee779be7681cc468660acace274208bb285fa8a7d00a.ctv
+#EXTINF:-1,三立台湾台@@1[1920x1080][4.0mb][geo-limited]
+http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
+#EXTINF:-1,set inews[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/8ba91f57d6094f715627642901b934839ba4beae8814251c550fb61995ca2018.m3u8
+#EXTINF:-1,cti news[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/e92818c7f796d1cde9921cb90229aaa9215879dbbec69f2adb7e69702e6ebd02.m3u8
+#EXTINF:-1,ttv news[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/a97aae1dbb67696a50f6afad71f11c0617d15f4a396c802c469468ce9c2d5794.m3u8
+#EXTINF:-1,ftv news[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/8a7963fc70f25af915a9554d3e997eebf9f67dbcdaa7057a0a942ce2da8967d9.m3u8
+#EXTINF:-1,tvbs news[1920x1080][9.0mb][geo-limited]
+https://epg.pw/stream/5fe8dcdcd7d52cdfdbd0ee3b2f3f06f1536249726a1c3e1345d06c1264a8e3e5.m3u8
+#EXTINF:-1,ebc yoyo[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/ff0957b91f46fe530e810c3810c2e1055b61811e6de981347d2941e731866cd2.m3u8
+#EXTINF:-1,mnews[1920x1080][7.0mb][geo-limited]
+https://epg.pw/stream/91f7e5d55487cc8edcbe4f9e3e44ff7bd1de6c71068857a9485176ee6b15351a.m3u8

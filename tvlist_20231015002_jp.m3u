@@ -376,12 +376,34 @@ https://epg.pw/stream/2922c83768ce95590a1704e53507672e3b0c9df0d9ac5e95dc4b4ed832
 
 #EXTINF:-1,nagoya tv[1920x1080][2.0mb][geo-limited]
 http://for-testonly.ra1n.lol/nagoyatv/index.m3u8
-
-#EXTINF:-1,ann news[1920x1080][2.0mb][geo-limited]
-https://epg.pw/stream/16a1294b05fdbdb159bcc6a16e0ffa774c7544a94cf46227381ad02cedfbe3e4.m3u8
-
+#EXTINF:-1,pokémon kids tv japanese[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/401a93be34db663e711b167c3612fd1bf951a0b94ff4874aa2bd702c8e227790.m3u8
 
 
+#EXTINF:-1,hbc hokkaido news 24[1920x1080][2.0mb][geo-limited]
+https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
+#EXTINF:-1,htb hokkaido news 24[1280x720][4.0mb][geo-limited]
+https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
+#EXTINF:-1,kbc news[1920x1080][6.0mb][geo-limited]
+https://epg.pw/stream/c8ae662f796d9f2fb5847e3831ccec4a78847555ff85d26556646852d2356e22.m3u8
+#EXTINF:-1,niigata news nst[1920x1080][12.0mb][geo-limited]
+https://epg.pw/stream/9f8a87ea92c066260bcfdfb132e96708bce98179221e057897cf66c771d977f4.m3u8
+#EXTINF:-1,asahi shimbun digital[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/2a02c60551c2e816025a46163d025488361f910d6e81df3eaeea72dd229d08be.m3u8
+#EXTINF:-1,rkb news 24[1920x1080][7.0mb][geo-limited]
+https://epg.pw/stream/61b07b4399a0e6243ebc34e17fc03ae4c963a7999c6146b519348425dbad71ff.m3u8
+#EXTINF:-1,hokkaido news uhb[1920x1080][18.0mb][geo-limited]
+https://epg.pw/stream/ba2685996c70ba176df1a6b11be2861aecd9eed1b69f5438ac4ffbad4c893d6b.m3u8
+#EXTINF:-1,satv news 24h[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/a23b33cbf0da4f2e9599713d8357f052e65a4fed7388faeb3fa453a326531865.m3u8
+#EXTINF:-1,tbs news[1280x720][7.0mb][geo-limited]
+https://epg.pw/stream/e50ea97d892a4593aec7531c92da399b19e970b4b6a5b438fb8ff884bcabc7c8.m3u8
+#EXTINF:-1,ytn2[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/2e12b1aede57a256b48f9a9a0925e5a21237831fa114074ca9c91273305d2cd7.m3u8
+#EXTINF:-1,sen tv[1280x720][4.0mb][geo-limited]
+https://epg.pw/stream/8f8d04fda086ca70c4c93e9dff34fdb2ac7e87ed672b69d1c2bd5c4a205ded61.m3u8
+#EXTINF:-1,mbc every1[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/301aef283a7a220e7ce6afa5be9dad198cb57dbb05214ab8fdd7a7a110e60c8a.m3u8
 
 #EXTINF:-1,JAPANHDV.COM
 http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/indeindex.m3u8
