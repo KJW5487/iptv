@@ -89,7 +89,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,bs01
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1,bs02
+#EXTINF:-1,bs02 bs ntv[960x544][1.0mb]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,bs03
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
@@ -97,11 +97,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,bs05
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1,bs06
+#EXTINF:-1,bs06 bs fuji hd[960x544][1.0mb]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,bs07
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1,bs08
+#EXTINF:-1,bs08 star channel 1[960x544][1.0mb]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,bs11
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
@@ -109,11 +109,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,bs14
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1,bs15
+#EXTINF:-1,bs15 BS Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1,bs18_J Sport 1
+#EXTINF:-1,bs18_j sports 1@@1[960x544][1.0mb]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1,bs19 J Sport 2
+#EXTINF:-1,bs19 j sports 2@@1[960x544][1.0mb]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,bs20_WOWOW
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
@@ -121,7 +121,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,bs22_J Sport 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1,bs23
+#EXTINF:-1,bs23 bs japan movie channel[960x544][1.0mb]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,bs24 Disney Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
@@ -129,9 +129,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,bs26
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1,bs27 Star 2
+#EXTINF:-1,bs27 star channel 2[960x544][1.0mb]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1,bs28 Star 3
+#EXTINF:-1,bs28 star channel 3[960x544][2.0mb]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:1, NHK BS1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -389,7 +389,7 @@ https://epg.pw/stream/c8ae662f796d9f2fb5847e3831ccec4a78847555ff85d26556646852d2
 #EXTINF:-1,niigata news nst[1920x1080][12.0mb][geo-limited]
 https://epg.pw/stream/9f8a87ea92c066260bcfdfb132e96708bce98179221e057897cf66c771d977f4.m3u8
 #EXTINF:-1,asahi shimbun digital[1920x1080][4.0mb][geo-limited]
-https://epg.pw/stream/2a02c60551c2e816025a46163d025488361f910d6e81df3eaeea72dd229d08be.m3u8
+https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
 #EXTINF:-1,rkb news 24[1920x1080][7.0mb][geo-limited]
 https://epg.pw/stream/61b07b4399a0e6243ebc34e17fc03ae4c963a7999c6146b519348425dbad71ff.m3u8
 #EXTINF:-1,hokkaido news uhb[1920x1080][18.0mb][geo-limited]
@@ -397,13 +397,41 @@ https://epg.pw/stream/ba2685996c70ba176df1a6b11be2861aecd9eed1b69f5438ac4ffbad4c
 #EXTINF:-1,satv news 24h[1920x1080][4.0mb][geo-limited]
 https://epg.pw/stream/a23b33cbf0da4f2e9599713d8357f052e65a4fed7388faeb3fa453a326531865.m3u8
 #EXTINF:-1,tbs news[1280x720][7.0mb][geo-limited]
-https://epg.pw/stream/e50ea97d892a4593aec7531c92da399b19e970b4b6a5b438fb8ff884bcabc7c8.m3u8
+https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 #EXTINF:-1,ytn2[1920x1080][3.0mb][geo-limited]
 https://epg.pw/stream/2e12b1aede57a256b48f9a9a0925e5a21237831fa114074ca9c91273305d2cd7.m3u8
 #EXTINF:-1,sen tv[1280x720][4.0mb][geo-limited]
 https://epg.pw/stream/8f8d04fda086ca70c4c93e9dff34fdb2ac7e87ed672b69d1c2bd5c4a205ded61.m3u8
 #EXTINF:-1,mbc every1[1920x1080][5.0mb][geo-limited]
 https://epg.pw/stream/301aef283a7a220e7ce6afa5be9dad198cb57dbb05214ab8fdd7a7a110e60c8a.m3u8
+#EXTINF:-1,abc tv news[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/bba6732527e498a5a513e263914fc2920922350744b3b217c35ae6943302a483.m3u8
+
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
+http://asia.vthanhtivi.pw/NHK_G/index.m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E 
+http://asia.vthanhtivi.pw/NHK_E/index.m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV 
+http://asia.vthanhtivi.pw/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
+http://asia.vthanhtivi.pw/TBS/index.m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV  
+http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi  
+http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
+http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
+http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
+http://asia.vthanhtivi.pw/BS11/index.m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
+http://asia.vthanhtivi.pw/AT-X/index.m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg", MTV  
+http://asia.vthanhtivi.pw/MTV/index.m3u8
+
+
 
 #EXTINF:-1,JAPANHDV.COM
 http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/indeindex.m3u8

@@ -201,6 +201,24 @@ https://epg.pw/stream/7727f4725c0faa3d6497f28a684732fd4fc8cdc54ba42a1ec111a9e438
 
 
 
+##錄影專區
+#EXTINF:-1,Al Jazeera English
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1,NHK WORLD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1,NTV News 24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1,凤凰资讯@@4[1920x1080][3.0mb][geo-limited]
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1,8 MEDIACORP[1280x720][][geo-limited]
+https://epg.pw/stream/38b801aaf040059e9337e61405c1a56f1cd76e5b43b8862a253db2454b09d4b2.ctv
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="央视",CCTV-13新闻
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1,CCTV-13
+http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+
+
+
 
 #EXTINF:-1,立法院ivod直播教育及文化委員會[800x450][2.0mb][geo-limited]
 https://epg.pw/stream/0f6ec07def37460a9308f5f473019fc183f47f3d12359d5bed23e25033dc7016.m3u8
@@ -482,10 +500,7 @@ http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/i
 http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1,凤凰中文@@1[1920x1080][8.0mb][geo-limited]
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-#EXTINF:-1,凤凰资讯@@4[1920x1080][3.0mb][geo-limited]
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1,8 MEDIACORP[1280x720][][geo-limited]
-https://epg.pw/stream/38b801aaf040059e9337e61405c1a56f1cd76e5b43b8862a253db2454b09d4b2.ctv
+
 #EXTINF:-1,8TV MALAYSIA[720x540][][geo-limited]
 https://epg.pw/stream/f82e1a5c9a6fb31ebc23bfd8762ec6d9cef431a506342d4d05ca0e1d997729fa.ctv
 #EXTINF:-1,CNA[1920x1080][][geo-limited]
@@ -518,15 +533,24 @@ https://epg.pw/stream/66d03a8a839116620b15dabc9b4c2f7c5a13cef9bdafb1fe6cfdc6232c
 https://epg.pw/stream/c4c3a42b59b2be77faa995e19856ec8f1995b3348c14d367f1308264c7fbbdd1.ctv
 #EXTINF:-1,playboy[1920x1080][][geo-limited]
 https://epg.pw/stream/b4c831f47be376bbf6ba19942d8103be699c329c8c26fdb26d0ef083a87e0a7a.ctv
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
-https://cntv.lat/tv?auth=202311030915&id=cctv13
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="央视",CCTV-13新闻
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+
+
 #EXTINF:-1,ann japanews24[1920x1080][4.0mb][geo-limited]
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
 #EXTINF:-1,al jazeera hd
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-
+#EXTINF:-1,美国中文电视
+https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1,edaily tv[1920x1080][1.0mb][geo-limited]
+https://epg.pw/stream/501e33ea7d565eb2a724f1f72ccb81b0ad5c97c0fa7fb57d1f25bb341ca217e6.m3u8
+#EXTINF:-1,mncsport[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/7fffa50901ba469c27d0a1079c41db61eb9b065fe29ea6d99460b67155a2b1c8.ctv
+#EXTINF:-1,AL JAZEERA[1280x720][][geo-limited]
+https://epg.pw/stream/73754bf84e684676951e76496c0c6b2d9f4f8c596f46818846fa1a3cd45c8752.ctv
+#EXTINF:-1,凤凰卫视[1280x720][][geo-limited]
+https://epg.pw/stream/e175ccb553cf3455ba032d3f290335d05e8ce4f4531409b9c91bd18162b9102c.ctv
+#EXTINF:-1,AL JAZEERA[1280x720][][geo-limited]
+https://epg.pw/stream/5be93263bb13a97d1870cc2902ae4174a88a2827dcc494a9f15895c518ae44ae.ctv
 
 #EXTINF:-1,Channel5[1280x720][20231101]
 https://epg.pw/stream/00224ca830bf9acd9cb5595ef012c01c2e98d8aa32b4d02e8bd9bdaf43c34241.ctv
@@ -710,3 +734,28 @@ https://epg.pw/stream/5fe8dcdcd7d52cdfdbd0ee3b2f3f06f1536249726a1c3e1345d06c1264
 https://epg.pw/stream/ff0957b91f46fe530e810c3810c2e1055b61811e6de981347d2941e731866cd2.m3u8
 #EXTINF:-1,mnews[1920x1080][7.0mb][geo-limited]
 https://epg.pw/stream/91f7e5d55487cc8edcbe4f9e3e44ff7bd1de6c71068857a9485176ee6b15351a.m3u8
+#EXTINF:-1,AL JAZEERA[1280x720][][geo-limited]
+https://epg.pw/stream/7783cf228741be828cfadd3d76b2df833daacf62e4f73c54a769bd60e9db256d.ctv
+#EXTINF:-1,凤凰卫视[1280x720][][geo-limited]
+https://epg.pw/stream/929cd9255d304786e320e4d3991657fae2a405737882ef925a7cf428f161e3ef.ctv
+#EXTINF:-1,8TV MALAYSIA[720x540][][geo-limited]
+https://epg.pw/stream/93229c6a64631613ffc38d61d27c7e149262488ac204a7595b86ecbb87cc79fe.ctv
+#EXTINF:-1,cinemax@@2[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/951ea64fa7b24d34388530068c19750a14c888fce2baaca575c6af4a48c21bf0.m3u8
+#EXTINF:-1,经典电影台@@1[800x600][1.0mb][geo-limited]
+https://epg.pw/stream/6fc6b30432660952002012c0dbb9706ddbd11168051c55fb8cd67698a5d57615.ctv
+#EXTINF:-1,八大综合台[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/7ef5f23f3331b80f11da319c9f1459eb25709edac1ac0dd54898a01fe678caa5.m3u8
+#EXTINF:-1,八大电视[1920x1080][1.0mb][geo-limited]
+https://epg.pw/stream/1dce832b2f0b5fb8dedbfcc7849b436932e4b617c637a7fd6a1d9c66b39d3ff1.m3u8
+#EXTINF:-1,八大戏剧台@@1[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/795496ffe733545d0390caf82e652dad09099f8bd801a69ada1e47047c76069c.m3u8
+#EXTINF:-1,靖天国际[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/17b8c6c99d3bf3217597995aaa0a47b0671efb4d28b4ce064502fec3f1304845.m3u8
+#EXTINF:-1,东森电影台@@1[1920x1080][h264xmp2]
+https://epg.pw/stream/37f73e410f7bf9729e0acd4464243f74e294d09db92d83fc1376549da9b56f4b.m3u8
+#EXTINF:-1,东森洋片台[1920x1080][h264xmp2]
+https://epg.pw/stream/26c2451354932edfa72838cac2fa4e3c4c21e4ef651c92891cc44435e9a72bd5.m3u8
+#EXTINF:-1,龙祥时代[1920x1080][h264xmp2]
+https://epg.pw/stream/9d858bce2e41205201bba7d5d15393093e030e261f1a2b2c34f0e176c7065e83.m3u8
+
