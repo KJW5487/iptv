@@ -350,3 +350,33 @@ https://epg.pw/stream/fdd4f9dce09609c80d715b188cef56ff15c17e61086a6b3a4b3c163f00
 https://epg.pw/stream/8c26e5920fddc6b295a70701c49022fcf9a6eea801f081e31954997f15cfe758.m3u8
 #EXTINF:-1,vtv8[1280x720][3.0mb]
 https://epg.pw/stream/120702db5521c03612581dbcd73be5118cc9881d71e08ab209f777831ccc1176.m3u8
+#EXTINF:-1,th đắk lắk[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/6d0b699f34b20d3b3c01e3c30a4a46e757dcf385ad1ec622a1237a9c915a5efe.ctv
+#EXTINF:-1,th quảng ngãi[854x480][1.0mb]
+https://epg.pw/stream/1cfcaf78402a08daf295134fcd57bc4403a8ee60d630e55dcdf9ca7f93df086c.m3u8
+#EXTINF:-1,th đồng tháp@@2[960x540][2.0mb]
+https://epg.pw/stream/f80d2280de554507ead5b59490f438f15eaa8a8eee0f0a357f5f0fee01e35239.m3u8
+#EXTINF:-1,hanoitv1 hd[1920x1080][2.0mb]
+https://epg.pw/stream/e39e669c3be96c7ee27540175707821bc548773efc65590a9b2cc05b2eac5f6c.m3u8
+#EXTINF:-1,th cần thơ[1920x1080][3.0mb]
+https://epg.pw/stream/3e448ce308fe5b49fa255ca7a1a0e5a0622c827eb8c229f4a296c6ecf2d42537.m3u8
+#EXTINF:-1,cần thơ[1920x1080][1.0mb]
+https://epg.pw/stream/69ba1feb21e265c4ec9b568cb75326a021bfe48b8748fe88e00682ce7d4f12a8.m3u8
+#EXTINF:-1,th đồng nai@@2[1280x720][2.0mb]
+https://epg.pw/stream/453c948cc1cbfe4fb78144be8daaf320452c60269d1cca7007c18c4b97a69205.m3u8
+#EXTINF:-1,th đắk lắk@@1[1920x1080][1.0mb]
+https://epg.pw/stream/8de79c8da068ef54149db5ac34d65a9f7fda76c291329ebc39776ee6c15177a1.m3u8
+#EXTINF:-1,b42_sport myk+ mpd[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/07c7d708bf2beed8c954dfd2109c87f6e44ed76c9110cf5880922abe1462ad34.m3u8
+#EXTINF:-1,b41_sport mynet+ mpd[1920x1080][7.0mb][geo-limited]
+https://epg.pw/stream/eae23cb8e141b65c1e8736a96c5d925d2f3cbc816c77f1e4274caac24c755093.m3u8
+#EXTINF:-1,htv the thao@@1[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/8240d748028610215f1e3210d4c855ead691681a8db4072d8d72decacf1352c9.m3u8
+#EXTINF:-1,vtv5 tây nam bộ fpt[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/b4f21da0319c63d93923ee146cdc6ad5fd4e6e1c1751701c6f0ff9a8cc2efac7.ctv
+#EXTINF:-1,action myk+ mpd[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/ec231ba64c6366a71d69fc92c2193f95847348aa7401322ece5ef8ae2e6099db.m3u8
+#EXTINF:-1,cine myk+ mpd[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/bbb66a9ecb573967117c17c702d2ce7eb1895c5fe3cc8b0a70d0e2973dd81390.m3u8
+#EXTINF:-1,th khánh hòa[1280x720][h264xaac][geo-limited]
+https://epg.pw/stream/a3e84b77ea7e47c8ee1af051d6e9b67215fb58e2b6023a08f5a2234e3f5b45e3.ctv

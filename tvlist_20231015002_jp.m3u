@@ -25,7 +25,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,cs13 歌謡ポップスチャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1,cs14
+#EXTINF:-1,cs14 ムービープラス
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,cs15 BBCワールドニュース
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&bind=0&uin=159413&playseek=0
@@ -71,21 +71,21 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,gd07
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1,gd08
+#EXTINF:-1,gd08 TOKYO MX1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,gx01
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1,gx02
+#EXTINF:-1,gx02 朝日放送テレビ 6チャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,gx03
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1,gx04
+#EXTINF:-1,gx04 ytv 読売テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,gx05
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,gx06 NHK G
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1,gx07
+#EXTINF:-1,gx07 SUN TV サンテレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,bs01 NHK BSP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
@@ -437,7 +437,7 @@ https://epg.pw/stream/e2b92fd929b922d75436b52ce86f27a397d51bea0acddcc0fc12c6eac1
 #EXTINF:-1,bs tbs@@2[1280x720][3.0mb]
 https://epg.pw/stream/c3e7a3a0c45bad898f6740828e92b94d576866522acad225bdc323955e652264.ctv
 
-#EXTINF:-1,home[960x720][][geo-limited]
+#EXTINF:-1,home 廣島HOME電視台[960x720][][geo-limited]
 http://for-testonly.ra1n.lol/home/index.m3u8
 #EXTINF:-1,mbc@@2[1920x1080][3.0mb]
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
@@ -459,6 +459,8 @@ https://epg.pw/stream/6862d4bce7b38a3a92f579851e48dd6cdfc48d2a76d60118aa04dd19e7
 https://epg.pw/stream/364c7944b3f5e3f2194b3c013d8dfa60f367e6cb05191f926807c27eba5e5ab3.ctv
 #EXTINF:-1,韩国·sbs cjb[960*540][960x540][2.0mb]
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1,m2@@1[1280x720][4.0mb]
+https://epg.pw/stream/003a6dba4dda3cd453ac3975a525ad8e7da72c569f00e2b055480e1831cc478f.m3u8
 
 #EXTINF:-1,JAPANHDV.COM
 http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/indeindex.m3u8
@@ -482,3 +484,39 @@ https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
 https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
 #EXTINF:-1,三本道[720x404][0.0mb]
 https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
+#EXTINF:-1,松视1@@1[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/8ef5c0fc5d584191a918fa012dd6dee12934f8f90c575c3eb9509460ccb31646.ctv
+#EXTINF:-1,松视1@@2[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/1475b4124f066ed600044909533f6a859458c1bdf934164c4004b9c20c23490e.ctv
+#EXTINF:-1,欧美版粉红[1280x720][2.0mb][geo-limited]
+https://epg.pw/stream/fb5cce21916575588fb4b8eb6f4a0cdc613e997d253cb4c73a5ebaa574132722.m3u8
+#EXTINF:-1,欧美版二本道[1280x720][2.0mb][geo-limited]
+https://epg.pw/stream/7cfd3e9a720e7d3e541761c6a14ebe14cf97aeef86c6b510d0f43325b4f33a5c.m3u8
+#EXTINF:-1,欧美版香蕉[1280x720][2.0mb][geo-limited]
+https://epg.pw/stream/81680c1022b7ec01b57a0707df4dafb2f0f1bc38030491fccd479cc7c5cf986b.m3u8
+#EXTINF:-1,欧美版hot[1280x720][2.0mb]
+https://epg.pw/stream/2f95613747037d6539ea776302c21d5a0c3827fe40597d20461dada97459b67a.m3u8
+#EXTINF:-1,欧美版女同[1280x720][0.0mb]
+https://epg.pw/stream/be3b2136600318c741aaec8e903830f0a3bd69408faa13279e5d2173dec44161.m3u8
+#EXTINF:-1,gangbang@@1[1280x720][2.0mb]
+https://epg.pw/stream/3a793485b9c5c441cfd8e9dd80f475e8578652e6c2f1ae711fd0c1dd10e19c1c.m3u8
+#EXTINF:-1,big_ass_girls[1280x720][2.0mb]
+https://epg.pw/stream/18878bdc35775945857c1696b6b7f3dfbe17853a6fa1a5140acd53430396ef48.m3u8
+#EXTINF:-1,blonde@@1[1280x720][2.0mb][geo-limited]
+https://epg.pw/stream/c17244b259b2f789a7303aa7ccd798b9271a3bf79fe52caa39259a94e9b6512f.m3u8
+#EXTINF:-1,visit-x[1280x720][3.0mb]
+https://epg.pw/stream/04dfb03025d03af4dd829fed626f97830a1d01bf854d12b234a9568fbb06cb3d.m3u8
+
+
+#EXTINF:-1,sbs 靜岡放送株式會社[1920x1080][3.0mb][geo-limited]
+http://for-testonly.ra1n.lol/daiichi-tv/index.m3u8
+#EXTINF:-1,tvs 株式會社埼玉電視@@1[960x720][3.0mb][geo-limited]
+http://for-testonly.ra1n.lol/teletama/index.m3u8
+#EXTINF:-1,ntv@@1[1280x720][2.0mb][geo-limited]
+http://asia.vthanhtivi.pw/Nippon_TV/index.m3u8
+#EXTINF:-1,nhk g@@2[1280x720][2.0mb][geo-limited]
+http://asia.vthanhtivi.pw/NHK_G/index.m3u8
+#EXTINF:-1,日本qvc[720x404][1.0mb]
+https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1,nhk g@@1[720x576][3.0mb]
+https://epg.pw/stream/201b42305ce9ae2ebfd252d1844a465bc0dda7b2967838edeb481c149a1d29d3.ctv

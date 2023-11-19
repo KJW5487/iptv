@@ -229,6 +229,10 @@ http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/in
 #http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1,Channel 8[1920x1080][]
 https://epg.pw/stream/995625d907416ca5c9d6987c8c223ee10f74b8b9384aa46b89bbb41b9e9195b5.ctv
+
+#EXTINF:-1,Channel 8[1280x720][]
+https://epg.pw/stream/799fe539fbbbb85b065c0539328f57d6de3c385e0a0dfd89dfdfd5c68586a74c.ctv
+
 #EXTINF:-1,NBA TV[1280x720][]
 https://epg.pw/stream/63ec0e3810a07808cf33b5dac92cfde4137fe5f0556fc2f58e3e643bfd298042.ctv
 #EXTINF:-1,news front hd[1280x720][2.0mb][geo-limited]
@@ -806,3 +810,9 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1,ski tv[1920x1080][10.0mb][geo-limited]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+#EXTINF:-1,金砖电视[1920x1080][4.0mb]
+https://epg.pw/stream/626120a294aed68a8aeada605274dbbdc9135d80ccc56c172b94746a5acc6110.m3u8
+#EXTINF:-1,摄影[960x540][aacxh264xh264][geo-limited]
+https://epg.pw/stream/765dfeae52a104dadda7cb40ae63731681ac7dde7290c781c4f8b406fafc23c0.ctv
+#EXTINF:-1,幸福空間居家[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/daefd2a488b05b316a24bdbc5150b6a1b9c7c214c358e82e1551d1134c68691b.m3u8
