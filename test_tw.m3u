@@ -208,15 +208,39 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1,NTV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1,cs11 TBS NEWS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,凤凰资讯@@4[1920x1080][3.0mb][geo-limited]
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1,凤凰资讯@@1[1920x1080][9.0mb][geo-limited]
+https://epg.pw/stream/679055deefd5d79a19efa07d9c82b326995f4f568f98f2917f444a458af574e1.m3u8
 #EXTINF:-1,8 MEDIACORP[1280x720][][geo-limited]
-https://epg.pw/stream/38b801aaf040059e9337e61405c1a56f1cd76e5b43b8862a253db2454b09d4b2.ctv
+#https://epg.pw/stream/38b801aaf040059e9337e61405c1a56f1cd76e5b43b8862a253db2454b09d4b2.ctv
+#https://epg.pw/stream/d410b16153dba49a46848512e0db718bb51c360cd79723ce1d26bdcd183b7e58.ctv
+#https://epg.pw/stream/5322d27301cccdfb806ee8283f2798da472f30a29c48142de4a178fb9ff072a3.ctv
+#https://epg.pw/stream/32fc00d63f5fee6a8ec6885c62f2a0462a0e08016a9af8506d8ccbdfebc75496.ctv
+#https://epg.pw/stream/e1edd1095ab403016c55db35262c9797de45e12450076cc4a6c66062e687a986.ctv
+#https://epg.pw/stream/84a5dbf0802a56429f7ebe8182c9cb8be4dcf54f142f22959145c018e451c4e6.ctv
+https://epg.pw/stream/bac5d37580f833f121b23eca173d40e6af5c86c2539fd112cef6d6caa22a01e7.ctv
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="央视",CCTV-13新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1,CCTV-13
 http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
-
+#http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1,Channel 8[1920x1080][]
+https://epg.pw/stream/995625d907416ca5c9d6987c8c223ee10f74b8b9384aa46b89bbb41b9e9195b5.ctv
+#EXTINF:-1,NBA TV[1280x720][]
+https://epg.pw/stream/63ec0e3810a07808cf33b5dac92cfde4137fe5f0556fc2f58e3e643bfd298042.ctv
+#EXTINF:-1,news front hd[1280x720][2.0mb][geo-limited]
+http://moobl.ru/hls/News_Front_hd.m3u8
+#EXTINF:-1,tv brics hd[1920x1080][3.0mb][geo-limited]
+http://moobl.ru/hls/TV_brics_hd.m3u8
+#EXTINF:-1,relax[1920x1080][4.0mb]
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1,泰国 astv news 1[1920x1080][4.0mb][geo-limited]
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1,fashion4k[3840x2160][9.0mb]
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 
 
@@ -759,3 +783,26 @@ https://epg.pw/stream/26c2451354932edfa72838cac2fa4e3c4c21e4ef651c92891cc44435e9
 #EXTINF:-1,龙祥时代[1920x1080][h264xmp2]
 https://epg.pw/stream/9d858bce2e41205201bba7d5d15393093e030e261f1a2b2c34f0e176c7065e83.m3u8
 
+#EXTINF:-1,動物星球[1920x1080][3.0mb][geo-limited]
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+#EXTINF:-1,tvbs@@1[1920x1080][2.0mb][geo-limited]
+http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
+#EXTINF:-1,國家地理台灣[1920x1080][7.0mb][geo-limited]
+http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
+#EXTINF:-1,東森洋片[1920x1080][2.0mb][geo-limited]
+http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+#EXTINF:-1,bbc earth@@1[1280x720][3.0mb][geo-limited]
+http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
+#EXTINF:-1,國家地理野生@@1[1280x720][3.0mb][geo-limited]
+http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
+#EXTINF:-1,星衛電影台[1280x720][3.0mb][geo-limited]
+http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?ct=17874&tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+#EXTINF:-1,chc-家庭影院[1920x1080][][geo-limited]
+http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1,番薯台[1920x1080][2.0mb]
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1,tvbs新闻@@5[1920x1080][3.0mb]
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1,ski tv[1920x1080][10.0mb][geo-limited]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
