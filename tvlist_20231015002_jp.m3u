@@ -520,3 +520,26 @@ http://asia.vthanhtivi.pw/NHK_G/index.m3u8
 https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1,nhk g@@1[720x576][3.0mb]
 https://epg.pw/stream/201b42305ce9ae2ebfd252d1844a465bc0dda7b2967838edeb481c149a1d29d3.ctv
+
+#EXTINF:-1,fox sport 501[960x540][3.0mb][geo-limited]
+https://epg.pw/stream/20c44aa6b30c3f5e129239c94cc4e76d39952c72662d6ef92d61a70e16ea1f23.ctv
+#EXTINF:-1,fox sport 502[1280x720][6.0mb][geo-limited]
+https://epg.pw/stream/50add93dfde4a01dcffbbc9af3896fbf6fb425836eae8f57fa677932ed7406f7.ctv
+#EXTINF:-1,fox sport 503[960x540][2.0mb][geo-limited]
+https://epg.pw/stream/c9ce1b2f5829128669f51c78f713d13169f059f8b6555fc83e6ed800b9057473.ctv
+#EXTINF:-1,fox sport 504[1280x720][4.0mb][geo-limited]
+https://epg.pw/stream/796ef6bbb81d10a9406dbc87e0741b0253143ef192e9ad665f0ac6f34cc1f17d.ctv
+#EXTINF:-1,fox sport 505[960x540][2.0mb][geo-limited]
+https://epg.pw/stream/561cdaa609412e0457eecd0b80019d40c4dba700c559e62eadee2b2022d915d6.ctv
+#EXTINF:-1,fox sport 506[960x540][3.0mb][geo-limited]
+https://epg.pw/stream/68adb3288bb9142e2c877b3561f620a9fee9d70feaf727b3be31aa387e7ccffa.ctv
+#EXTINF:-1,fox sport 507[960x540][2.0mb][geo-limited]
+https://epg.pw/stream/69a4226b13d4fb8e53ccdf654f1995d66680ee4fae49444fd6aa52c9fb1687a3.ctv
+#EXTINF:-1,bein sport[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/409bfdafe9b8297ba1377db110ba35b2d48223ed6f42dbe557fe15c766bc6114.ctv
+#EXTINF:-1,bein sport 2[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/329fea6da23011b874e7b1d5a1e628f3ee18f6409234bc0f94b6a1d7c4346779.ctv
+#EXTINF:-1,bein sport 3[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/ead63e9448fb19d1248caf70b1ff215a1a50e1115ecfec53ef6d7b0e276c8882.ctv
+#EXTINF:-1,kbsn sports_[1920x1080][11.0mb][geo-limited]
+https://epg.pw/stream/0bbba26385b026b124f5139400106cc45c9af42635ed96a3a03ca6f175b40437.ctv
