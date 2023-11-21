@@ -826,3 +826,5 @@ http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA368185663681856
 http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
 #EXTINF:-1,國家地理野生[1280x720][3.0mb][geo-limited]
 http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+#EXTINF:-1,tvbs歡樂台[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/af1f12ac64888795f3cdd1828016b1951567a493df28ea8ae0f3619bbcc0bd9a.ctv

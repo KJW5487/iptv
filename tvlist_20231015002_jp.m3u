@@ -461,6 +461,8 @@ https://epg.pw/stream/364c7944b3f5e3f2194b3c013d8dfa60f367e6cb05191f926807c27eba
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 #EXTINF:-1,m2@@1[1280x720][4.0mb]
 https://epg.pw/stream/003a6dba4dda3cd453ac3975a525ad8e7da72c569f00e2b055480e1831cc478f.m3u8
+#EXTINF:-1,the k-pop2[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/b738b6cf48d53bc597f47266ae3780e00c7ab09b7be98e9d33fd2539dad79914.m3u8
 
 #EXTINF:-1,JAPANHDV.COM
 http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/indeindex.m3u8
@@ -543,3 +545,9 @@ https://epg.pw/stream/329fea6da23011b874e7b1d5a1e628f3ee18f6409234bc0f94b6a1d7c4
 https://epg.pw/stream/ead63e9448fb19d1248caf70b1ff215a1a50e1115ecfec53ef6d7b0e276c8882.ctv
 #EXTINF:-1,kbsn sports_[1920x1080][11.0mb][geo-limited]
 https://epg.pw/stream/0bbba26385b026b124f5139400106cc45c9af42635ed96a3a03ca6f175b40437.ctv
+#EXTINF:-1 tvg-id="TOSNews.jp",TOS News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
+#EXTINF:-1 tvg-id="TVShizuoka.jp",TV Shizuoka (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
+#EXTINF:-1 tvg-id="IwateMenkoiTelevision.jp",Iwate Menkoi Television (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCw14eNQAUDqCg-fX3Uvd07w.m3u8
