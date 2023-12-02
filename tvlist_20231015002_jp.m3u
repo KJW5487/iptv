@@ -463,6 +463,8 @@ http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 https://epg.pw/stream/003a6dba4dda3cd453ac3975a525ad8e7da72c569f00e2b055480e1831cc478f.m3u8
 #EXTINF:-1,the k-pop2[1920x1080][2.0mb][geo-limited]
 https://epg.pw/stream/b738b6cf48d53bc597f47266ae3780e00c7ab09b7be98e9d33fd2539dad79914.m3u8
+#EXTINF:-1,amc[1920x1080][3.0mb]
+https://epg.pw/stream/203992c669cad3572248669e8c826bc4e9fc316037ef6e6fd5251df85a7a8623.m3u8
 
 #EXTINF:-1,JAPANHDV.COM
 http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/indeindex.m3u8
@@ -551,3 +553,38 @@ https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
 https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
 #EXTINF:-1 tvg-id="IwateMenkoiTelevision.jp",Iwate Menkoi Television (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCw14eNQAUDqCg-fX3Uvd07w.m3u8
+#EXTINF:-1,mbc_sport_+_[1920x1080][11.0mb][geo-limited]
+https://epg.pw/stream/8b59ccb72958cd70f7be6f6107329bffc1892149002f65c811d8d8b0eccafdb0.ctv
+#EXTINF:-1,arirang korea@@1[1280x720][2.0mb]
+https://epg.pw/stream/526ba8e7c8dcbf3902298b32afa9adb5320c8a71cf4acd57fdfc7229d3b00bce.m3u8
+#EXTINF:-1,reload play[1920x1080][2.0mb]
+https://epg.pw/stream/17a37429a0060cf9dd865d84aa49b6f5dab8811533d8c695b9e0a8bfac339b51.m3u8
+#EXTINF:-1,exploris[720x576][4.0mb]
+https://epg.pw/stream/94d465786a3c950f4a4e18e51f4684e30300ba6a2060c2908f557e90fd547c5c.ctv
+#EXTINF:-1,тнт music@@1[1024x576][4.0mb][geo-limited]
+https://epg.pw/stream/e8525377248c7e15c7bddb1933a01172b90b0bf02d8a2e34c255d65b70dead4b.m3u8
+
+#EXTINF:-1,fuji tv@@2[960x540][1.0mb]
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1,tbs[960x540][0.0mb]
+https://tbs3.mov3.co/hls/tbs.m3u8
+#EXTINF:-1,nippon tv@@1[960x540][1.0mb]
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1,tokyo mx1[1280x720][2.0mb]
+https://neetball.net/live/neet.m3u8
+#EXTINF:-1,8tv[1920x1080][12.0mb]
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
+#EXTINF:-1,ubc sbs[960x540][2.0mb]
+https://epg.pw/stream/f9bf0d1087cb7c31153852b58d49c5912891b89de298d3c6458c67c77319a5f5.m3u8
+#EXTINF:-1,mbc@@3[1920x1080][7.0mb]
+https://epg.pw/stream/1a106edd0230c5a5e02a8ea9e0e5112ed448f7723595c3293de396429adcfbda.ctv
+#EXTINF:-1,sbs[960x540][2.0mb]
+https://epg.pw/stream/a0ba0693a636f5cf96fb2f8286fa425db1ad3743f1670f22012eaa75c4178c4c.m3u8
+#EXTINF:-1,k-pop@@1[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/14f8a263948c503385d896a7f48267e2f4644fa86e13d61cdee1974492ef843d.m3u8
+#EXTINF:-1,wowowプライム[1280x720][2.0mb]
+https://epg.pw/stream/691354dd4e6ebafc48101822e3af3cd53c473dfa66339f693a12392c6b208594.m3u8
+#EXTINF:-1,wowowシネマ[1280x720][2.0mb]
+https://epg.pw/stream/be57cc2ee9483ce657ec77eb8bd158c8b1447e0d9c4520423790912f9541d74c.m3u8
+#EXTINF:-1,スカイa[1280x720][2.0mb]
+https://epg.pw/stream/a42b0ec95a385db9b1ce4bc8edd71d9a68b9db5c4628df1fe52b8de72b33941b.m3u8

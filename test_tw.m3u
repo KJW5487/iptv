@@ -224,9 +224,17 @@ https://epg.pw/stream/679055deefd5d79a19efa07d9c82b326995f4f568f98f2917f444a458a
 https://epg.pw/stream/bac5d37580f833f121b23eca173d40e6af5c86c2539fd112cef6d6caa22a01e7.ctv
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="央视",CCTV-13新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1,CCTV13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1,CCTV-13
-http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
-#http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1,13新聞@@3[1920x1080][h264xaac][geo-limited]
+http://cfss.cc/api/ysp/cctv13.m3u8
+#EXTINF:-1,bbc world news[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/ccb2ae4de52c80d7e0c4e2202fdb4eefc9aa6306a347ea8e0fd3d4b5b985251a.m3u8
+#EXTINF:-1,cbs news@@7[1280x720][2.0mb][geo-limited]
+https://epg.pw/stream/c8235a68f8b106e1aeae08aba7780e28e58b4cdd3c813e3288e62d4b2091d9a8.m3u8
 #EXTINF:-1,Channel 8[1920x1080][]
 https://epg.pw/stream/995625d907416ca5c9d6987c8c223ee10f74b8b9384aa46b89bbb41b9e9195b5.ctv
 
@@ -245,6 +253,8 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1,fashion4k[3840x2160][9.0mb]
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1,playboy@@1[1280x720][2.0mb][geo-limited]
+https://epg.pw/stream/c5e24876f3993c5f6b3e19faae9e9c844fa5f8a676bae523b38ea9b0a5eca2b5.ctv
 
 
 
@@ -593,43 +603,51 @@ https://epg.pw/stream/e751a6f28371e859c045e79c3db45798d5c886f3fa6b25213c280977e4
 
 
 #EXTINF:-1,tv051
-rtmp://9sv1.mine.nu:1935/sat/tv051
+rtmp://9sv2.mine.nu:1935/sat/tv051
 #EXTINF:-1,tv071
-rtmp://9sv1.mine.nu:1935/sat/tv071
+rtmp://9sv2.mine.nu:1935/sat/tv071
 #EXTINF:-1,tv091
-rtmp://9sv1.mine.nu:1935/sat/tv091
+rtmp://9sv2.mine.nu:1935/sat/tv091
 #EXTINF:-1,tv111
-rtmp://9sv1.mine.nu:1935/sat/tv111
+rtmp://9sv2.mine.nu:1935/sat/tv111
 #EXTINF:-1,tv421
-rtmp://9sv1.mine.nu:1935/sat/tv421
+rtmp://9sv2.mine.nu:1935/sat/tv421
 #EXTINF:-1,tv521
-rtmp://9sv1.mine.nu:1935/sat/tv521
+rtmp://9sv2.mine.nu:1935/sat/tv521
 #EXTINF:-1,tv551
-rtmp://9sv1.mine.nu:1935/sat/tv551
+rtmp://9sv2.mine.nu:1935/sat/tv551
 #EXTINF:-1,tv571
-rtmp://9sv1.mine.nu:1935/sat/tv571
+rtmp://9sv2.mine.nu:1935/sat/tv571
 #EXTINF:-1,tv701
-rtmp://9sv1.mine.nu:1935/sat/tv701
+rtmp://9sv2.mine.nu:1935/sat/tv701
 #EXTINF:-1,tv721
-rtmp://9sv1.mine.nu:1935/sat/tv721
+rtmp://9sv2.mine.nu:1935/sat/tv721
 #EXTINF:-1,tv731
-rtmp://9sv1.mine.nu:1935/sat/tv731
+rtmp://9sv2.mine.nu:1935/sat/tv731
 #EXTINF:-1,tv741
-rtmp://9sv1.mine.nu:1935/sat/tv741
+rtmp://9sv2.mine.nu:1935/sat/tv741
 #EXTINF:-1,tv761
-rtmp://9sv1.mine.nu:1935/sat/tv761
+rtmp://9sv2.mine.nu:1935/sat/tv761
 #EXTINF:-1,tv771
-rtmp://9sv1.mine.nu:1935/sat/tv771
+rtmp://9sv2.mine.nu:1935/sat/tv771
 #EXTINF:-1,md011
-rtmp://9sv1.mine.nu:1935/sat/md011
+rtmp://9sv2.mine.nu:1935/sat/md011
 #EXTINF:-1,md021
-rtmp://9sv1.mine.nu:1935/sat/md021
+rtmp://9sv2.mine.nu:1935/sat/md021
 #EXTINF:-1,md031
-rtmp://9sv1.mine.nu:1935/sat/md031
+rtmp://9sv2.mine.nu:1935/sat/md031
 #EXTINF:-1,md041
-rtmp://9sv1.mine.nu:1935/sat/md041
+rtmp://9sv2.mine.nu:1935/sat/md041
 #EXTINF:-1,md051
-rtmp://9sv1.mine.nu:1935/sat/md051
+rtmp://9sv2.mine.nu:1935/sat/md051
+
+#EXTINF:-1,愛爾達體育3[1280x720][5.0mb]
+rtmp://9sv2.mine.nu/sat/md021
+#EXTINF:-1,愛爾達體育[1280x720][1.0mb]
+rtmp://9sv2.mine.nu:1935/sat/md051
+
+
+
 #EXTINF:-1,cctv1hd
 rtmp://202.204.52.116:1935/livetv/cctv1hd
 #EXTINF:-1,cctv2hd
@@ -828,3 +846,57 @@ http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&c
 http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 #EXTINF:-1,tvbs歡樂台[1280x720][3.0mb][geo-limited]
 https://epg.pw/stream/af1f12ac64888795f3cdd1828016b1951567a493df28ea8ae0f3619bbcc0bd9a.ctv
+#EXTINF:-1,八大戲劇[1920x1080][h264xaac]
+http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+#EXTINF:-1,凤凰中文@@1[720x576][2.0mb][geo-limited]
+https://epg.pw/stream/5ba3dbdeac956f68628f146391478e334a9b8117d40aa7e81fe9f0db508140d8.ctv
+#EXTINF:-1,bbc earth[1280x720][2.0mb]
+https://epg.pw/stream/7ab314dffe41c2c850533b7b9aa28c97704b751eee651e6c7c57aac886707985.m3u8
+#EXTINF:-1,凤凰资讯@@4[1280x720][2.0mb][geo-limited]
+https://epg.pw/stream/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.m3u8
+#EXTINF:-1,凤凰中文@@5[1920x1080][7.0mb]
+https://epg.pw/stream/6d3ea9f2e4ea1413bbd9d18b1d6d2d6e06ced8fba922bcd96c7d13602af36e72.ctv
+#EXTINF:-1,非凡新闻台[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/689c70f7186c1262d35f722df8259e3a42074bb2f80f056e860c0887604f0a7a.m3u8
+#EXTINF:-1,tv brics chinese[1920x1080][4.0mb]
+https://epg.pw/stream/163ddc5c0e077fb5b07c796aa561e0b38f1f869d1038c19b0537ed94972fa891.m3u8
+#EXTINF:-1,動物星球[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/2e1b1a186ddd4ff125cb987151cb634b4ddce0401e4b22f0c3c82be4ca83ec9f.m3u8
+#EXTINF:-1,八大第一台@@1[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/c3bac76fce10cd92357fe8186e6e35cba42d2043f7dc1f64f7772f582fc68f1e.m3u8
+#EXTINF:-1,動物星球[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/2e1b1a186ddd4ff125cb987151cb634b4ddce0401e4b22f0c3c82be4ca83ec9f.m3u8
+#EXTINF:-1,東森洋片[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/ab358a5f4e89f961acadabc6f8ad64449d10744ed89e6fc82bd435ced85d747b.m3u8
+#EXTINF:-1,國家地理野生@@1[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/c7f80aa690c7fa55500aacc1c23e3995e953fb621bf275515b128c204906c77e.m3u8
+#EXTINF:-1,travel box[1920x1080][3.0mb]
+https://epg.pw/stream/f6ffca7d905d0f2bca9b53af4b75382176f098979dcfc244ed6668aede429c4d.ctv
+#EXTINF:-1,channel V .576[720x576][3.0mb][geo-limited]
+https://epg.pw/stream/bd5678b75b1748851ce895dedeb1f62aa005fd496583cabe1fc4669a4a2b5f20.ctv
+#EXTINF:-1,eu music[1920x1080][6.0mb]
+https://epg.pw/stream/b7a4063e18a54a70e8bb0939a45451c2704d7077db628f9b2389c62223700a53.ctv
+#EXTINF:-1,fashion midnight[1920x1080][3.0mb]
+https://epg.pw/stream/a9d89be37941d550c5aa294daca95b6f3bf41352377f0639bea841c5d35df18f.m3u8
+#EXTINF:-1,動物星球[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/2e1b1a186ddd4ff125cb987151cb634b4ddce0401e4b22f0c3c82be4ca83ec9f.m3u8
+#EXTINF:-1,eyetv旅遊[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/502c6672f3b01fffe19da42342247c0e658d7488bc3c2289d82d1526460dce69.m3u8
+#EXTINF:-1,八大第一台[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/182256f7250dc0a05ced541233e9a94f9e3fedd868f4613b994bc36c434855cb.m3u8
+#EXTINF:-1,八大戲劇[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/08877af6d73cc2ec8eab61fbe3a406c31d671ea5515fcc3148824ce23a1479da.m3u8
+#EXTINF:-1,公視[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/5ca3ca65db262171f7c5e591b1b3a028671a6b15cd187e4d73ca13cd3d84abf3.m3u8
+#EXTINF:-1,好萊塢電影[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/36f1a2ef8d6480a38ad4c65a166c6255e41c491b5eab217156df24286a963e6a.m3u8
+#EXTINF:-1,靖天卡通[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/13bf74ffe6f5167cbe1bc14dc8fe5c75a5285ac4c955623cb34dbd9de4b8980f.m3u8
+#EXTINF:-1,動物星球@@1[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/0a72a595bcdeb024766e8b9bdb3e4d7fd7d963ab07baa57d1f5c78d8d4d66c2c.m3u8
+#EXTINF:-1,公視@@1[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/fbfdb1f66e7c355c38e8697305dbcf59209462fafb16c25108778fb5d5e8093e.m3u8
+#EXTINF:-1,tvbs歡樂台@@1[1280x720][1.0mb][geo-limited]
+https://epg.pw/stream/cae50d7cfc95db94505930ceae037c7b1838f2a53cecdfc55fe322a72328a3ad.ctv
+#EXTINF:-1,hbo hd@@4[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/c300dc774698a3dee9c053d7b19731f038712a8bf10bf26176f5aa5732475782.m3u8
