@@ -512,6 +512,81 @@ https://epg.pw/stream/c17244b259b2f789a7303aa7ccd798b9271a3bf79fe52caa39259a94e9
 https://epg.pw/stream/04dfb03025d03af4dd829fed626f97830a1d01bf854d12b234a9568fbb06cb3d.m3u8
 
 
+#EXTINF:-1,Penthouse Gold
+http://51.159.102.100/PenthouseGold/index.m3u8 
+#EXTINF:-1,RedLight HD
+http://51.159.102.100/RedlightHD/index.m3u8
+#EXTINF:-1,Penthouse Gold
+http://146.59.54.163/353/index.m3u8
+#EXTINF:-1,Penthouse Reality TV http://146.59.54.163/345/index.m3u8
+#EXTINF:-1,Dorcel TV
+http://146.59.54.163/345/index.m3u8
+#http://146.59.54.163/359/index.m3u8 
+#EXTINF:-1,Hustler HD
+http://146.59.54.163/348/index.m3u8 
+#EXTINF:-1,Hustler TV 
+http://146.59.54.163/349/index.m3u8 
+#EXTINF:-1,O La La 
+http://146.59.54.163/350/index.m3u8 
+#EXTINF:-1,Babes TV 
+http://146.59.54.163/354/index.m3u8 
+#EXTINF:-1,Private TV 
+http://146.59.54.163/356/index.m3u8 
+#EXTINF:-1,RedLight HD 
+http://146.59.54.163/358/index.m3u8 
+#EXTINF:-1,VividRed 
+http://146.59.54.163/361/index.m3u8 
+#EXTINF:-1,XXL TV 
+http://146.59.54.163/363/index.m3u8 
+#EXTINF:-1,Brazzers TV 
+https://cdn-main.lolokoko.tv/brazzers.stream/chunks.m3u8 
+#EXTINF:-1,Dorcel TV 
+https://cdn-main.lolokoko.tv/DorcelTV.stream/chunks.m3u8 
+#EXTINF:-1,Hustler HD 
+https://cdn-main.lolokoko.tv/hustler.stream/chunks.m3u8 
+#EXTINF:-1,XXL 
+https://cdn-main.lolokoko.tv/xxl.stream/chunks.m3u8 
+#EXTINF:-1,EroXX 
+https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8 
+#EXTINF:-1,EroXXX 
+https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8 
+#EXTINF:-1,Private TV 
+https://cdn-main.lolokoko.tv/private.stream/chunks.m3u8 
+#EXTINF:-1,Redlight HD 
+https://cdn-main.lolokoko.tv/redlight.stream/chunks.m3u8 
+#EXTINF:-1, Playboy 
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8 
+#EXTINF:-1,O La La http://31.148.48.15/O-la-la/index.m3u8 
+#EXTINF:-1,PureTaboo 
+http://78.47.224.234/puretaboo/index.m3u8 
+#EXTINF:-1,PornBox 1 
+http://23.237.100.82:8000/PLAYBOY/index.m3u8 
+#EXTINF:-1,PornBox 2 
+http://23.237.100.82:8000/HUSTLER/index.m3u8 
+#EXTINF:-1,PornBox 3 
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8 
+#EXTINF:-1,PornBox 4 
+http://23.237.100.82:8000/BRAZZERS/index.m3u8 
+#EXTINF:-1,Brazzers HD 
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
+#EXTINF:-1,Desire HD 
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
+#EXTINF:-1,Dorcel HD 
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
+#EXTINF:-1,Hustsler HD 
+http://88.212.7.11/live/test_hustsler_hd_hevc/playlist.m3u8 
+#EXTINF:-1,Erox 
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8 
+#EXTINF:-1,Eroxx 
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8 
+#EXTINF:-1,Eroxxx 
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8 
+#EXTINF:-1,Extasy HD 
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+
+
+
+
 #EXTINF:-1,sbs 靜岡放送株式會社[1920x1080][3.0mb][geo-limited]
 http://for-testonly.ra1n.lol/daiichi-tv/index.m3u8
 #EXTINF:-1,tvs 株式會社埼玉電視@@1[960x720][3.0mb][geo-limited]
