@@ -1,0 +1,917 @@
+#EXTM3U
+#EXTINF:-1,on movies 360hd[1920x1080][][geo-limited]
+https://epg.pw/stream/dc63c9a0115166752b10d7f0d04dc1554e3ba85e6a2bf2dfef405bb98e623b00.ctv
+#EXTINF:-1,th hải phòng[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/73a7cf50b6c0af97765aa6a17b881cae6c17a2582ce74fec4d69ad2f00509d84.ctv
+#EXTINF:-1,東森洋片@@1[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8
+#EXTINF:-1,on sports news[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/0cc166de98946fe5f5c87afe7c179713d5439b56c98e389ff2860268eb280345.ctv
+#EXTINF:-1,on football hd@@1[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/db06ea8baf92a65718ee62823cd85ce395889126d1e3b1d67a756cbc9f812939.ctv
+#EXTINF:-1,on sports action[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/9670f3ed214089c5f24776ce617e60ca67803712020e364ea4880a0de35d8471.ctv
+#EXTINF:-1,on e channel hd[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/506e5c36587eeeb4ab376a99dd9e39af0c277c885ea247bd0c8d28a82b2230f5.ctv
+#EXTINF:-1,on sports hd[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/262d9dec175717f51964c21e9d2af61341b182595fa88dea06a73fa7029d678f.ctv
+#EXTINF:-1,on sports+@@1[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/bbd14b1ba6b76608cd47e46b1f856010933e31c19f61ca663ed00f009740a76d.ctv
+#EXTINF:-1,on movies hd[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/369330b35c79d40dc77326511337e4ba50d552610642e4b32788fcdb06ec3775.ctv
+#EXTINF:-1,on style tv hd[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/3ad06b35ce830ac7a30886e0d69d596a00dc456e7c8cd62b617d2ba47cc787f9.ctv
+#EXTINF:-1,wowow prime@@2[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,wowow live[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,j sports 3[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,wowow cinema[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,fuji tv@@3[1280x720][0.0mb][geo-limited]
+http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
+#EXTINF:-1,美亞電影[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8
+#EXTINF:-1,星衛電影[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8
+#EXTINF:-1,tvb j2[1920x1080][6.0mb]
+https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
+#EXTINF:-1,btv 2[854x480][1.0mb]
+https://epg.pw/stream/de8acdcb47067ed6fc0da9de47389ec8893fd5bf948d6f452508a7963156f53f.ctv
+#EXTINF:-1,đắk lắk[1920x1080][1.0mb]
+https://epg.pw/stream/cac0b67040f3044b09b743a1d8835325b73aee4e627f6c40e9a5ec7336de91dc.m3u8
+#EXTINF:-1,btv11[1280x720][1.0mb][geo-limited]
+https://epg.pw/stream/66f15430ec10a1a6535404478a1716cc0ab449e463b4add83027412909546e30.ctv
+#EXTINF:-1,thvl3 hd[1920x1080][6.0mb]
+https://epg.pw/stream/72e36c4a3a436de59538a62cafa22cbf29e812ceee8aac2829ace7c191657912.m3u8
+#EXTINF:-1,thvl2 hd[1920x1080][7.0mb]
+https://epg.pw/stream/7a3b1a3ca5d089cc106c61242a67c91a9fd2efe33a40c8aec75a94386c3ccbf6.m3u8
+#EXTINF:-1,thvl1 hd[1920x1080][7.0mb]
+https://epg.pw/stream/57b9266d671d2ecbbc51e10087060076ef53a9344b4044f9eae110f7c1f862d7.m3u8
+#EXTINF:-1,thvl4 hd[1920x1080][7.0mb][geo-limited]
+https://epg.pw/stream/a86a05250162cf056bd0fe6421e497b6f34cc271d3f21e34a531126cb864485c.m3u8
+#EXTINF:-1,公視[1280x720][3.0mb][geo-limited]
+http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
+#EXTINF:-1,discovery asia[1280x720][2.0mb][geo-limited]
+http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+#EXTINF:-1,j sports 3@@1[1280x720][h264xaac]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,actionk fhd[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/ebb0d39f2cbee0f4f695e3a0f0f7d1bf378eb32d1af3325cb26abc511470cdc9.ctv
+#EXTINF:-1,hanoitv2 hd[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/7a25cd4e2e5b6a57ec935a51db723a1e8c5a02655001c2acdcca5cf75318a203.ctv
+#EXTINF:-1,wowow live@@1[1280x720][2.0mb]
+https://epg.pw/stream/03d8645ca6b53ed772e6c7414f314aec052ea2fc3097a27c812db15f3e652502.ctv
+#EXTINF:-1,asian food network[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/4200b1fe3fa1c33b71180d25038ca86f2eaf9172fc8fc9df0327e2d9ac6ce73a.ctv
+#EXTINF:-1,wowow cinema@@1[1280x720][3.0mb]
+https://epg.pw/stream/03ca4ff203dcaa05737d3837b6a7de912241352af62c9654d9e16517eebf57f6.ctv
+#EXTINF:-1,tvbs新聞台[1920x1080][1.0mb]
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1,中視新聞[geo-blocked][1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/73b6e055d2eb6054537a643e64442053943e390e465e360332fab29b08138e22.ctv
+#EXTINF:-1,東森財經新聞[1280x720][1.0mb][geo-limited][1920x1080][2.0mb][geo-limited]
+https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+#EXTINF:-1,nhk_world[1920x1080][1.0mb]
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1,elta體育2台[geo-blocked][1920x1080][3.0mb][geo-limited]
+http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+#EXTINF:-1,日本全天新聞[854x480][2.0mb]
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1,nhk_world@@2[1280x720][0.0mb]
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1,abc news[1280x720][1.0mb][geo-limited]
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,foxnews[1280x720][4.0mb]
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,半岛新闻[1920x1080][7.0mb]
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,nhk_world@@1[1920x1080][2.0mb]
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1,cs11 tbs news[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,cctv-13新闻[1920x1080][4.0mb]
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1,fox news[1280x720][6.0mb][1280x720][6.0mb]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
+#EXTINF:-1,dw news[1920x1080][16.0mb][geo-limited]
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,凤凰资讯@@4[1920x1080][3.0mb][geo-limited][1920x1080][2.0mb][geo-limited]
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1,cctv13[1280x720][2.0mb]
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+#EXTINF:-1,al jazeera english[1920x1080][10.0mb]
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1,news front hd[1280x720][2.0mb][geo-limited][1280x720][2.0mb][geo-limited]
+http://moobl.ru/hls/News_Front_hd.m3u8
+#EXTINF:-1,tv brics hd[1920x1080][3.0mb][geo-limited][1920x1080][4.0mb][geo-limited]
+http://moobl.ru/hls/TV_brics_hd.m3u8
+#EXTINF:-1,cctv-13@@1[1920x1080][8.0mb]
+http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1,relax[1920x1080][4.0mb][1920x1080][6.0mb]
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1,泰国 astv news 1[1920x1080][4.0mb][geo-limited][1920x1080][4.0mb][geo-limited]
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1,立法院ivod直播院會 (450p)[800x450][2.0mb][geo-limited]
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
+#EXTINF:-1,立法院ivod直播財政委員會 (450p)[800x450][2.0mb][geo-limited]
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
+#EXTINF:-1,立法院ivod直播社會福利及衛生環境委員會 (450p)[800x450][2.0mb][geo-limited]
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8
+#EXTINF:-1,立法院ivod直播教育及文化委員會 (450p)[800x450][2.0mb][geo-limited]
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
+#EXTINF:-1,立法院ivod直播經濟委員會 (450p)[800x450][2.0mb][geo-limited]
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
+#EXTINF:-1,立法院ivod直播交通委員會 (450p)[800x450][2.0mb][geo-limited]
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
+#EXTINF:-1,立法院ivod直播內政委員會 (450p)[800x450][2.0mb][geo-limited]
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
+#EXTINF:-1,立法院ivod直播外交及國防委員會 (450p)[800x450][2.0mb][geo-limited]
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8
+#EXTINF:-1,立法院ivod直播司法及法制委員會 (450p)[800x450][2.0mb][geo-limited]
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8
+#EXTINF:-1,立法院ivod直播朝野協商 (450p)[800x450][2.0mb][geo-limited]
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
+#EXTINF:-1,fashion4k[3840x2160][9.0mb][3840x2160][10.0mb]
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1,rthk32[1280x720][2.0mb][geo-limited]
+http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
+#EXTINF:-1,大爱1[1280x720][2.0mb][geo-limited]
+http://198.16.100.90:8278/daai_twn/playlist.m3u8?tid=ME5E3594665135946651&ct=19249&tsum=1628ac38fd6a79879fccae39de8e845b
+#EXTINF:-1,中视[1280x720][3.0mb][geo-limited]
+http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
+#EXTINF:-1,中天娱乐[1920x1080][2.0mb][geo-limited]
+http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+#EXTINF:-1,靖天国际[1280x720][2.0mb][geo-limited]
+http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+#EXTINF:-1,cbshd[1280x720][3.0mb][geo-limited]
+http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+#EXTINF:-1,无线财经资讯[1920x1080][2.0mb][geo-limited]
+http://50.7.238.114:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
+#EXTINF:-1,民视台湾[1920x1080][2.0mb][geo-limited]
+http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+#EXTINF:-1,爱尔达体育2@@1[1920x1080][3.0mb][geo-limited]
+http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+#EXTINF:-1,axntaiwan[1920x1080][h264xaac]
+http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
+#EXTINF:-1,好消息 2[1280x720][2.0mb][geo-limited]
+http://50.7.238.114:8278/good2_twn/playlist.m3u8?tid=MB3B3734070237340702&ct=19249&tsum=611b90a32eb986741a0b15652178c428
+#EXTINF:-1,民视新闻[1280x720][2.0mb][geo-limited]
+http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
+#EXTINF:-1,緯來體育台
+https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1,博斯高球2[1280x720][4.0mb][geo-limited]
+http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+#EXTINF:-1,博斯运动 1[1280x720][4.0mb][geo-limited]
+http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
+#EXTINF:-1,博斯运动 2[1280x720][3.0mb][geo-limited]
+http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+#EXTINF:-1,三立戏剧@@1[1280x720][3.0mb][geo-limited]
+http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
+#EXTINF:-1,axntaiwan@@1[1920x1080][2.0mb][geo-limited]
+http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
+#EXTINF:-1,eyetv旅游@@1[1280x720][h264xaac]
+http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+#EXTINF:-1,cbshd@@1[1280x720][3.0mb][geo-limited]
+http://50.7.238.114:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+#EXTINF:-1,discoveryasia[1280x720][3.0mb][geo-limited]
+http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+#EXTINF:-1,eleven体育1[1280x720][1.0mb][geo-limited]
+http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+#EXTINF:-1,bbcearthhd[1280x720][3.0mb][geo-limited]
+http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
+#EXTINF:-1,三立综合@@1[1280x720][3.0mb][geo-limited]
+http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+#EXTINF:-1,中天娱乐@@1[1920x1080][2.0mb][geo-limited]
+http://50.7.238.114:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+#EXTINF:-1,博斯高球1[1280x720][4.0mb][geo-limited]
+http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+#EXTINF:-1,博斯高球1@@1[1280x720][4.0mb][geo-limited]
+http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+#EXTINF:-1,东森财经[1280x720][1.0mb][geo-limited]
+http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
+#EXTINF:-1,靖天卡通[1280x720][3.0mb][geo-limited]
+http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+#EXTINF:-1,龙华戏剧@@1[1280x720][3.0mb][geo-limited]
+http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+#EXTINF:-1,龙华戏剧[1280x720][3.0mb][geo-limited]
+http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
+#EXTINF:-1,bbc world news[1280x720][3.0mb][geo-limited]
+http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1,euronews[720x576][2.0mb][geo-limited]
+http://198.16.100.90:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
+#EXTINF:-1,新加坡8[1280x720][2.0mb][geo-limited]
+http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
+#EXTINF:-1,东森新闻台@@1[1280x720][2.0mb][geo-limited][1920x1080][2.0mb][geo-limited]
+http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+#EXTINF:-1,龍華偶像[1280x720][3.0mb][geo-limited][1280x720][3.0mb][geo-limited]
+http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
+#EXTINF:-1,凤凰资讯[1920x1080][9.0mb][geo-limited][1920x1080][3.0mb][geo-limited]
+http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1,凤凰资讯[1920x1080][9.0mb][geo-limited]@@1[720x576][2.0mb]
+http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+#EXTINF:-1,凤凰中文@@1[1920x1080][8.0mb][geo-limited]@@1[720x576][2.0mb]
+http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+#EXTINF:-1,al jazeera hd[960x540][2.0mb]
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1,tv071[1280x720][2.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv071
+#EXTINF:-1,美国中文电视[1280x720][1.0mb][geo-limited]
+https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1,tv051[1280x720][2.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv051
+#EXTINF:-1,tv091[1280x720][4.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv091
+#EXTINF:-1,tv111[1280x720][5.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv111
+#EXTINF:-1,tv421[1280x720][1.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv421
+#EXTINF:-1,tv551[1280x720][5.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv551
+#EXTINF:-1,tv571[1280x720][1.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv571
+#EXTINF:-1,tv701[1280x720][3.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv701
+#EXTINF:-1,tv721[1280x720][3.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv721
+#EXTINF:-1,tv731[1280x720][3.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv731
+#EXTINF:-1,tv761[1280x720][3.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv761
+#EXTINF:-1,tv741[1280x720][4.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv741
+#EXTINF:-1,tv771[1280x720][6.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv771
+#EXTINF:-1,md011[1280x720][3.0mb]
+rtmp://9sv2.mine.nu:1935/sat/md011
+#EXTINF:-1,md021[1280x720][3.0mb]
+rtmp://9sv2.mine.nu:1935/sat/md021
+#EXTINF:-1,md031[1280x720][3.0mb]
+rtmp://9sv2.mine.nu:1935/sat/md031
+#EXTINF:-1,md041[1280x720][5.0mb]
+rtmp://9sv2.mine.nu:1935/sat/md041
+#EXTINF:-1,md051[1280x720][4.0mb]
+rtmp://9sv2.mine.nu:1935/sat/md051
+#EXTINF:-1,三立inews@@1[1920x1080][3.0mb][geo-limited][1920x1080][2.0mb][geo-limited]
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1,cctv1hd[1920x1080][3.0mb]
+rtmp://202.204.52.116:1935/livetv/cctv1hd
+#EXTINF:-1,cctv2hd[1920x1080][4.0mb]
+rtmp://202.204.52.116:1935/livetv/cctv2hd
+#EXTINF:-1,cctv3hd[1920x1080][4.0mb]
+rtmp://202.204.52.116:1935/livetv/cctv3hd
+#EXTINF:-1,cctv4hd[1920x1080][4.0mb]
+rtmp://202.204.52.116:1935/livetv/cctv4hd
+#EXTINF:-1,cctv5hd[1920x1080][4.0mb]
+rtmp://202.204.52.116:1935/livetv/cctv5hd
+#EXTINF:-1,cctv5phd[1920x1080][3.0mb]
+rtmp://202.204.52.116:1935/livetv/cctv5phd
+#EXTINF:-1,cctv6hd[1920x1080][2.0mb]
+rtmp://202.204.52.116:1935/livetv/cctv6hd
+#EXTINF:-1,cctv7hd[1920x1080][4.0mb]
+rtmp://202.204.52.116:1935/livetv/cctv7hd
+#EXTINF:-1,cctv8hd[1920x1080][4.0mb]
+rtmp://202.204.52.116:1935/livetv/cctv8hd
+#EXTINF:-1,cctv12hd[1920x1080][4.0mb]
+rtmp://202.204.52.116:1935/livetv/cctv12hd
+#EXTINF:-1,cctv9hd[1920x1080][2.0mb]
+rtmp://202.204.52.116:1935/livetv/cctv9hd
+#EXTINF:-1,cctv13hd[1920x1080][4.0mb]
+rtmp://202.204.52.116:1935/livetv/cctv13hd
+#EXTINF:-1,cctv14hd[1920x1080][4.0mb]
+rtmp://202.204.52.116:1935/livetv/cctv14hd
+#EXTINF:-1,cctv17hd[1920x1080][3.0mb]
+rtmp://202.204.52.116:1935/livetv/cctv17hd
+#EXTINF:-1,btv1hd[1920x1080][4.0mb]
+rtmp://202.204.52.116:1935/livetv/btv1hd
+#EXTINF:-1,btv11hd[1920x1080][4.0mb]
+rtmp://202.204.52.116:1935/livetv/btv11hd
+#EXTINF:-1,btv2hd[1920x1080][5.0mb]
+rtmp://202.204.52.116:1935/livetv/btv2hd
+#EXTINF:-1,ahhd[1920x1080][4.0mb]
+rtmp://202.204.52.116:1935/livetv/ahhd
+#EXTINF:-1,dfhd[1920x1080][3.0mb]
+rtmp://202.204.52.116:1935/livetv/dfhd
+#EXTINF:-1,hunanhd[1920x1080][5.0mb]
+rtmp://202.204.52.116:1935/livetv/hunanhd
+#EXTINF:-1,hbhd[1920x1080][3.0mb]
+rtmp://202.204.52.116:1935/livetv/hbhd
+#EXTINF:-1,lnhd[1920x1080][4.0mb]
+rtmp://202.204.52.116:1935/livetv/lnhd
+#EXTINF:-1,jshd[1920x1080][3.0mb]
+rtmp://202.204.52.116:1935/livetv/jshd
+#EXTINF:-1,zjhd[1920x1080][5.0mb]
+rtmp://202.204.52.116:1935/livetv/zjhd
+#EXTINF:-1,sdhd[1920x1080][4.0mb]
+rtmp://202.204.52.116:1935/livetv/sdhd
+#EXTINF:-1,gdhd[1920x1080][3.0mb]
+rtmp://202.204.52.116:1935/livetv/gdhd
+#EXTINF:-1,szhd[1920x1080][2.0mb]
+rtmp://202.204.52.116:1935/livetv/szhd
+#EXTINF:-1,hljhd[1920x1080][3.0mb]
+rtmp://202.204.52.116:1935/livetv/hljhd
+#EXTINF:-1,緯來體育@@1[1920x1080][h264xaac][1920x1080][h264xaac]
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1,愛爾達體育4台@@1[1280x720][3.0mb][geo-limited][1280x720][3.0mb][geo-limited]
+http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
+#EXTINF:-1,番薯台[1920x1080][2.0mb][1920x1080][2.0mb]
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1,tvbs新闻@@5[1920x1080][3.0mb][1920x1080][3.0mb]
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1,ski tv[1920x1080][10.0mb][geo-limited][1920x1080][10.0mb][geo-limited]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+#EXTINF:-1,discovery@@1[1920x1080][2.0mb][geo-limited][1920x1080][h264xaac]
+http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+#EXTINF:-1,hbo hd@@3[1920x1080][2.0mb][geo-limited][1920x1080][h264xaac]
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+#EXTINF:-1,bs11[1280x720][2.0mb][geo-limited]
+https://epg.pw/stream/bc0b701a708cab2b6b2471997af68b27e229b5bd8a713e3e357cf40eaf2f4950.ctv
+#EXTINF:-1,viutv[1920x1080][7.0mb][geo-limited]
+https://epg.pw/stream/e3b6ef61296cb3a88c8940bf8d296959a56b9ab06d5299f75dd9334205ec9d14.ctv
+#EXTINF:-1,无线新闻台@@2[1920x1080][2.0mb][geo-limited]
+http://gwtv.cnv8.tv:8097/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+#EXTINF:-1,中天新闻[1920x1080][5.0mb][geo-limited]
+http://gwtv.cnv8.tv:8097/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+#EXTINF:-1,镜新闻[1920x1080][5.0mb][geo-limited]
+http://tv.redrainl.site:9500/live.m3u8?c=28
+#EXTINF:-1,cinemax hd@@1[1920x1080][5.0mb][geo-limited]
+http://vthanhtivi.pw:5000/cinemax/index.m3u8
+#EXTINF:-1,スカイ・a / sky a[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1,wowow prime@@3[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+#EXTINF:-1,wowow cinema@@2[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1,nhk bs1@@3[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1,mbs[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+#EXTINF:-1,nhk g osaka[960x544][0.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-1,bs asahi@@2[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-1,yomiuri tv[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+#EXTINF:-1,discovery channel@@4[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+#EXTINF:-1,cartoon network@@4[720x400][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1,ムービープラス / movie plus[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1,star channel 1@@1[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1,star channel 2@@1[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+#EXTINF:-1,bs tbs@@3[960x544][2.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-1,gaora sports[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1,star channel 3@@1[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
+#EXTINF:-1,衛星劇場 / eisei gekijo[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+#EXTINF:-1,東映チャンネル / toei channel[1920x1080][2.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1,j sports 4@@1[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1,green channel[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+#EXTINF:-1,j sports 3@@2[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1,ファミリー劇場 / family gekijyo[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+#EXTINF:-1,日テレジータス / nittele g+[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+#EXTINF:-1,j sports 1[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1,j sports 2[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1,bs animax@@1[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1,ディズニージュニア / disney junior[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1,nhk bs premium 4k[1920x1080][2.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1,bs japan movie channel@@1[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-1,キッズステーション / kids staton tv[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1,bs tv tokyo@@1[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+#EXTINF:-1,wowow live@@2[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-1,bs ntv@@1[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:-1,sun tv[960x544][0.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#EXTINF:-1,bs fuji[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1,disney channel[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1,bs fishing vision[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+#EXTINF:-1,bs11@@1[1280x720][1.0mb][geo-limited]
+http://asia.vthanhtivi.pw/BS11/index.m3u8
+#EXTINF:-1,tvbs@@1[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+#EXTINF:-1,動物星球[1920x1080][3.0mb][geo-limited]
+http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+#EXTINF:-1,vtc9[1920x1080][2.0mb]
+https://1117141481.vnns.net/VTC9/playlist.m3u8
+#EXTINF:-1,j sports 4@@2[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,playboy@@3[768x576][1.0mb][geo-limited]
+https://epg.pw/stream/c4c3a42b59b2be77faa995e19856ec8f1995b3348c14d367f1308264c7fbbdd1.ctv
+#EXTINF:-1,discovery[1920x1080][2.0mb][geo-limited]
+http://gg.gg/DiscoveryMYHD
+#EXTINF:-1,緯來電影[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/videolandmovie/playlist.m3u8
+#EXTINF:-1,hbo hd@@2[1920x1080][2.0mb][geo-limited]
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+#EXTINF:-1,j sports 1@@2[1280x720][2.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,j sports 2@@2[1280x720][2.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,ntv@@4[1280x720][2.0mb][geo-limited]
+http://asia.vthanhtivi.pw/Nippon_TV/index.m3u8
+#EXTINF:-1,愛爾達體育4台[1280x720][2.0mb][geo-limited]
+http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+#EXTINF:-1,年代新闻[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+#EXTINF:-1,中视新闻[1280x720][2.0mb]
+http://gwtv.cnv8.tv:8097/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+#EXTINF:-1,民視新聞台[1280x720][1.0mb]
+http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+#EXTINF:-1,cnn[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+#EXTINF:-1,民視新聞台@@1[1280x720][1.0mb]
+http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
+#EXTINF:-1,民視新聞台@@2[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/f866e23f6d29ceb37ff1601f738e836c48e8913625622fcbb104ddb29fea454b.ctv
+#EXTINF:-1,民視新聞台
+http://tv.redrainl.site:9500/live.m3u8?c=1
+#EXTINF:-1,中视新闻@@2[1920x1080][3.0mb][geo-limited]
+http://tv.redrainl.site:9500/live.m3u8?c=02
+#EXTINF:-1,中天新聞
+http://tv.redrainl.site:9500/live.m3u8?c=3
+#EXTINF:-1 ,NHK WORLD JAPAN
+http://tv.redrainl.site:9500/live.m3u8?c=9
+#EXTINF:-1 ,日本 ANN News
+http://tv.redrainl.site:9500/live.m3u8?c=29
+#EXTINF:-1 ,CNA
+http://tv.redrainl.site:9500/live.m3u8?c=38
+#EXTINF:-1 ,BMG Cafe Music
+http://tv.redrainl.site:9500/live.m3u8?c=47
+#EXTINF:-1 ,BMG channel Live Radio
+http://tv.redrainl.site:9500/live.m3u8?c=48
+#EXTINF:-1 ,BMG channel
+http://tv.redrainl.site:9500/live.m3u8?c=49
+#EXTINF:-1 ,三立
+http://tv.redrainl.site:9500/live.m3u8?c=51
+#EXTINF:-1 ,新唐人亚太台
+http://tv.redrainl.site:9500/live.m3u8?c=52
+#EXTINF:-1,东森幼幼台[1280x720][1.0mb][geo-limited]
+https://pkj99.github.io/YTLive/東森幼幼台.m3u8
+#EXTINF:-1,美好购物1台[1920x1080][3.0mb][geo-limited]
+https://pkj99.github.io/YTLive/美好購物1台.m3u8
+#EXTINF:-1,tokyo mx1@@2[1280x720][2.0mb][geo-limited]
+http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
+#EXTINF:-1,tbs[1280x720][3.0mb][geo-limited]
+http://asia.vthanhtivi.pw/TBS/index.m3u8
+#EXTINF:-1,nhk e@@1[1280x720][1.0mb][geo-limited]
+http://asia.vthanhtivi.pw/NHK_E/index.m3u8
+#EXTINF:-1,at-x@@1[1280x720][2.0mb][geo-limited]
+http://asia.vthanhtivi.pw/AT-X/index.m3u8
+#EXTINF:-1,tv tokyo@@2[1280x720][1.0mb][geo-limited]
+http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
+#EXTINF:-1,phú yên@@1[640x360][1.0mb]
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
+#EXTINF:-1,k+ sport1 sv2[1920x1080][7.0mb]
+http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus1/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+#EXTINF:-1,k+ cine sv2[1920x1080][4.0mb]
+http://stream2.khanggtivi.xyz:1234/stream/kplus/kcine/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+#EXTINF:-1,k+ sport2 sv2[1280x720][3.0mb]
+http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus2/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+#EXTINF:-1,k+ action sv2[1920x1080][4.0mb]
+http://stream2.khanggtivi.xyz:1234/stream/kplus/klife/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+#EXTINF:-1,中天综合台[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+#EXTINF:-1,华视@@2[1280x720][4.0mb]
+http://gwtv.cnv8.tv:8097/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
+#EXTINF:-1,东森财经新闻台@@1[1280x720][1.0mb]
+http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+#EXTINF:-1,hbo@@1[1920x1080][3.0mb]
+http://gwtv.cnv8.tv:8097/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+#EXTINF:-1,momo tv[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=19249&tsum=0bd9dac79cd373cc918357d3199c8b22
+#EXTINF:-1,bbcworldnews[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1,axn@@1[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
+#EXTINF:-1,rhk 32[1280x720][2.0mb]
+http://gwtv.cnv8.tv:8097/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
+#EXTINF:-1,三立戏剧[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+#EXTINF:-1,八大综合台[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+#EXTINF:-1,rhk 31[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
+#EXTINF:-1,台视[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
+#EXTINF:-1,asianet[1920x1080][3.0mb]
+http://gwtv.cnv8.tv:8097/asianet_raj/playlist.m3u8?tid=MB4B2450319024503190&ct=19254&tsum=ad3799bb18ad9ecf8dbd135dcf453f47
+#EXTINF:-1,tvbs欢乐台[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+#EXTINF:-1,中视经典[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+#EXTINF:-1,goodtv@@1[1280x720][2.0mb]
+http://gwtv.cnv8.tv:8097/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
+#EXTINF:-1,八大戏剧gtvdrama[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
+#EXTINF:-1,东森电影台[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+#EXTINF:-1,无线财经[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
+#EXTINF:-1,inews tv[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/Inewstv/playlist.m3u8?tid=ME1E8983653189836531&ct=19249&tsum=94c9e0a29f266dea3d3ed307954ed91a
+#EXTINF:-1,cbsnews[1280x720][2.0mb]
+http://gwtv.cnv8.tv:8097/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+#EXTINF:-1,愛爾達體育4台[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/natgeowild_twn/playlist.m3u8?tid=MF6F5354447153544471&ct=19249&tsum=fcc679b64dded7ec1ff6a0f09e335f38
+#EXTINF:-1,大爱1台[1280x720][4.0mb]
+http://gwtv.cnv8.tv:8097/daai_twn/playlist.m3u8?tid=ME5E3594665135946651&ct=19249&tsum=1628ac38fd6a79879fccae39de8e845b
+#EXTINF:-1,公视[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
+#EXTINF:-1,eleven體育1台[1920x1080][3.0mb]
+http://gwtv.cnv8.tv:8097/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+#EXTINF:-1,skysports arena[1280x720][2.0mb]
+http://gwtv.cnv8.tv:8097/tiankongarena/playlist.m3u8?tid=MF8F6120866661208666&ct=19249&tsum=b84c4a90d43bc91888b470966999c629
+#EXTINF:-1,discovery@@1[1920x1080][3.0mb]
+http://gwtv.cnv8.tv:8097/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+#EXTINF:-1,cinemax@@3[1920x1080][1.0mb]
+http://gwtv.cnv8.tv:8097/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+#EXTINF:-1,SPOTV[854x480][1.0mb]
+http://gwtv.cnv8.tv:8097/Weishimovie/playlist.m3u8?tid=MEEE4802495448024954&ct=19249&tsum=1731f56127d23a79a645f2d7d958dec7
+#EXTINF:-1,cbshd[1280x720][2.0mb]
+http://gwtv.cnv8.tv:8097/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+#EXTINF:-1,星卫电影[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+#EXTINF:-1,东森电影ettvmovie[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+#EXTINF:-1,东森戏剧台[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+#EXTINF:-1,skynews[640x480][2.0mb]
+http://gwtv.cnv8.tv:8097/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
+#EXTINF:-1,三立综合台[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
+#EXTINF:-1,博斯高球1台[1280x720][2.0mb]
+http://gwtv.cnv8.tv:8097/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+#EXTINF:-1,八大第一台[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+#EXTINF:-1,Love Nature[854x480][1.0mb]
+http://gwtv.cnv8.tv:8097/Natgeowild/playlist.m3u8?tid=MCEC8162047281620472&ct=19249&tsum=903a62e36d9cd6c67654b4e2ca6bcbd5
+#EXTINF:-1,八大第一gtvfirst[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+#EXTINF:-1,美亚电影[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+#EXTINF:-1,三立台湾台[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1,凤凰卫视中文台[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+#EXTINF:-1,亚洲旅游台[1280x720][4.0mb]
+http://gwtv.cnv8.tv:8097/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+#EXTINF:-1,美食星球[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+#EXTINF:-1,euronews@@2[720x576][1.0mb]
+http://gwtv.cnv8.tv:8097/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
+#EXTINF:-1,pptv thailand1[1280x720][2.0mb]
+http://gwtv.cnv8.tv:8097/pptv_pat/playlist.m3u8?tid=MC2C3662850236628502&ct=19249&tsum=efb951731b4d0d420dedc866c9fa789f
+#EXTINF:-1,博斯运动 1[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
+#EXTINF:-1,靖天国际[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+#EXTINF:-1,国家地理[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
+#EXTINF:-1,纬来体育台[1920x1080][1.0mb]
+http://gwtv.cnv8.tv:8097/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+#EXTINF:-1,bloombergnews[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
+#EXTINF:-1,sun music[1920x1080][3.0mb]
+http://gwtv.cnv8.tv:8097/sunmusic_raj/playlist.m3u8?tid=MF3F8542356685423566&ct=19249&tsum=12073d307628e47b5f1184b264d31c67
+#EXTINF:-1,中天娱乐台[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+#EXTINF:-1,好莱坞电影台[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+#EXTINF:-1,博斯运动 2[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+#EXTINF:-1,凤凰香港@@4[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
+#EXTINF:-1,中天亚洲台@@2[1280x720][2.0mb]
+http://gwtv.cnv8.tv:8097/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
+#EXTINF:-1,民视[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
+#EXTINF:-1,tvb 星河台[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
+#EXTINF:-1,龙华卡通[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
+#EXTINF:-1,sonymax[1280x720][1.0mb]
+http://gwtv.cnv8.tv:8097/SetOne/playlist.m3u8?tid=MD7D1616979216169792&ct=19249&tsum=228e9d46280149ba7ecfdce2acb28ad9
+#EXTINF:-1,爱尔达体育2[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1,astro欢喜台[1280x720][2.0mb]
+http://gwtv.cnv8.tv:8097/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
+#EXTINF:-1,爱尔达体育1[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+#EXTINF:-1,非凡新闻台[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+#EXTINF:-1,博斯运动2[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+#EXTINF:-1,eyetv戏剧[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
+#EXTINF:-1,八大戏剧台[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
+#EXTINF:-1,凤凰资讯@@15[1280x720][1.0mb]
+http://gwtv.cnv8.tv:8097/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
+#EXTINF:-1,靖天卡通台[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+#EXTINF:-1,中视[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
+#EXTINF:-1,博斯高球2台[1280x720][4.0mb]
+http://gwtv.cnv8.tv:8097/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+#EXTINF:-1,东森超视[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+#EXTINF:-1,bbc2[1280x720][2.0mb]
+http://gwtv.cnv8.tv:8097/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+#EXTINF:-1,阿里郎 arirang@@1[1280x720][2.0mb]
+http://gwtv.cnv8.tv:8097/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
+#EXTINF:-1,美亚电影台[1280x720][4.0mb]
+http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+#EXTINF:-1,动物星球@@1[1920x1080][3.0mb]
+http://gwtv.cnv8.tv:8097/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+#EXTINF:-1,asianetnews@@2[720x576][1.0mb]
+http://gwtv.cnv8.tv:8097/asianetnews_raj/playlist.m3u8?tid=MD1D3357329333573293&ct=19254&tsum=504b76a49a637611ec4cda9af13d9ddb
+#EXTINF:-1,龙华经典[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
+#EXTINF:-1,翡翠台[1280x720][2.0mb]
+http://gwtv.cnv8.tv:8097/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+#EXTINF:-1,东森洋片台[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+#EXTINF:-1,龙华偶像[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+#EXTINF:-1,龙祥时代[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+#EXTINF:-1,eyetv旅游[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+#EXTINF:-1,龙华戏剧[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+#EXTINF:-1,东森综合ettvmetro[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+#EXTINF:-1,民视台湾台@@1[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+#EXTINF:-1,abcnews[1280x720][2.0mb]
+http://gwtv.cnv8.tv:8097/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+#EXTINF:-1,好消息 2[1280x720][2.0mb]
+http://gwtv.cnv8.tv:8097/good2_twn/playlist.m3u8?tid=MB3B3734070237340702&ct=19249&tsum=611b90a32eb986741a0b15652178c428
+#EXTINF:-1,news 18 tamil[720x576][1.0mb]
+http://gwtv.cnv8.tv:8097/news18tamil_raj/playlist.m3u8?tid=MFEF4476053744760537&ct=19249&tsum=730185304475c7836b81f97985cea296
+#EXTINF:-1,box hits[1920x1080][h264xmp2][geo-limited]
+https://epg.pw/stream/e0e3cebcf428f4086cc29be993da74b53013be009f04e194e442b8fe764083a8.ctv
+#EXTINF:-1,in the box[1920x1080][h264xmp2][geo-limited]
+https://epg.pw/stream/7735a0c8498d9479a88806b9332fcc697eca5c76e7dcf8ad3337558d0e9fee26.ctv
+#EXTINF:-1,cgtn@@5[1920x1080][9.0mb]
+http://103.130.141.67:81/live/3/playlist.m3u8
+#EXTINF:-1,cgtn documentary@@1[1920x1080][10.0mb]
+http://103.130.141.67:81/live/4/playlist.m3u8
+#EXTINF:-1,trt world@@3[1920x1080][3.0mb]
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1,vthanh movies[1920x1080][timed_id3xh264xaac][geo-limited]
+http://stream3.vthanhtivi.pw:1935/live/vthanhmovies.smil/playlist.m3u8
+#EXTINF:-1,th hải phòng[1920x1080][3.0mb]
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+#EXTINF:-1,th hà nam[1280x720][3.0mb]
+https://live.mediatech.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
+#EXTINF:-1,th bình phước@@2[1280x720][3.0mb]
+https://live.mediatech.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
+#EXTINF:-1,th sơn la@@1[1920x1080][2.0mb]
+https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
+#EXTINF:-1,th lạng sơn[1920x1080][3.0mb]
+https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+#EXTINF:-1,th thái bình[1920x1080][3.0mb]
+https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/chunklist.m3u8
+#EXTINF:-1,th hải phòng@@1[1920x1080][3.0mb]
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+#EXTINF:-1,thvl4 hd@@1[1920x1080][6.0mb]
+https://code.vthanhtivi.pw/getlink/vieon/thvl4-hd/playlist.m3u8
+#EXTINF:-1,th bắc giang[1920x1080][2.0mb]
+https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
+#EXTINF:-1,th hưng yên@@1[1920x1080][1.0mb]
+https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
+#EXTINF:-1,th sóc trăng[1280x720][h264xaac][geo-limited]
+http://vthanhtivi.pw:5000/stv2/index.m3u8
+#EXTINF:-1,thvl3 hd@@1[1920x1080][6.0mb]
+https://code.vthanhtivi.pw/getlink/vieon/thvl3-hd/playlist.m3u8
+#EXTINF:-1,an viên tv[1920x1080][6.0mb]
+https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
+
+
+
+#EXTINF:-1,tvbs新闻台@@2[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
+#EXTINF:-1,中视新闻@@4[1280x720][1.0mb]
+http://gwtv.cnv8.tv:8097/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+#EXTINF:-1,东森新闻台@@1[1280x720][1.0mb]
+http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
+#EXTINF:-1,cinemax@@3[1920x1080][6.0mb]
+https://epg.pw/stream/88a7d2a3d7534ba6f39495e5a39ce21e60e4d7553075945c881c526131bfaf15.ctv
+
+
+#EXTINF:-1,discovery@@1[1920x1080][1.0mb]
+http://gwtv.cnv8.tv:8097/discoveryhd_twn/playlist.m3u8
+#EXTINF:-1,中天綜合[1920x1080][2.0mb][geo-limited]
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+#EXTINF:-1,動物星球[1920x1080][3.0mb][geo-limited]
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+#EXTINF:-1,star movies gold[1920x1080][2.0mb]
+http://gwtv.cnv8.tv:8097/starmoviesgold_twn/playlist.m3u8
+#EXTINF:-1,cinemax@@3[1920x1080][1.0mb][geo-limited]
+http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+#EXTINF:-1,bbc lifestyle[1280x720][3.0mb]
+http://gwtv.cnv8.tv:8097/bbclifestyle_twn/playlist.m3u8
+
+
+
+#EXTINF:-1,ディスカバリーチャンネル[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,ヒストリーチャンネル[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,スカイa@@1[960x544][2.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,ナショナル ジオグラフィック[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,フジテレビnext[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,ムービープラス[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,ゴルフネットワーク@@1[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,gaora sports@@1[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,mtv japan[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,music japantv[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,ディズニージュニア[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,日テレジータス[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,ファミリー劇場[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,衛星劇場[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,宝塚歌劇専門チャンネル[1920x1080][2.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,lalatv[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,時代劇専門チャンネル[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,cartoon network@@5[720x400][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,東映チャンネル[1920x1080][2.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,旅チャンネル[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,チャンネル銀河[1920x1080][2.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,キッズステーション[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,ホームドラマチャンネル[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,mondo tv[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,ムービープラス@@1[1280x720][2.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,music on tv![1280x720][2.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,ホームドラマチャンネル@@1[1280x720][2.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,tbsテレビ[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,lalatv@@1[1280x720][3.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,ファミリー劇場@@1[1280x720][2.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,キッズステーション@@1[1024x576][3.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,時代劇専門チャンネル@@1[1920x1080][2.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,チャンネル銀河@@1[1920x1080][2.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,フジテレビ[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,アクションチャンネル[1280x720][2.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,fox japan[1280x720][2.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,東映チャンネル@@1[1280x720][2.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,テレビ朝日@@1[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,mbs毎日放送[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,日テレジータス@@1[1280x720][3.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,読売テレビ[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,日本テレビ[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,nhk総合 東京[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,nhk総合 大阪[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,tokyo mx1@@2[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,サンテレビ[960x544][0.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,カンテレ[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,テレビ東京[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,テレビ大阪[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,nhk教育[960x544][0.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,abc朝日放送[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,bsアニマックス[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,bsフジ[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/31f102e0563309da6084e0237816e59421140edacc6d944c2d42e90d97d16ccd.m3u8
+#EXTINF:-1,tbsニュース[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/fbf9f8e67f8ea2d096e2fdad6ffbbf3c715602e92645386193a260af7d5b0e33.m3u8
+#EXTINF:-1,日本テレビ@@1[1280x720][2.0mb]
+https://epg.pw/stream/2064bcd6f220e1049e0f938f6a33b000f09f1ce8042acc88ba5953e569f86ee9.m3u8
+#EXTINF:-1,nhk総合 東京@@1[1280x720][2.0mb]
+https://epg.pw/stream/ab5cb1dad829116e4ca0e06d89ba61ce92c5063a24c823e0c9d54a189822eeb1.m3u8
+#EXTINF:-1,nhk教育@@1[1280x720][0.0mb]
+https://epg.pw/stream/a7cf1df4a9facc1e9a8ebd08b5fc5798812180627736cc8eedab2b27ea5e673f.m3u8
+#EXTINF:-1,フジテレビ@@1[1280x720][2.0mb]
+https://epg.pw/stream/d8811b80309498d217a3ab93c6c15bcd1df6a5e9eda31bb4b498efd9ecd436c8.m3u8
+#EXTINF:-1,tbsテレビ@@1[1280x720][2.0mb]
+https://epg.pw/stream/bd87388ca973bfc76cd876bfca7c456547290f3d4554b58d92ac5d0ce5462f6b.m3u8
+#EXTINF:-1,ディズニーチャンネル[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/8098aba69af06cb99160cf818a4f355e697f1cc2147750567f3d658e4025d07c.m3u8
+#EXTINF:-1,テレビ東京@@1[1280x720][2.0mb]
+https://epg.pw/stream/2e5a2932d6026dc80d2e2506cfbf27242b1ad68831dd9b7663626b28bfa43dd3.m3u8
+#EXTINF:-1,nhk bsp4k[960x540][0.0mb]
+https://epg.pw/stream/2256b596dfe5e62f8beca3a009ff7fe2b3f1e185eded031b0f640afa5115ba63.m3u8
+#EXTINF:-1,釣りビジョン[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/aaa52a0a91ea37829bcdb907f2cd98149d3850121496093235a5c6ec2bf7b796.m3u8
+#EXTINF:-1,bbc news@@1[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/3ff9144f6dcba9eb1bde65774014dbe98ad583e5d953ec3399cde3aa2ea14e61.m3u8
+#EXTINF:-1,cnn j[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/533b37c28f3b05aaa8e0eb5635c89a50f6be6b9bb9e637c00387ae05b225b4ac.m3u8
+#EXTINF:-1,bsフジ@@1[1280x720][2.0mb]
+https://epg.pw/stream/356cce4f38827be5498cc96819f94bc30d9b5c531970b67fe4cd736a3c402233.m3u8
+#EXTINF:-1,釣りビジョン@@1[1280x720][2.0mb]
+https://epg.pw/stream/e7fe3e09c0acbf50e5e724c04771e340c68a3d8aad79512f45d1122a66c828e9.m3u8
+#EXTINF:-1,bs日テレ[1280x720][2.0mb]
+https://epg.pw/stream/90abce390afc95e5ad50f173bca237817eef6fb266a97442898b8edb45bb049c.m3u8
+#EXTINF:-1,mnet[1280x720][3.0mb]
+https://epg.pw/stream/e0cbf675eccbd41c0538939470cf04ec3beec8503e32ddaee590d67b85ce7dce.m3u8
+#EXTINF:-1,bs-tbs[1280x720][2.0mb]
+https://epg.pw/stream/838c358f466f61af90c05abaa9346b9ffc5768d5bd03c1c84d228fa519ee0287.m3u8
+#EXTINF:-1,bs朝日[1280x720][2.0mb]
+https://epg.pw/stream/ef54ab9bb6cc2b57d918c7caec5a0d7b24b2dba3461290b5261ea5dc82783287.m3u8
+#EXTINF:-1,bsアニマックス@@1[1280x720][2.0mb]
+https://epg.pw/stream/448bf19e1fe97819bf6a045c8aaae4e6f4cf8cd0b9ed77366bc7f40e2497a2ea.m3u8
+#EXTINF:-1,thrill[896x504][][geo-limited]
+https://epg.pw/stream/a719b92c24dc55e58518b4fd1af59cfc0d8b3c8abc5b759853b877a488a36da3.m3u8
+#EXTINF:-1,cbs news@@3[1280x720][6.0mb][geo-limited]
+https://epg.pw/stream/1a31e4e68aca6590936f2f3ad16c61bed4e6612859c680a4ac52ced917b56238.m3u8
+#EXTINF:-1,唯心電視[854x480][1.0mb]
+https://epg.pw/stream/aa983b380af5e2ddf20506413fa4a11d20aff06af9605f87caeef96a787d942a.m3u8
+#EXTINF:-1,フジテレビnext[960x544][][geo-limited]
+https://epg.pw/stream/db56c5ea9e671abeaae6f2f75042fd349b5d14fa289b971f8c1b77fceb365f31.m3u8
+#EXTINF:-1,mtv japan[960x544][][geo-limited]
+https://epg.pw/stream/54fa803999659caa34cf50eb8a6790cbb0464e81a4b72ea5d8b3958bcae15758.m3u8
+#EXTINF:-1,music japantv[960x544][][geo-limited]
+https://epg.pw/stream/5e0bbe1749fbb6d41414e7c64f7594f696ddd539a22a34e3e38f1861f64c3040.m3u8
+#EXTINF:-1,衛星劇場[960x544][][geo-limited]
+https://epg.pw/stream/6a2cb8f7acc767af9e589606e4c938421de9c4735ce941f38ee7a2a042f0a5dd.m3u8
+#EXTINF:-1,cartoon network[720x400][][geo-limited]
+https://epg.pw/stream/8bb59bfec30eecd83925b3fa3786e772de243038fb4d6f6427671cc0e9f82b4c.m3u8
+#EXTINF:-1,music on tv![1280x720][]
+https://epg.pw/stream/567c4d2e06087ed5a754bba796506b8710c452ad11675ba97b92c395f3fbf206.m3u8
+#EXTINF:-1,テレビ朝日[960x544][][geo-limited]
+https://epg.pw/stream/de7a62f9e29c24fb27171fac99c13db2543f77b205337b11904153bdb8a5961f.m3u8
+#EXTINF:-1,mbs毎日放送[960x544][][geo-limited]
+https://epg.pw/stream/c55fa652c99df04aee9a9f71fa9b3c1f84278457027a8b56265af180c8f49147.m3u8
+#EXTINF:-1,tbsニュース[960x544][][geo-limited]
+https://epg.pw/stream/fbf9f8e67f8ea2d096e2fdad6ffbbf3c715602e92645386193a260af7d5b0e33.m3u8
+#EXTINF:-1,cnn j[960x544][][geo-limited]
+https://epg.pw/stream/533b37c28f3b05aaa8e0eb5635c89a50f6be6b9bb9e637c00387ae05b225b4ac.m3u8
+#EXTINF:-1,國家地理野生@@1[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/c7f80aa690c7fa55500aacc1c23e3995e953fb621bf275515b128c204906c77e.m3u8
+#EXTINF:-1,mtv global[720x576][1.0mb][geo-limited]
+https://epg.pw/stream/2a7e7359ff45051fe6c33471794b36a26d71c3747e6104d65fac67cb27e7208a.m3u8
