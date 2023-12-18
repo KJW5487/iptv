@@ -214,6 +214,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&b
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1,凤凰资讯@@1[1920x1080][9.0mb][geo-limited]
 https://epg.pw/stream/679055deefd5d79a19efa07d9c82b326995f4f568f98f2917f444a458af574e1.m3u8
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+http://r.jdshipin.com/NfC0f
 #EXTINF:-1,8 MEDIACORP[1280x720][][geo-limited]
 #https://epg.pw/stream/38b801aaf040059e9337e61405c1a56f1cd76e5b43b8862a253db2454b09d4b2.ctv
 #https://epg.pw/stream/d410b16153dba49a46848512e0db718bb51c360cd79723ce1d26bdcd183b7e58.ctv
@@ -900,3 +902,23 @@ https://epg.pw/stream/fbfdb1f66e7c355c38e8697305dbcf59209462fafb16c25108778fb5d5
 https://epg.pw/stream/cae50d7cfc95db94505930ceae037c7b1838f2a53cecdfc55fe322a72328a3ad.ctv
 #EXTINF:-1,hbo hd@@4[1920x1080][2.0mb][geo-limited]
 https://epg.pw/stream/c300dc774698a3dee9c053d7b19731f038712a8bf10bf26176f5aa5732475782.m3u8
+
+
+#EXTINF:-1,翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1,`华丽台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1,`明珠台
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1,`TVB J2
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1,J2.备用
+http://r.jdshipin.com/ndGgS
+#EXTINF:-1,凤凰资讯
+http://r.jdshipin.com/0Rp07
+#EXTINF:-1,无线新闻
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1,`TVBS星河
+http://r.jdshipin.com/sXuuD
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
+http://r.jdshipin.com/NfC0f
