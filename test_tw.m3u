@@ -906,14 +906,6 @@ https://epg.pw/stream/c300dc774698a3dee9c053d7b19731f038712a8bf10bf26176f5aa5732
 
 #EXTINF:-1,翡翠台
 http://r.jdshipin.com/qClQf
-#EXTINF:-1,`华丽台
-http://r.jdshipin.com/thuYX
-#EXTINF:-1,`明珠台
-http://r.jdshipin.com/ZQ4kN
-#EXTINF:-1,`TVB J2
-http://r.jdshipin.com/Nr5jq
-#EXTINF:-1,J2.备用
-http://r.jdshipin.com/ndGgS
 #EXTINF:-1,凤凰资讯
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1,无线新闻
@@ -922,3 +914,5 @@ http://r.jdshipin.com/CkuBd
 http://r.jdshipin.com/sXuuD
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
 http://r.jdshipin.com/NfC0f
+#EXTINF:-1,VIU TV
+http://r.jdshipin.com/vSJvl
