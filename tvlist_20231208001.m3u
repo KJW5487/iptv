@@ -1098,5 +1098,61 @@ https://epg.pw/stream/5c699ff27e4250d2e41507e138f75d8974cf45f3e82ff5cb3d12858e14
 #EXTINF:-1,Now新闻[1280x720][][geo-limited]
 https://epg.pw/stream/fd4e20e7c9434b6b5fc37522adb237a788e0999b719b310574b007e9dabbf8e2.ctv
 #EXTINF:-1,歌謡ポップスチャンネル@@1[1280x720],h264xaac]
-https://epg.pw/stream/0190f0363947305422d3061953c2046abde113a00694a110f1836207ef0d0af5.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,8 MEDIACORP[1280x720][][geo-limited]
+https://epg.pw/stream/f9f9f6d7ad513a7ea86fe4d11ce1631f8391abceae65111f8e0a282daa0327af.ctv
+#EXTINF:-1,tv perú[1920x1080][3.0mb]
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-1,Golf Network[1280x720][1.0mb]
+http://202.60.106.14:8080/1335/playlist.m3u8
+#EXTINF:-1,日本テレビ[960x540][2.0mb]
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1,フジテレビ[1280x720][2.0mb]
+https://epg.pw/stream/b8bf1470e2d5b6abeb787122eb50dc6b68ac85ef4570be53a823351e01c7c52c.ctv
+#EXTINF:-1,テレビ朝日[1280x720][3.0mb]
+https://epg.pw/stream/7a54a08482239f62f97dbcd05a1e9d13158cbc640953c78614aace2a1a6e9913.ctv
+#EXTINF:-1,TBS[1280x720][3.0mb]
+https://epg.pw/stream/bd2aa3fdabb1dc4c283e5bcd659701e5f86e51a4328eeeaea5de38af9748e155.ctv
+#EXTINF:-1,NHK General TV[1280x720][3.0mb]
+https://epg.pw/stream/1da42fae77d86738fe5d675a9f425f692160ed5bde551f7be0651d33be29bece.ctv
+#EXTINF:-1,テレビ東京[1280x720][2.0mb]
+https://epg.pw/stream/7491a0a7defdc1cef4e2b14499e00beb41bce9dd23da3c65416072c5f110db67.ctv
+#EXTINF:-1,NHK BS[1280x720][2.0mb]
+https://epg.pw/stream/60078d230dcf04a8dced8a7234e36d3a0e83ed68c0d9ff926e8d9edb1d248d58.ctv
+#EXTINF:-1,NHK BSP4K[1920x1080][2.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,NHK World Japan[1280x720][2.0mb]
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1,NHK World Premium[1920x1080][8.0mb]
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1,NTV NEWS 24[854x480][2.0mb]
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1,RKB NEWS 24[1920x1080][6.0mb][geo-limited]
+https://ythls.armelin.one/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
+#EXTINF:-1,Shop Channel[1920x1080][6.0mb]
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1,Weathernews[1280x720][2.0mb]
+https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
+#EXTINF:-1,WOWOW Prime[1280x720][2.0mb]
+https://epg.pw/stream/56a1c9ec1a9ec7f0d9bf283980fe7a4aacb558ca254ce0d436d104a24f1d9255.ctv
+#EXTINF:-1,JapaNews24[1920x1080][][geo-limited]
+https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+#EXTINF:-1,中视新闻[1920x1080][2.0mb][geo-limited]
+https://pkj99.github.io/YTLive/中視新聞.m3u8
+#EXTINF:-1,cctv1@@12[1920x1080][3.0mb][geo-limited]
+http://cfss.cc/api/ysp/cctv1.m3u8
 
+#EXTINF:-1,中视[1920x1080][4.0mb][geo-limited]
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+#EXTINF:-1,民视新闻台[1920x1080][3.0mb][geo-limited]
+https://pkj99.github.io/YTLive/民視新聞.m3u8
+#EXTINF:-1,wowow prime@@2[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,wowow cinema[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,wowow live[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,國家地理野生[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/5b493c2bd5df89f736e1784a66e172d7d761bd120971d5c780472c15fc3b6ca2.m3u8
+#EXTINF:-1,愛爾達體育2[1280x720][6.0mb]
+rtmp://9sv2.mine.nu:1935/sat/md051

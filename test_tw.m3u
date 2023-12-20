@@ -224,6 +224,9 @@ http://r.jdshipin.com/NfC0f
 #https://epg.pw/stream/e1edd1095ab403016c55db35262c9797de45e12450076cc4a6c66062e687a986.ctv
 #https://epg.pw/stream/84a5dbf0802a56429f7ebe8182c9cb8be4dcf54f142f22959145c018e451c4e6.ctv
 https://epg.pw/stream/bac5d37580f833f121b23eca173d40e6af5c86c2539fd112cef6d6caa22a01e7.ctv
+
+#EXTINF:-1,cctv4@@1[1920x1080][3.0mb]
+http://cfss.cc/api/ysp/cctv4.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="央视",CCTV-13新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1,CCTV13
@@ -914,5 +917,4 @@ http://r.jdshipin.com/CkuBd
 http://r.jdshipin.com/sXuuD
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
 http://r.jdshipin.com/NfC0f
-#EXTINF:-1,VIU TV
-http://r.jdshipin.com/vSJvl
+
