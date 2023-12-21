@@ -1156,3 +1156,462 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&b
 https://epg.pw/stream/5b493c2bd5df89f736e1784a66e172d7d761bd120971d5c780472c15fc3b6ca2.m3u8
 #EXTINF:-1,愛爾達體育2[1280x720][6.0mb]
 rtmp://9sv2.mine.nu:1935/sat/md051
+
+#EXTINF:-1,sbs tjb[1280x720][2.0mb]
+https://epg.pw/stream/8b3a57173d4ee16eeba5dbb8b4e926898c9aa7b94359507d8e9f45b9fc918407.m3u8
+#EXTINF:-1,cnnj[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/6e5ddf8c4dedb4f44dd9b9bc305cf175dc965664d4d95b93e5ad8a97173497e9.m3u8
+#EXTINF:-1,nhk e@@1[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/6052c59d0371591c30a9acf95e0b4e5719022e5c843e755283646aded8f964b2.m3u8
+#EXTINF:-1,fuji tv next[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/398311c3161e761c6fcdea9a00d06875e72e234f5c585cf68719d7f0a3ab83c9.m3u8
+#EXTINF:-1,abc[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/50671bccafc68e5a9057a1d46556cad2e69e0e04c206073648a4c1d0a1bd82d3.m3u8
+#EXTINF:-1,kansai tv[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/260606dfc0b9801dce4c9ae670b8ac80b1607c19ed9411bf5621da832f6df4c9.m3u8
+#EXTINF:-1,tabi channel[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/08fa5f17ba998d9a18ef97e94572745b6dc29058abd9f9866841826b67c5c9b2.m3u8
+#EXTINF:-1,tv osaka[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/75cd687548d1632b519460407b61111993e9d6aaefa329df9f79d8336e25b56a.m3u8
+#EXTINF:-1,takarazuka sky stage[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/2516a5020b5c4c1eb5517273c17b2ec0eb41c01ac2acf097c74a6726ce7b368c.m3u8
+#EXTINF:-1,mondo tv@@1[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/991d8b0d724b80d5e366e668e8724488d8308131fa9fca1a1be613a75e25c3f2.m3u8
+#EXTINF:-1,lala tv[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/a653d81aa02d62125bc5e152aaacc75becc778d6cd80fcb70b2c56de4858259a.m3u8
+#EXTINF:-1,kayo pops[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/cb4192479b8e628cba1d8c088014bb373b4783b313816c86eb91432a665f3abf.m3u8
+#EXTINF:-1,music japan tv[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/a39634f59279a0997a23dc790f27f00c960370c53a7e68409bb202ad0c8ea1f0.m3u8
+#EXTINF:-1,space shower tv[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/2e25c0842b68884feb9730967f59a4999675ce683557328c49fab4756ed748d9.m3u8
+#EXTINF:-1,family gekijo[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/274baaa8de8f4af6cecba5b916cdd4773fd7dafba20b42f45c919e3fd636621d.m3u8
+#EXTINF:-1,channel ginga[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/24e056f30c120f5477c805a83f6d410c232444d491a9bfebe194fbb629d2de49.m3u8
+#EXTINF:-1,home drama channel[960x544][1.0mb][geo-limited]
+https://epg.pw/stream/ba596832e8f9008bae3d17e45481c21368d983975550f682a2446c943c3181e5.m3u8
+#EXTINF:-1,ebc movie[1920x1080][5.0mb]
+https://epg.pw/stream/e7475d903a28b45ff12808b9beffc91bccfe54bf1c3176cfce4fdb13a4684708.m3u8
+#EXTINF:-1,iran international[1280x720][3.0mb]
+https://epg.pw/stream/e74d6f6bf8ac4aa86c99aad6d59ded7751cc305d779feeea2652aa504a5b2efd.m3u8
+
+
+#EXTINF:-1 tvg-id="[KBSLiveCamDokDo.kr](http://kbslivecamdokdo.kr/)" tvg-logo="[https://i.imgur.com/b7uMB9T.png"group-title="KOREA](https://i.imgur.com/b7uMB9T.png%22group-title=%22KOREA)",KBS LiveCam DokDo(720P)
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767" tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ac_samsung.png" group-title="KOREA",AsianCrush PLEX (1080P)
+https://dc447fbd44e44d33b66b90c1eaaefec1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AsianCrush/playlist.m3u8?
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f" tvg-id="5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png" group-title="KOREA",Rakuten Viki PLEX(1080P)
+https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8?
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkmovies_logo_dark_v2.png" group-title="KOREA",New K Movies(1080P)
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d" tvg-id="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png" group-title="KOREA",New kpop Plex(1080P)
+https://2d2cb770b80a4e19bded6a526e1e9c9f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewKID/playlist.m3u8?
+
+#EXTINF:-1 channel-id="samsung-USBB2900001P9" tvg-id="USBB2900001P9" tvg-chno="1290"tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/20/USBB2900001P9_20210824T091331.png" group-title="KOREA",Cj(1080P)
+https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8?
+
+#EXTINF:-1 channel-id="samsung-USAJ30000122O" tvg-id="USAJ30000122O" tvg-chno="1295"tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20210909T003510.png" group-title="KOREA",New K movies(1080P)
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?
+
+#EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-chno="1296"tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/40/USAJ3000013FJ_20210909T003532.png" group-title="KOREA",New Kpop(1080P)
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b" tvg-id="5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ygtv_logo_dark.png" group-title="KOREA",Yg tv Plex(1080P)
+https://4e7d4e92cd344185b927ab5c730550dd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_YGTV/playlist.m3u8?
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4424" tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4424" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kmtvnow_samsung.png" group-title="KOREA",Km tv Plex(1080P)
+https://fc411f09ac2840368cad3ceb953e0bc9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KMTV/playlist.m3u8?
+
+#EXTINF:0 tvg-id="[SBSTV.kr](http://sbstv.kr/)" tvg-name="SBS"tvg-logo="https://i.imgur.com/BzqSUVF.png" group-title="KOREA",SBS (720P)
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="[TJBTV.kr](http://tjbtv.kr/)" tvg-name="SBS funE"tvg-logo="https://i.imgur.com/n2JajGK.png" group-title="KOREA",SBS Tjb(720P)
+http://1.245.74.5:1935/live/tv/.m3u8
+
+#EXTINF:0 tvg-id="[UBCTV.kr](http://ubctv.kr/)" tvg-name="SBS Plus"tvg-logo="https://i.imgur.com/tzTx3Ta.png" group-title="KOREA",SBS Ubc(540P)
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[EBS1TV.kr](http://ebs1tv.kr/)" group-title="KOREA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1200px-EBS_1TV_Logo.svg.png", EBS 1 (400P)
+http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[EBS2TV.kr](http://ebs2tv.kr/)" group-title="KOREA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EBS_2_logo.svg/2560px-EBS_2_logo.svg.png", EBS 2(400P)
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[EBSKids.kr](http://ebskids.kr/)" group-title="KOREA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/800px-EBS_KIDS.svg.png", EBS Kids(400P)
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[EBSPlus1.kr](http://ebsplus1.kr/)" group-title="KOREA"tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_01.png", EBS Plus 1(400P)
+http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[EBSPlus2.kr](http://ebsplus2.kr/)" group-title="KOREA"tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_02.png", EBS Plus 2(400P)
+http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[EBSEnglish.kr](http://ebsenglish.kr/)" group-title="KOREA" tvg-logo="https://obj-kr.thewiki.kr/data/4542535f456e676c6973682e706e67.png", EBS E(400P)
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:0 tvg-id="[MBCTV.kr](http://mbctv.kr/)" tvg-name="MBC"tvg-logo="https://i.imgur.com/r9gNY5R.png" group-title="KOREA",MBC(1080P)
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[ArirangRadio.kr](http://arirangradio.kr/)",Arirang Radio (720p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[ArirangRadio.kr](http://arirangradio.kr/)",Arirang Radio (720p)
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[ArirangRadio.kr](http://arirangradio.kr/)",Arirang Radio (720p)
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[ArirangRadio.kr](http://arirangradio.kr/)",Arirang Radio (720p)
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[ArirangRadio.kr](http://arirangradio.kr/)",Arirang Radio (720p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[ArirangTV.kr](http://arirangtv.kr/)",Arirang TV (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[ArirangTV.kr](http://arirangtv.kr/)",Arirang TV (720p)
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[ArirangTV.kr](http://arirangtv.kr/)",Arirang TV (720p)
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[ArirangTV.kr](http://arirangtv.kr/)",Arirang TV (720p)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[ArirangTV.kr](http://arirangtv.kr/)",Arirang TV (720p)
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[ArirangTV.kr](http://arirangtv.kr/)",Arirang TV (720p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[ArirangTV.kr](http://arirangtv.kr/)",Arirang TV (720p)
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[ArirangUN.kr](http://arirangun.kr/)",Arirang TV UN (1080p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[BBSTV.kr](http://bbstv.kr/)",BBS Buddhist Broadcasting (1080p)
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[BTNTV.kr](http://btntv.kr/)",BTN TV (1080p)
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[CGNTVSouthKorea.kr](http://cgntvsouthkorea.kr/)",CGNTV (720p)
+https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8
+
+#EXTINF:-1 tvg-id="[CJOnStyle.kr](http://cjonstyle.kr/)",CJ OnStyle (540p)
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[CJOnStylePlus.kr](http://cjonstyleplus.kr/)",CJ OnStyle Plus (540p)
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[CTSTV.kr](http://ctstv.kr/)",CTS기독교TV (720p)
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+
+#EXTINF:-1 tvg-id="[EBS1TV.kr](http://ebs1tv.kr/)",EBS 1 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[EBS1TV.kr](http://ebs1tv.kr/)",EBS 1 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[EBS2TV.kr](http://ebs2tv.kr/)",EBS 2 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[EBSEnglish.kr](http://ebsenglish.kr/)",EBS E (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[EBSKids.kr](http://ebskids.kr/)",EBS kids (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[EBSPlus1.kr](http://ebsplus1.kr/)",EBS+ 1 (400p)
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[EBSPlus2.kr](http://ebsplus2.kr/)",EBS+ 2 (400p)
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[FGTV.kr](http://fgtv.kr/)",FGTV (720p)
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[GCN.kr](http://gcn.kr/)",GCN24 Korean (720p)
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[GongyoungHomeShopping.kr](http://gongyounghomeshopping.kr/)",Gongyoung Shopping (720p)
+https://etv.publichs.com/live5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[GoodTV.kr](http://goodtv.kr/)",GoodTV (1080p)
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[GSMyShop.kr](http://gsmyshop.kr/)",GS My Shop (1080p)
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[GSShop.kr](http://gsshop.kr/)",GS Shop (1080p)
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[GugakTV.kr](http://gugaktv.kr/)",GugakTV 국악방송 (1080p)
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[GugbangTV.kr](http://gugbangtv.kr/)",Gugbang TV (1080p) [Not 24/7]
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HomeShopping.kr](http://homeshopping.kr/)",Home & Shopping (720p)
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HyundaiHomeShopping.kr](http://hyundaihomeshopping.kr/)",Hyundai Home Shopping (720p)
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HyundaiHomeShoppingPlusShop.kr](http://hyundaihomeshoppingplusshop.kr/)",Hyundai Home Shopping Plus (720p)
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",JCN TV (1080p)
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+
+#EXTINF:-1 tvg-id="[JobplusTV.kr](http://jobplustv.kr/)",Job Plus TV (한국직업방송) (480p)
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[JobplusTV.kr](http://jobplustv.kr/)",Job Plus TV (한국직업방송) (480p)
+https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLKADTV.kr](http://hlkadtv.kr/)",KBS1 (720p)
+https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLKBDTV.kr](http://hlkbdtv.kr/)",KBS1 (Busan) (720p)
+https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLKGDTV.kr](http://hlkgdtv.kr/)",KBS1 (Daegu) (720p)
+https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLKIDTV.kr](http://hlkidtv.kr/)",KBS1 (Daejeon) (720p)
+https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLKHDTV.kr](http://hlkhdtv.kr/)",KBS1 (Gwangju) (720p)
+https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLQBDTV.kr](http://hlqbdtv.kr/)",KBS1 (Ulsan) (720p)
+https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[KBS1TV.kr](http://kbs1tv.kr/)",KBS 1 UHD (720p)
+http://202.60.106.14:8080/200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[KBS1TV.kr](http://kbs1tv.kr/)",KBS 1 UHD (720p)
+http://202.60.106.14:21585/200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[KBS2TV.kr](http://kbs2tv.kr/)",KBS2 (720p) [Not 24/7]
+https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[KBSDrama.kr](http://kbsdrama.kr/)",KBS Drama (480p)
+http://mytv.dothome.co.kr/ch/catv/2.php
+
+#EXTINF:-1 tvg-id="[KBSDrama.kr](http://kbsdrama.kr/)",KBS Drama (480p)
+https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[KBSJoy.kr](http://kbsjoy.kr/)",KBS Joy (480p)
+http://mytv.dothome.co.kr/ch/catv/3.php
+
+#EXTINF:-1 tvg-id="[KBSJoy.kr](http://kbsjoy.kr/)",KBS Joy (480p)
+https://code.vthanhtivi.pw/getlink/kbs/N92/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[KBSKids.kr](http://kbskids.kr/)",KBS Kids (480p)
+https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[KBSLife.kr](http://kbslife.kr/)",KBS Life (480p)
+http://mytv.dothome.co.kr/ch/catv/5.php
+
+#EXTINF:-1 tvg-id="[KBSLife.kr](http://kbslife.kr/)",KBS Life (480p)
+https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[KBSLiveCamDokDo.kr](http://kbslivecamdokdo.kr/)",KBS LiveCam DokDo (540p)
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[KBSNewsD.kr](http://kbsnewsd.kr/)",KBS News D (720p)
+https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[KBSStory.kr](http://kbsstory.kr/)",KBS Story (480p)
+http://mytv.dothome.co.kr/ch/catv/4.php
+
+#EXTINF:-1 tvg-id="[KBSStory.kr](http://kbsstory.kr/)",KBS Story (480p)
+https://code.vthanhtivi.pw/getlink/kbs/N94/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[KBSWorld.kr](http://kbsworld.kr/)",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-id="[KBSWorld.kr](http://kbsworld.kr/)",KBS World (720p)
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[KBSWorld.kr](http://kbsworld.kr/)",KBS World (Vietnamese Subtitles) (720p)
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[KCTV.kr](http://kctv.kr/)",KCTV 광주 CH05 (720p) [Not 24/7]
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[KTV.kr](http://ktv.kr/)",Korea TV (1080p)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Korean Song Channel (720p)
+http://live.kytv.co.kr:8080/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="[KShopping.kr](http://kshopping.kr/)",KShopping (1080p)
+https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[LotteHomeShopping.kr](http://lottehomeshopping.kr/)",Lotte Home Shopping (720p)
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+
+#EXTINF:-1 tvg-id="[HLAWDTV.kr](http://hlawdtv.kr/)",MBC Andong (안동 MBC) (360p) [Not 24/7]
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLKUDTV.kr](http://hlkudtv.kr/)",MBC Busan (부산MBC) (360p) [Not 24/7]
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLANDTV.kr](http://hlandtv.kr/)",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLAODTV.kr](http://hlaodtv.kr/)",MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLCTDTV.kr](http://hlctdtv.kr/)",MBC Daegu (대구 MBC) (480p) [Not 24/7]
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLCQDTV.kr](http://hlcqdtv.kr/)",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[MBCDrama.kr](http://mbcdrama.kr/)",MBC Drama (480p) [Geo-blocked]
+http://mytv.dothome.co.kr/ch/catv/26.php
+
+#EXTINF:-1 tvg-id="[HLAQDTV.kr](http://hlaqdtv.kr/)",MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLCNDTV.kr](http://hlcndtv.kr/)",MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[MBCGyeongnamTV.kr](http://mbcgyeongnamtv.kr/)",MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",MBC Jeju (제주 MBC) (352p) [Not 24/7]
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLAMDTV.kr](http://hlamdtv.kr/)",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[MBCNet.kr](http://mbcnet.kr/)",MBC Net (480p) [Geo-blocked]
+http://mytv.dothome.co.kr/ch/catv/28.php
+
+#EXTINF:-1 tvg-id="[HLATDTV.kr](http://hlatdtv.kr/)",MBC Yeosu (여수 MBC) (1080p) [Not 24/7]
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[MTN.kr](http://mtn.kr/)",MTN (720p)
+http://183.110.27.87/mtnlive/720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[NationalAssemblyTV.kr](http://nationalassemblytv.kr/)",National Assembly TV (720p)
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
+
+#EXTINF:-1 tvg-id="[NBS.kr](http://nbs.kr/)",NBS Korea Agricultural Broadcasting (720p)
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[NHTV.kr](http://nhtv.kr/)",NHTV (720p)
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[NSHomeShopping.kr](http://nshomeshopping.kr/)",NS Home Shopping (720p)
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+
+#EXTINF:-1 tvg-id="[NSShopPlus.kr](http://nsshopplus.kr/)",NS Shop Plus (720p)
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+
+#EXTINF:-1 tvg-id="[HLQSDTV.kr](http://hlqsdtv.kr/)",OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[OUN.kr](http://oun.kr/)",OUN (1080p)
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[RTV.kr](http://rtv.kr/)",RTV (720p)
+https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8
+
+#EXTINF:-1 tvg-id="[RUTCTV.kr](http://rutctv.kr/)",RUTC TV (720p)
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLDRDTV.kr](http://hldrdtv.kr/)",SBS CJB (540p) [Not 24/7]
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLCGDTV.kr](http://hlcgdtv.kr/)",SBS G1 (360p) [Not 24/7]
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLKJDTV.kr](http://hlkjdtv.kr/)",SBS JIBS (720p) [Not 24/7]
+http://123.140.197.22/stream/1/play.m3u8
+
+#EXTINF:-1 tvg-id="[HLDQDTV.kr](http://hldqdtv.kr/)",SBS JTV (406p) [Not 24/7]
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLDHDTV.kr](http://hldhdtv.kr/)",SBS KBC (1080p) [Not 24/7]
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLDGDTV.kr](http://hldgdtv.kr/)",SBS KNN (1080p) [Not 24/7]
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="[HLDGDTV.kr](http://hldgdtv.kr/)",SBS KNN (450p) [Not 24/7]
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLDEDTV.kr](http://hldedtv.kr/)",SBS TBC (540p) [Geo-blocked] [Not 24/7]
+http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[HLDEDTV.kr](http://hldedtv.kr/)",SBS TBC (540p) [Geo-blocked] [Not 24/7]
+https://tistory3.daumcdn.net/tistory/2864460/skin/images/Public_8.m3u8
+
+#EXTINF:-1 tvg-id="[HLDFDTV.kr](http://hldfdtv.kr/)",SBS TJB (1080p) [Not 24/7]
+http://1.245.74.5:1935/live/tv/.m3u8
+
+#EXTINF:-1 tvg-id="[HLDPDTV.kr](http://hldpdtv.kr/)",SBS UBC (540p) [Not 24/7]
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[ShinsegaeTVShopping.kr](http://shinsegaetvshopping.kr/)",Shinsegae Shopping TV (720p)
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[ShoppingNT.kr](http://shoppingnt.kr/)",Shopping NT (720p)
+https://live.shoppingntmall.com/live/10011.m3u8
+
+#EXTINF:-1 tvg-id="[TBSTV.kr](http://tbstv.kr/)",TBS Seoul (720p)
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[TVChosun.kr](http://tvchosun.kr/)",TV Chosun (720p)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[TVChosun2.kr](http://tvchosun2.kr/)",TV Chosun 2 (720p)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[WShopping.kr](http://wshopping.kr/)",W Shopping (720p)
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[WBCTV.kr](http://wbctv.kr/)",WBC TV (1080p)
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC",ONE
+http://rtmp.one.by:1300
+
+#EXTINF:-1 group-title="MUSIC"tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",TRACE URBAN(1080P)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC"tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",IMTV(720P)
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="RADIO M2O"tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",RADIO M2O(1080P)
+https://streamcdnr8-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="NOW 70s"tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",NOW 70s(720P)
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="NOW 80s"tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",NOW 80s(720P)
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="NOW ROCK"tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",NOW ROCK(720P)
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="CLUBBING TV"tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",CLUBBING TV(720P)
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="CALIFORNIA MUSIC CHANNEL" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",CALIFORNIA MUSIC CHANNEL(1080P)
+https://cmc-ono.amagi.tv/playlist.m3u8
