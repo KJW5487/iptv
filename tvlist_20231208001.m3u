@@ -1113,8 +1113,7 @@ https://epg.pw/stream/b8bf1470e2d5b6abeb787122eb50dc6b68ac85ef4570be53a823351e01
 https://epg.pw/stream/7a54a08482239f62f97dbcd05a1e9d13158cbc640953c78614aace2a1a6e9913.ctv
 #EXTINF:-1,TBS[1280x720][3.0mb]
 https://epg.pw/stream/bd2aa3fdabb1dc4c283e5bcd659701e5f86e51a4328eeeaea5de38af9748e155.ctv
-#EXTINF:-1,NHK General TV[1280x720][3.0mb]
-https://epg.pw/stream/1da42fae77d86738fe5d675a9f425f692160ed5bde551f7be0651d33be29bece.ctv
+
 #EXTINF:-1,テレビ東京[1280x720][2.0mb]
 https://epg.pw/stream/7491a0a7defdc1cef4e2b14499e00beb41bce9dd23da3c65416072c5f110db67.ctv
 #EXTINF:-1,NHK BS[1280x720][2.0mb]
@@ -1153,48 +1152,48 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&b
 #EXTINF:-1,wowow live[960x544][1.0mb][geo-limited]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1,國家地理野生[1280x720][3.0mb][geo-limited]
-https://epg.pw/stream/5b493c2bd5df89f736e1784a66e172d7d761bd120971d5c780472c15fc3b6ca2.m3u8
+http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 #EXTINF:-1,愛爾達體育2[1280x720][6.0mb]
 rtmp://9sv2.mine.nu:1935/sat/md051
 
 #EXTINF:-1,sbs tjb[1280x720][2.0mb]
-https://epg.pw/stream/8b3a57173d4ee16eeba5dbb8b4e926898c9aa7b94359507d8e9f45b9fc918407.m3u8
+http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1,cnnj[960x544][1.0mb][geo-limited]
-https://epg.pw/stream/6e5ddf8c4dedb4f44dd9b9bc305cf175dc965664d4d95b93e5ad8a97173497e9.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #EXTINF:-1,nhk e@@1[960x544][1.0mb][geo-limited]
-https://epg.pw/stream/6052c59d0371591c30a9acf95e0b4e5719022e5c843e755283646aded8f964b2.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 #EXTINF:-1,fuji tv next[960x544][1.0mb][geo-limited]
-https://epg.pw/stream/398311c3161e761c6fcdea9a00d06875e72e234f5c585cf68719d7f0a3ab83c9.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 #EXTINF:-1,abc[960x544][1.0mb][geo-limited]
-https://epg.pw/stream/50671bccafc68e5a9057a1d46556cad2e69e0e04c206073648a4c1d0a1bd82d3.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 #EXTINF:-1,kansai tv[960x544][1.0mb][geo-limited]
-https://epg.pw/stream/260606dfc0b9801dce4c9ae670b8ac80b1607c19ed9411bf5621da832f6df4c9.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 #EXTINF:-1,tabi channel[960x544][1.0mb][geo-limited]
-https://epg.pw/stream/08fa5f17ba998d9a18ef97e94572745b6dc29058abd9f9866841826b67c5c9b2.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
 #EXTINF:-1,tv osaka[960x544][1.0mb][geo-limited]
-https://epg.pw/stream/75cd687548d1632b519460407b61111993e9d6aaefa329df9f79d8336e25b56a.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 #EXTINF:-1,takarazuka sky stage[1920x1080][2.0mb][geo-limited]
-https://epg.pw/stream/2516a5020b5c4c1eb5517273c17b2ec0eb41c01ac2acf097c74a6726ce7b368c.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 #EXTINF:-1,mondo tv@@1[960x544][1.0mb][geo-limited]
-https://epg.pw/stream/991d8b0d724b80d5e366e668e8724488d8308131fa9fca1a1be613a75e25c3f2.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
 #EXTINF:-1,lala tv[960x544][1.0mb][geo-limited]
-https://epg.pw/stream/a653d81aa02d62125bc5e152aaacc75becc778d6cd80fcb70b2c56de4858259a.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
 #EXTINF:-1,kayo pops[960x544][1.0mb][geo-limited]
-https://epg.pw/stream/cb4192479b8e628cba1d8c088014bb373b4783b313816c86eb91432a665f3abf.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
 #EXTINF:-1,music japan tv[960x544][1.0mb][geo-limited]
-https://epg.pw/stream/a39634f59279a0997a23dc790f27f00c960370c53a7e68409bb202ad0c8ea1f0.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 #EXTINF:-1,space shower tv[960x544][1.0mb][geo-limited]
-https://epg.pw/stream/2e25c0842b68884feb9730967f59a4999675ce683557328c49fab4756ed748d9.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 #EXTINF:-1,family gekijo[960x544][1.0mb][geo-limited]
-https://epg.pw/stream/274baaa8de8f4af6cecba5b916cdd4773fd7dafba20b42f45c919e3fd636621d.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
 #EXTINF:-1,channel ginga[1920x1080][2.0mb][geo-limited]
-https://epg.pw/stream/24e056f30c120f5477c805a83f6d410c232444d491a9bfebe194fbb629d2de49.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 #EXTINF:-1,home drama channel[960x544][1.0mb][geo-limited]
-https://epg.pw/stream/ba596832e8f9008bae3d17e45481c21368d983975550f682a2446c943c3181e5.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
 #EXTINF:-1,ebc movie[1920x1080][5.0mb]
-https://epg.pw/stream/e7475d903a28b45ff12808b9beffc91bccfe54bf1c3176cfce4fdb13a4684708.m3u8
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1,iran international[1280x720][3.0mb]
-https://epg.pw/stream/e74d6f6bf8ac4aa86c99aad6d59ded7751cc305d779feeea2652aa504a5b2efd.m3u8
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 
 
 #EXTINF:-1 tvg-id="[KBSLiveCamDokDo.kr](http://kbslivecamdokdo.kr/)" tvg-logo="[https://i.imgur.com/b7uMB9T.png"group-title="KOREA](https://i.imgur.com/b7uMB9T.png%22group-title=%22KOREA)",KBS LiveCam DokDo(720P)
@@ -1615,3 +1614,144 @@ https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-id="CALIFORNIA MUSIC CHANNEL" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",CALIFORNIA MUSIC CHANNEL(1080P)
 https://cmc-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,cartoon network japan[720x400][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1,美亚电影[1280x720][][geo-limited]
+https://epg.pw/stream/4e0760d5f06db9a20a71a1ab963bcf819a7a19c9a2df3ccf7747802825e37cb3.ctv
+#EXTINF:-1,Channel 8[1280x720][][geo-limited]
+https://epg.pw/stream/136948857f8d8bfe7a4d4032bfcce88b0cbc9dbe089603449f47cc5ac0f290b4.ctv
+#EXTINF:-1,NBA TV[1920x1080][][geo-limited]
+https://epg.pw/stream/8283b38b44af58d2f06ee68ff3c0cbb3c3a615d017c24c6390f58b650cd04745.ctv
+#EXTINF:-1,NBA TV[1920x1080][][geo-limited]
+https://epg.pw/stream/e66b0d1b9014841e1a8f3144f0aaf785c34eb073044ef4e237dde209793e205d.ctv
+#EXTINF:-1,NBA TV[1920x1080][][geo-limited]
+https://epg.pw/stream/541a430c903b2d44e29f99803c998a57e09159f40ed914b597f29043f0a09027.ctv
+#EXTINF:-1,mtv japan@@1[1280x720][2.0mb][geo-limited]
+http://asia.vthanhtivi.pw/MTV/index.m3u8
+#EXTINF:-1,star 2[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+#EXTINF:-1,star 1[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1,star 3[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
+#EXTINF:-1,華視[1920x1080][2.0mb]
+http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+#EXTINF:-1,三立台灣台[1920x1080][3.0mb]
+http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1,東森幼幼台[1920x1080][2.0mb][geo-limited]
+http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+#EXTINF:-1,民視[1920x1080][2.0mb][geo-limited]
+http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+#EXTINF:-1,國家地理台灣[1920x1080][3.0mb][geo-limited]
+http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
+#EXTINF:-1,東森綜合[1920x1080][2.0mb][geo-limited]
+http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1,年代much[1920x1080][2.0mb][geo-limited]
+http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1,緯來日本[1280x720][3.0mb]
+rtmp://9sv2.mine.nu/sat/tv771
+#EXTINF:-1,中視[1920x1080][2.0mb][geo-limited]
+http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
+#EXTINF:-1,nsfs-036 我的妻子是男人性欲的目标[1920x1080][0.0mb]
+https://epg.pw/stream/80bf116988a2ae7fa93eb43431e8e78547ce265ff04d3fd35fe139e4fe5d0545.m3u8
+#EXTINF:-1,nsfs-049 为宽恕而付出身体和灵魂-長瀬麻美[1280x720][1.0mb]
+https://epg.pw/stream/6ef025a8b9935470b4da7371863f04169686dc38b1bf5a450694dfc431eff61e.m3u8
+#EXTINF:-1,nsfs-048 熟母-広瀬結香[1280x720][1.0mb]
+https://epg.pw/stream/0c40e1be07c6d4b7fcd50d3b872640f1321ddfb8dd6fb2696912c8f54afdd0ae.m3u8
+#EXTINF:-1,nsfs-035 心爱的妻子被夺走了身体和灵魂[1920x1080][0.0mb]
+https://epg.pw/stream/631bc2c8b83378bc919c9b3fb5200a9ea4d3d2f32f329a493371c4b9709cd106.m3u8
+#EXTINF:-1,nsfs-037 我爱的坏男人-伊東沙蘭[1920x1080][1.0mb]
+https://epg.pw/stream/97481c4c1bb32e67d5ae8b4bb5eeba4f8e39238622bc6c599196437496da826b.m3u8
+#EXTINF:-1,nsps-498 熟年夫婦の悲劇-織田玲子[1920x1080][1.0mb]
+https://epg.pw/stream/1fc7e49d12793da246b8d42d4fc5caad2ce3b1570b4034079b9d7bd8b68cf358.m3u8
+#EXTINF:-1,ntk-616 天然美少女3名全員淫乱[1280x720][1.0mb]
+https://epg.pw/stream/3b254ce9b51e0a05620c53e8dc01d4fb3bd50edb65ff6ed668df5f1be6bc8110.m3u8
+#EXTINF:-1,ntk-619 极品生活美女[1280x720][1.0mb]
+https://epg.pw/stream/43c2f8c8632815f56c07fc5f875c64840e7bb99a650b28228ef22a683f34bc88.m3u8
+#EXTINF:-1,nsps-958 熟母-小野さち子[1920x1080][1.0mb]
+https://epg.pw/stream/37b61af28e88ac032ee28ec6e1315e84768859ef36cdcf27f29f1fc5ff384199.m3u8
+#EXTINF:-1,ntk-623 大奶子女孩做爱后的性生活[1280x720][1.0mb]
+https://epg.pw/stream/72fde78db6681927f9cb6ab891d1532bc6f5fccddf2bd02b8f55e18ca6574f5c.m3u8
+#EXTINF:-1,ntk-625亚洲第一苗条g奶美女jd[1280x720][1.0mb]
+https://epg.pw/stream/a64fa41a87a84533bb9ed819069993948a83d561e5f01f3acb86629e50931418.m3u8
+#EXTINF:-1,ntk-618 漂亮的喝药女孩[1280x720][1.0mb]
+https://epg.pw/stream/c4b31b1074973dc5302b12b7cc046c83e35309ca2ccb4d22bd610b2c403e65d1.m3u8
+#EXTINF:-1,ntrd-021[1920x1080][1.0mb]
+https://epg.pw/stream/68826b9680004e939b71d9e95c03b641918f869fe1f141a746babfede9eb9300.m3u8
+#EXTINF:-1,cawd-345栗宫[1280x720][1.0mb]
+https://epg.pw/stream/20bd04649eb0c82545d8b323b41c04322c2fdcd10434ec9ba3b093291cf53992.m3u8
+#EXTINF:-1,cawd-337伊藤舞雪[1280x720][2.0mb]
+https://epg.pw/stream/449b394776beb87585fafeced5666eeaf06b7057a1ff399296b48216ee5a0bf4.m3u8
+#EXTINF:-1,cawd-277桜[1920x1080][2.0mb]
+https://epg.pw/stream/384a6937a57423f949fab451c842aa64045e84409db44fe3b3b201cfc89858ae.m3u8
+#EXTINF:-1,cawd-344日向[1280x720][1.0mb]
+https://epg.pw/stream/99fe92ccf981b94222591ad8cebfcbf55a526f3b4e59ea3f4b000ee7c5422581.m3u8
+#EXTINF:-1,cawd-322桜[1280x720][1.0mb]
+https://epg.pw/stream/77403d0dff1485c4d24c49fdd6e2148875d7549d72f6ac510ac585c19dd1109a.m3u8
+#EXTINF:-1,cawd-342桜[1280x720][1.0mb]
+https://epg.pw/stream/2b720f2d41c747be52f26e7b664d667c466bb6978f312ce5caeb3a7864ec8c5d.m3u8
+#EXTINF:-1,cawd-286桜[1920x1080][1.0mb]
+https://epg.pw/stream/ebeb9accc3de0c63bf8360568e91dcddd92603c5f53ffbfbe945de807d24e5d3.m3u8
+#EXTINF:-1,waaa-102広瀬[1920x1080][1.0mb]
+https://epg.pw/stream/6192ea2d294b3bac4ecf7fc7edf646ec888adb1a57606cf3a4e2e7656df92700.m3u8
+#EXTINF:-1,meyd-694広瀬[1920x1080][2.0mb]
+https://epg.pw/stream/990773516edf0ee5f00aeb3bdc92e9d7287fa63c7a70d5d7f868e2b43129ede2.m3u8
+#EXTINF:-1,sspd-166二宮川上奈々美[1920x1080][1.0mb]
+https://epg.pw/stream/9cb5ee988ac3763194b5490037b349ca762c1e377fba306c2b7d58f322b202fc.m3u8
+#EXTINF:-1,shkd-964二宮[1920x1080][1.0mb]
+https://epg.pw/stream/9eb3a839014b562389f2d005b7afeb35fb87e6b833bf3c2d4588ae44593b674d.m3u8
+#EXTINF:-1,cawd-299伊藤舞雪[1920x1080][1.0mb]
+https://epg.pw/stream/fd15d290f272ba7712af6b2f40a692fac768e44fc6b230146c5591384a240b0a.m3u8
+#EXTINF:-1,pred-340広瀬[1920x1080][1.0mb]
+https://epg.pw/stream/958bb80f76641d48c8b17e833f529909313be47cbba63f4bcdb2bab419d04826.m3u8
+#EXTINF:-1,cawd-273伊藤舞雪[1920x1080][0.0mb]
+https://epg.pw/stream/0d2059d80aba7b99f12fd28a95729acc6c577f0a0c66e786029c23aa7c9d9317.m3u8
+#EXTINF:-1,cawd-285伊藤舞雪[1920x1080][1.0mb]
+https://epg.pw/stream/a515abf9929b3ef6149dcec9179486cce465c77880c2d0e2b26ec5e4d4906edb.m3u8
+#EXTINF:-1,和-384広瀬[1280x720][1.0mb]
+https://epg.pw/stream/17b76b67023b354bf94d810f44b63f58dd9b63ee1c7f194139bd9d7365c805ae.m3u8
+#EXTINF:-1,和-382二宮[1280x720][1.0mb]
+https://epg.pw/stream/66eb126d045122a4411683f4509981ace913d282aa4a74e144bec694d10f6e01.m3u8
+#EXTINF:-1,tppn-210広瀬[1280x720][1.0mb]
+https://epg.pw/stream/81e477753f2c2be325a21675a540dd60470cd506c36c16703824024812c323c5.m3u8
+#EXTINF:-1,ymdd-242白川奏音[1280x720][1.0mb]
+https://epg.pw/stream/5aab200c1453723b457e516a1fa1d45e26da048c0592784569d60bcecd560b3f.m3u8
+#EXTINF:-1,ocs-037奏音弥生[1920x1080][2.0mb]
+https://epg.pw/stream/97ab383e1dd0618ff3faa0bde903d79c862f7cb7da768fd49788da0ed45427b6.m3u8
+#EXTINF:-1,abw-152結城[1920x1080][1.0mb]
+https://epg.pw/stream/d17a9dac0d54bfe0a6c28fbb654250eca5c4dea7628dff16915232be67a29ab9.m3u8
+#EXTINF:-1,usba-032藤森里穂[1280x720][1.0mb]
+https://epg.pw/stream/4a6b61c8050a2ddd990630ab7a7a3eca645fb634c84827cb84f35e60c1a74937.m3u8
+#EXTINF:-1,ipx-632岬[1920x1080][1.0mb]
+https://epg.pw/stream/646e97059483972d2527c625dea83df33db975ac8dc5ffe90056ada6dc074291.m3u8
+#EXTINF:-1,vec-514北野未奈[1280x720][1.0mb]
+https://epg.pw/stream/d47bb7e2ae208afd3d364fb82a7fbae7b1ededfe4958b02efe7224a387d9abd9.m3u8
+#EXTINF:-1,blk-547藤森里穂[1280x720][1.0mb]
+https://epg.pw/stream/25a9e3ffef8737db06317e0587eb468a2208ead15eb212dd24aab930346defb9.m3u8
+#EXTINF:-1,bf-644北野未奈[1920x1080][1.0mb]
+https://epg.pw/stream/3e8d042cef48ab60eb11b18860d996d64a8b01e61c5d998972ab63dce86a366b.m3u8
+#EXTINF:-1,waaa-106藤森里穂[1920x1080][1.0mb]
+https://epg.pw/stream/7acdb8099e1635c71fa97dcc536a284c21c2a1c74e2f8a03e5798440e2412cfd.m3u8
+#EXTINF:-1,venx-099北野未奈[1280x720][1.0mb]
+https://epg.pw/stream/0d4eb7dfa6f328c8154b917a1b9f1b8e12e8db334b1987e64c25e1e869c49799.m3u8
+#EXTINF:-1,Channel 8[1280x720][][geo-limited]
+https://epg.pw/stream/2ce90e0fb748fccad487f4b1d0a24a75a8d0146c269d391d304103dccaf92497.ctv
+#EXTINF:-1,Channel 8[1280x720][][geo-limited]
+https://epg.pw/stream/3093238b3990ec259ea2bb803b609ff4c49ba7ded22aac3a2a8af1822df7b0b4.ctv
+#EXTINF:-1,Channel U[1280x720][][geo-limited]
+https://epg.pw/stream/2bfd9ac741a6efe3062bbb012bb23ac52f6b86d8c1be40a798e99f89df1623ab.ctv
+#EXTINF:-1,j sports 2@@1[1280x720][2.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,東森新聞@@1[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/d91376ed07fba14fec3772dd7bfcc266f213294ded9193f751afb3e7ca95f573.m3u8
+#EXTINF:-1,年代新聞[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/0f262d943026bff5b201f4ddbfbf2bb8d70ff7e2ef60a0d824f1ec969f467856.m3u8
+#EXTINF:-1,playboy@@1[768x576][1.0mb][geo-limited]
+https://epg.pw/stream/c5e24876f3993c5f6b3e19faae9e9c844fa5f8a676bae523b38ea9b0a5eca2b5.ctv
+#EXTINF:-1,民视新闻台[1920x1080][1.0mb]
+https://epg.pw/stream/8cd77069fae92175bd62661a342b9b97506fcc54ffe3cc64902d19735dcf4aa6.m3u8
+#EXTINF:-1,凤凰卫视资讯[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/b129cb3face89baa92eb99e3a6a728a96777c7cf64c478f49cf9887df4f728ac.ctv
+#EXTINF:-1,channel v 音乐[720x576][3.0mb][geo-limited]
+https://epg.pw/stream/b30d3fe20ce6e3aec98515bc96f3987066b3ad228c8d15f38850de4506be21c3.ctv

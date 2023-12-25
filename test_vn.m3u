@@ -672,3 +672,35 @@ https://epg.pw/stream/dc63c9a0115166752b10d7f0d04dc1554e3ba85e6a2bf2dfef405bb98e
 https://epg.pw/stream/e5a61580c5dcf8d3ff7526b6a114795b6029030a5568495fad743cb79c549003.ctv
 #EXTINF:-1,on e channel@@1[1920x1080][3.0mb][geo-limited]
 https://epg.pw/stream/f4b1cbfe0ceec99c40f49d015234471304577aa7b9d829358fc16e71e9cadcb2.ctv
+#EXTINF:-1,quốc hội tv hd[1920x1080][3.0mb]
+https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8
+#EXTINF:-1,nhân dân tv hd[1280x720][1.0mb]
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w2032123611.m3u8
+#EXTINF:-1,quốc hội[1280x720][2.0mb]
+https://epg.pw/stream/e5b92d153d87f6fa78bb74ef5e9e0f1dfe7b98bb4619ca61229f40e9e9f2aa51.m3u8
+#EXTINF:-1,hanoitv1[1920x1080][4.0mb]
+https://epg.pw/stream/bf1728be60cc8d2c3fd9d4bde0311aefafe228b26a80b34587749555234ea5cd.m3u8
+#EXTINF:-1,sctv14[1280x720][7.0mb][geo-limited]
+https://epg.pw/stream/8e3e79edf03e5d08461546cef43c0a84e634a9882977cf35e1c288e78f37e3b8.m3u8
+#EXTINF:-1,quốc hội@@2[1920x1080][7.0mb]
+https://epg.pw/stream/9f24929856f834ffd7793dc52844bdc3ff20c0845814a50228f4466fbbb01940.m3u8
+#EXTINF:-1,htv7 hd[1920x1080][6.0mb][geo-limited]
+https://epg.pw/stream/4a82bacef23653a09c20d08ff53919d68b57937a2f990bdbb5e22e05ce9fdd17.ctv
+#EXTINF:-1,htv thể thao hd@@1[1920x1080][6.0mb][geo-limited]
+https://epg.pw/stream/0714bed04add3191cacaa6be21c324f05b64e0fbc0feb9520b03e8e358770f02.ctv
+#EXTINF:-1,on music hd@@1[1920x1080][5.0mb][geo-limited]
+https://epg.pw/stream/0e36ad6d0f5e371875aaa6f5ffe834e80133d631cc01712976d45b951cbb7dc3.ctv
+#EXTINF:-1,on sports+[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/cc20b644a463af465b5e4f669cd0ed46f56d7bc01d0507d7735f6390f579c09e.ctv
+#EXTINF:-1,vtc9 hd@@1[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/54092917b99ffbfc7e637838723e057e5c5bd1a39259c0f90f87aca01bc66d20.ctv
+#EXTINF:-1,htvc gia đình[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/cf882bae86ff04a8c2d8ec466410025bb643048dec71f3d5e1d457a2c60218e8.ctv
+#EXTINF:-1,htv9 hd[1920x1080][h264xmp2][geo-limited]
+https://epg.pw/stream/29565718252579c941aefe06e2cb9c041fe292d9ac4deec4b436c6f7d6072492.ctv
+#EXTINF:-1,htv thể thao hd[1920x1080][6.0mb][geo-limited]
+https://epg.pw/stream/7d60519f38db9eed103a53715c75dbe34d8a8746a70fb247a6b579c29b0161aa.ctv
+#EXTINF:-1,htv3 hd[1920x1080][h264xmp2][geo-limited]
+https://epg.pw/stream/94f35069c47cf8b813b68a7fc122a9847a188b2e23171bd9d99367355f9f6a47.ctv
+#EXTINF:-1,vtv3 hd[1920x1080][9.0mb][geo-limited]
+https://epg.pw/stream/2d97afd9c7aa0ba955d198d6e61ef7871aae8d165748a35a4ea0cab610dc7a32.ctv
