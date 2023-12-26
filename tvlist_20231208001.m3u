@@ -1755,3 +1755,37 @@ https://epg.pw/stream/8cd77069fae92175bd62661a342b9b97506fcc54ffe3cc64902d19735d
 https://epg.pw/stream/b129cb3face89baa92eb99e3a6a728a96777c7cf64c478f49cf9887df4f728ac.ctv
 #EXTINF:-1,channel v 音乐[720x576][3.0mb][geo-limited]
 https://epg.pw/stream/b30d3fe20ce6e3aec98515bc96f3987066b3ad228c8d15f38850de4506be21c3.ctv
+#EXTINF:-1,东森新闻[1920x1080][][geo-limited]
+https://epg.pw/stream/25684ac2210e084de3c382512e010d4dba82069bfb601e1f9e68f14c79a8849a.m3u8
+#EXTINF:-1,爱尔达影剧[1280x720][][geo-limited]
+https://epg.pw/stream/b87b9bff275d9f8d2bcdb6ca42d4878235b55829737a4a3e0cd8a5d26caea247.m3u8
+#EXTINF:-1,bloomberg[1920x1080][][geo-limited]
+https://epg.pw/stream/f4a302b6fba909672f83b89d2b1ec5be983b6ad4cb2bef2a5b144c88e3240a86.m3u8
+#EXTINF:-1,动物星球[1920x1080][][geo-limited]
+https://epg.pw/stream/2df3649247d059cb19e9bf87244c60978f23ab7c91d35572ee418898a836cb06.m3u8
+#EXTINF:-1,国家地理野生[1280x720][][geo-limited]
+https://epg.pw/stream/936ec911ca3a23631c8e822081ca3fe8f0e1a93bac068f4db5eaa005b2fccba7.m3u8
+#EXTINF:-1,亚洲旅游台[1280x720][][geo-limited]
+https://epg.pw/stream/c865e9596ff2e3d2a476aa4f62ccdbe299ca28ed19e3408ef79f813facb62e47.m3u8
+#EXTINF:-1,亚洲旅游台[1280x720][][geo-limited]
+https://epg.pw/stream/9c4456056d49b50cb320eb787ecf109657a4ae2495e5c718ca9e7f17ac374a46.m3u8
+#EXTINF:-1,博斯运动2[1280x720][][geo-limited]
+https://epg.pw/stream/54fb3049342d8c04c9a89779f3fb0537532f26f00563ae8541322c600cd47aa9.m3u8
+#EXTINF:-1,博斯运动2[1280x720][][geo-limited]
+https://epg.pw/stream/f84a25f513ca8fc5487c09d47ee62280e23aae348905bc08ef5ce582861e4d6a.m3u8
+#EXTINF:-1,華視@@1[1280x720][3.0mb]
+rtmp://9sv2.mine.nu/sat/tv111
+#EXTINF:-1,台視[1280x720][2.0mb]
+rtmp://9sv2.mine.nu/sat/tv071
+#EXTINF:-1,tvbs歡樂[1280x720][2.0mb]
+rtmp://9sv2.mine.nu/sat/tv421
+#EXTINF:-1,緯來體育[1280x720][1.0mb]
+rtmp://9sv2.mine.nu/sat/tv721
+#EXTINF:-1,tvbs新聞@@1[1280x720][3.0mb]
+rtmp://9sv2.mine.nu/sat/tv551
+#EXTINF:-1,中視@@1[1280x720][1.0mb]
+rtmp://9sv2.mine.nu/sat/tv091
+#EXTINF:-1,民視@@1[1280x720][4.0mb]
+rtmp://9sv2.mine.nu/sat/tv051
+#EXTINF:-1,NBA TV[1280x720][][geo-limited]
+https://epg.pw/stream/e409ff06fd394f50b0e6bba64604daf2d97a82a962591fb8b457cbf59584d97a.ctv

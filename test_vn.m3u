@@ -704,3 +704,15 @@ https://epg.pw/stream/7d60519f38db9eed103a53715c75dbe34d8a8746a70fb247a6b579c29b
 https://epg.pw/stream/94f35069c47cf8b813b68a7fc122a9847a188b2e23171bd9d99367355f9f6a47.ctv
 #EXTINF:-1,vtv3 hd[1920x1080][9.0mb][geo-limited]
 https://epg.pw/stream/2d97afd9c7aa0ba955d198d6e61ef7871aae8d165748a35a4ea0cab610dc7a32.ctv
+#EXTINF:-1,cinemax@@5[1920x1080][4.0mb][geo-limited]
+https://epg.pw/stream/4d780a74e35085419d35bbd94105f43d86e5caf7d13bb56ef0ab218473dba333.ctv
+#EXTINF:-1,on music hd@@2[720x480][3.0mb][geo-limited]
+https://epg.pw/stream/905bafbfca524f6a9d17a666a2738c54462c90ecd75d8acc9e0cafd9d73f33cb.ctv
+#EXTINF:-1,on sports+@@1[1920x1080][4.0mb]
+https://epg.pw/stream/bbd14b1ba6b76608cd47e46b1f856010933e31c19f61ca663ed00f009740a76d.ctv
+#EXTINF:-1,onsportsnews b4[1920x1080][h264xmp2xscte_35]
+https://epg.pw/stream/f7a54fde1a2ca0faa280fc876247e37c97b4e8138c2e2bb5f8fc90f7764d8888.ctv
+#EXTINF:-1,vthanh movies[1920x1080][9.0mb][geo-limited]
+https://epg.pw/stream/e78499cd1105b7eedbe69d38cfc7201067d1c83fc8cce2e1aa5a9f6d4460dd6a.ctv
+
+
