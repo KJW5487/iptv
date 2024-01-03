@@ -2037,3 +2037,26 @@ https://epg.pw/stream/d7ebfddb90e0b29c0bcc28b4fb8c72d7a8375bfb84cbe790ef16b6d96b
 https://epg.pw/stream/8995f2956da23ab7dfb90ed79f4c96a432aedd0230b59ad0a83b43f500b9ee3c.ctv
 #EXTINF:-1,cinemax[1920x1080][5.0mb][geo-limited]
 https://epg.pw/stream/012a5f72f5e2658ae2c268c434f10001fb449507532a4c202f589a76ef09665b.ctv
+#EXTINF:-1,八大第一台[1920x1080][2.0mb][geo-limited]
+http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+#EXTINF:-1,j sports 4@@1[1280x720][2.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,bs fuji tv[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1,wowowプライム[960x544][1.0mb][geo-limited]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,グリーン チャンネル[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,フジテレビ@@1[1280x720][1.0mb][geo-limited]
+http://jp.vthanhnetwork.com/Fuji_TV/index.m3u8
+#EXTINF:-1,テレビ東京@@2[1280x720][1.0mb][geo-limited]
+http://jp.vthanhnetwork.com/TV_Tokyo/index.m3u8
+#EXTINF:-1,日本テレビ@@2[1280x720][1.0mb][geo-limited]
+http://jp.vthanhnetwork.com/Nippon_TV/index.m3u8
+#EXTINF:-1,フジテレビ@@2[1280x720][2.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,wowowプライム@@1[1280x720][3.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,wowow prime[1280x720][2.0mb]
+https://epg.pw/stream/a1dfd56f66cca830737a92503f97febca439449dc39e6cea8887f73bd0dd36f8.ctv
+

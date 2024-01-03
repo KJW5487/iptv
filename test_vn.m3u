@@ -764,3 +764,7 @@ https://epg.pw/stream/cc20b644a463af465b5e4f669cd0ed46f56d7bc01d0507d7735f6390f5
 https://epg.pw/stream/0e36ad6d0f5e371875aaa6f5ffe834e80133d631cc01712976d45b951cbb7dc3.ctv
 #EXTINF:-1,da vinci hd[1920x1080][7.0mb][geo-limited]
 https://epg.pw/stream/0d1f920d8ad2adde55d5f63dd30cd055b368a54437fcc5e907b2c4340b580ba4.ctv
+#EXTINF:-1,th hải phòng@@2[1920x1080][4.0mb]
+https://epg.pw/stream/5cb7a377e9643c18b323e72e3bf0cb5b532e1f313cb7f92892101addb9fc8ae9.ctv
+#EXTINF:-1,on e channel[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/db782e2b356ed8fb6822d0aee44b581842edecba63b81d06162876bd15d90297.ctv
