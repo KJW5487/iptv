@@ -768,3 +768,11 @@ https://epg.pw/stream/0d1f920d8ad2adde55d5f63dd30cd055b368a54437fcc5e907b2c4340b
 https://epg.pw/stream/5cb7a377e9643c18b323e72e3bf0cb5b532e1f313cb7f92892101addb9fc8ae9.ctv
 #EXTINF:-1,on e channel[1920x1080][3.0mb][geo-limited]
 https://epg.pw/stream/db782e2b356ed8fb6822d0aee44b581842edecba63b81d06162876bd15d90297.ctv
+#EXTINF:-1,htv9 hd[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/29565718252579c941aefe06e2cb9c041fe292d9ac4deec4b436c6f7d6072492.ctv
+#EXTINF:-1,htv thể thao[1920x1080][3.0mb][geo-limited]
+https://epg.pw/stream/37dd89b5b78701d0fccab29daef9431249f547562db95e16cb2c9f19a8dbd627.m3u8
+#EXTINF:-1,sctv15[1920x1080][8.0mb]
+https://epg.pw/stream/6441dd73831bb37ceaad3da713d234033e9b1e47db4b9b5501adbd6966eb9d22.m3u8
+#EXTINF:-1,htv2 hd[1280x720][2.0mb]
+https://epg.pw/stream/2f4bafa0c82dda5eb1527f0b650cffaa93e89e3a4c4e5140533a17b41410c713.m3u8
