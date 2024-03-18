@@ -2073,3 +2073,68 @@ https://epg.pw/stream/b658e772883312717d1b7aee42b94fdfa284cb6a7021dfdbebdcc2ca16
 https://epg.pw/stream/6469475656d65dd7311a58feae5d6512bb019b2fb4ee492e572582b94e7acc62.m3u8
 #EXTINF:-1,kpop[1920x1080][4.0mb][geo-limited]
 https://epg.pw/stream/bb9bb73fe70fd8613254292e26971051c0f736c14072b3ac4c76749242680c1a.m3u8
+#EXTINF:-1,民視@@1[1280x720][1.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv051
+#EXTINF:-1,緯來日本[1280x720][3.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv771
+#EXTINF:-1,台視[1280x720][2.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv071
+#EXTINF:-1,華視@@1[1280x720][2.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv111
+#EXTINF:-1,緯來體育[1280x720][2.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv721
+#EXTINF:-1,中視@@1[1280x720][3.0mb]
+rtmp://9sv2.mine.nu:1935/sat/tv091
+
+#EXTINF:-1,緯來體育@@2[1280x720][2.0mb]
+rtmp://9sv2.mine.nu/sat/tv721
+#EXTINF:-1,華視@@2[1280x720][4.0mb]
+rtmp://9sv2.mine.nu/sat/tv111
+#EXTINF:-1,台視@@1[1280x720][4.0mb]
+rtmp://9sv2.mine.nu/sat/tv071
+#EXTINF:-1,中視@@2[1280x720][5.0mb]
+rtmp://9sv2.mine.nu/sat/tv091
+#EXTINF:-1,緯來日本@@1[1280x720][4.0mb]
+rtmp://9sv2.mine.nu/sat/tv771
+#EXTINF:-1,cctv4[1920x1080][1920x1080][4.0mb]
+https://epg.pw/stream/f2002d01a8009a2a78ff1bcc9d0257fd44c2266ee096e398064dcb3c8e29a403.m3u8
+#EXTINF:-1,cctv4[1920x1080]@@1[1920x1080][4.0mb]
+https://epg.pw/stream/6df400db00feb5d98acc387516fe1277170952b9b13a9d37d6a6d03305793f90.m3u8
+#EXTINF:-1,cctv1[1920x1080]@@3[1920x1080][6.0mb]
+https://epg.pw/stream/0283c88966528fdd644cb551cf8550155f2092fe3bd1839feed37c07f139d7cf.m3u8
+#EXTINF:-1,tvbs新闻[1920x1080]@@1[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/c0962e7c957f33d35ef2dcbb0a53d276f6c715c7721167f690a18d050faf8d2d.m3u8
+
+
+#EXTINF:-1,wowowライブ@@1[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,wowowシネマ[960x544][1.0mb][geo-limited]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,tosテレビ大分 news[1920x1080][3.0mb][geo-limited]
+https://ythls-v2.onrender.com/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
+#EXTINF:-1,stv札幌テレビ放送 news[1280x720][3.0mb][geo-limited]
+https://ythls-v2.onrender.com/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
+#EXTINF:-1,bsn新潟放送 news[1920x1080][2.0mb][geo-limited]
+https://ythls-v2.onrender.com/channel/UCoAQNKxgfE32ai4mOXNXvug.m3u8
+#EXTINF:-1,rkb毎日放送 news[1920x1080][2.0mb][geo-limited]
+https://ythls-v2.onrender.com/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
+#EXTINF:-1,wowowシネマ@@1[1280x720][2.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,jsports 4[1280x720][3.0mb]
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,hbc 北海道news[1920x1080][5.0mb][geo-limited]
+https://ythls-v2.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
+#EXTINF:-1,uhb北海道文化放送 news[1920x1080][5.0mb][geo-limited]
+https://ythls-v2.onrender.com/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
+#EXTINF:-1,nst新潟総合テレビ news[1920x1080][13.0mb][geo-limited]
+https://ythls-v2.onrender.com/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
+#EXTINF:-1,mbs毎日放送 news[1920x1080][aacxh264xaacxh264xaacxh264xaacxh264xaacxh264xaacxh][geo-limited]
+https://ythls-v2.onrender.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
+#EXTINF:-1,satv静岡朝日テレビ news[1280x720][aacxh264xaacxh264xaacxh264xaacxh264xaacxh264xaacxh][geo-limited]
+https://ythls-v2.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
+#EXTINF:-1,htb北海道テレビ news[1280x720][aacxh264xaacxh264xaacxh264xaacxh264xaacxh264][geo-limited]
+https://ythls-v2.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
+#EXTINF:-1,テレビ静岡 news[1920x1080][aacxh264xaacxh264xaacxh264xaacxh264xaacxh264xaacxh][geo-limited]
+https://ythls-v2.onrender.com/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
+#EXTINF:-1,premium[1920x1080][][geo-limited]
+https://epg.pw/stream/837dbbc3315a12d3534940402b8962f8be130003d3ae7ea6774e3057bb5fd70b.ctv

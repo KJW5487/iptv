@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1 ,cctv1
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv2
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv3
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv4
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv4eu
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv4a
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv5
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv5p
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226171/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv6
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226011/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv7
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv8
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv9
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv10
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv11
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv12
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv13
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv14
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv15
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv16
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226305/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,cctv17
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,广州综合
+http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8
+#EXTINF:-1 ,广州新闻
+http://tencentplaygzrb.gztv.com/sec/xinwen.m3u8
+#EXTINF:-1 ,广州竞赛
+http://tencentplaygzrb.gztv.com/sec/jingsai.m3u8
+#EXTINF:-1 ,广州影视
+http://tencentplaygzrb.gztv.com/sec/yingshi.m3u8
+#EXTINF:-1 ,广州法治
+http://tencentplaygzrb.gztv.com/sec/fazhi.m3u8
+#EXTINF:-1 ,广州南国都市
+http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8
+
+
+

@@ -776,3 +776,9 @@ https://epg.pw/stream/37dd89b5b78701d0fccab29daef9431249f547562db95e16cb2c9f19a8
 https://epg.pw/stream/6441dd73831bb37ceaad3da713d234033e9b1e47db4b9b5501adbd6966eb9d22.m3u8
 #EXTINF:-1,htv2 hd[1280x720][2.0mb]
 https://epg.pw/stream/2f4bafa0c82dda5eb1527f0b650cffaa93e89e3a4c4e5140533a17b41410c713.m3u8
+#EXTINF:-1,ktv - truyền hình khánh hòa[1280x720][4.0mb]
+https://epg.pw/stream/36343fe353418f14387935d8a39811881734c5e461aaf751713ef1fc9fdf567e.m3u8
+#EXTINF:-1,hà nam[1280x720][3.0mb]
+https://epg.pw/stream/e712ac5f707f8696ea59f82196c70078fcf5c2f151076610de9e53af8c7fa029.m3u8
+#EXTINF:-1,vtv2[1920x1080][]
+https://epg.pw/stream/cc5cd7fb79e7c781c43cd7ee78e9d685086150bd4c116c1a6a86bc8b82a7bc22.ctv

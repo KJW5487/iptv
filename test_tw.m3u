@@ -204,6 +204,7 @@ https://epg.pw/stream/7727f4725c0faa3d6497f28a684732fd4fc8cdc54ba42a1ec111a9e438
 ##錄影專區
 #EXTINF:-1,Al Jazeera English
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1,NHK WORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1,NHK General TV[1280x720][3.0mb]
@@ -216,12 +217,22 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1,cs11 TBS NEWS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,tbs news[1280x720][7.0mb][geo-limited]
+https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
+#EXTINF:-1 ,TV45 TBS NESWS DIG
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 #EXTINF:-1,凤凰资讯@@4[1920x1080][3.0mb][geo-limited]
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1,凤凰资讯@@1[1920x1080][9.0mb][geo-limited]
 https://epg.pw/stream/679055deefd5d79a19efa07d9c82b326995f4f568f98f2917f444a458af574e1.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
-http://r.jdshipin.com/NfC0f
+#http://r.jdshipin.com/NfC0f
+http://113.64.145.228:8081/hls/38/index.m3u8
+#EXTINF:-1,凤凰中文
+http://r.jdshipin.com/cCCzW
+#EXTINF:-1,凤凰资讯
+http://r.jdshipin.com/0Rp07
+
 #EXTINF:-1,8 MEDIACORP[1280x720][][geo-limited]
 #https://epg.pw/stream/38b801aaf040059e9337e61405c1a56f1cd76e5b43b8862a253db2454b09d4b2.ctv
 #https://epg.pw/stream/d410b16153dba49a46848512e0db718bb51c360cd79723ce1d26bdcd183b7e58.ctv
@@ -231,15 +242,30 @@ http://r.jdshipin.com/NfC0f
 #https://epg.pw/stream/84a5dbf0802a56429f7ebe8182c9cb8be4dcf54f142f22959145c018e451c4e6.ctv
 https://epg.pw/stream/bac5d37580f833f121b23eca173d40e6af5c86c2539fd112cef6d6caa22a01e7.ctv
 
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" group-logo="https://cdn.hqth.me/logo/category/kr.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1
+#https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
+
 #EXTINF:-1,cctv4@@1[1920x1080][3.0mb]
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="央视",CCTV-13新闻
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 #EXTINF:-1,CCTV13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8?auth_key=357606504
+#EXTINF:-1,CCTV13
+http://222.173.147.142:8888/newlive/live/hls/15/live.m3u8
+#EXTINF:-1,CCTV13
+http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV13
+http://220.194.178.58:8888/newlive/live/hls/15/live.m3u8
 #EXTINF:-1,CCTV-13
 #http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
 http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+#EXTINF:-1,CCTV-13
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+
 #EXTINF:-1,13新聞@@3[1920x1080][h264xaac][geo-limited]
 http://cfss.cc/api/ysp/cctv13.m3u8
 #EXTINF:-1,bbc world news[1280x720][3.0mb][geo-limited]
