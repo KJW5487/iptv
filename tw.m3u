@@ -182,15 +182,15 @@ https://epg.pw/stream/a1968efdac6a00d9b145649a1df4f2f4215882aa467305813824d1953a
 #EXTINF:-1,CCTV13_26
 https://epg.pw/stream/c101392d89e6d2954d2e2c966497ceee16aa61589b21cd4763af6a275be98886.m3u8
 #EXTINF:-1,CCTV13_27
-https://epg.pw/stream/d8d86dede808358d248bad6c290eba43f63be54e467ea3865a0140b3fb9e5f25.m3u8
+http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
 #EXTINF:-1,CCTV13_28
-https://epg.pw/stream/68497e678084075a10f1b9991f28592e12789084579cbde9ccb8e6d221059195.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1,CCTV13_29
 https://epg.pw/stream/8322a5f8f9ef01ab3c6b242a7007dbfea4003032f7ddd7e74060d3c9e742c531.ctv
 #EXTINF:-1,CCTV13_30
-https://epg.pw/stream/09de0a5e75b077877a760a27b04d6732e3f5656cc7b528f55f6b82e2302b6af1.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/1.m3u8
 #EXTINF:-1,CCTV13[ipv6]_31
-https://epg.pw/stream/8d8f5970c3388f0b49026ce8ed37a9ab37e33a9d29b7dd4152a05c1332ccc78b.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 
 
 
