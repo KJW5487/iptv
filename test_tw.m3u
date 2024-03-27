@@ -244,7 +244,9 @@ https://epg.pw/stream/bac5d37580f833f121b23eca173d40e6af5c86c2539fd112cef6d6caa2
 
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" group-logo="https://cdn.hqth.me/logo/category/kr.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1
 #https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
-https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
+#https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
+#http://mytv.dothome.co.kr/ch/public/1.php
+https://yang-1989.eu.org/kbs/11&p=0
 
 #EXTINF:-1,cctv4@@1[1920x1080][3.0mb]
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
@@ -255,6 +257,8 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8?auth_key=357606504
 #EXTINF:-1,CCTV13
 https://live-play-shanghai.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1,CCTV13
+rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 #EXTINF:-1,CCTV13
 http://222.173.147.142:8888/newlive/live/hls/15/live.m3u8
 #EXTINF:-1,CCTV13
@@ -269,6 +273,8 @@ http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/inde
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1,CCTV13_05
 https://epg.pw/stream/87c4f0b1e547d50afe27dccc9ca5c32af808a19495f3dd85d039797fa4868b68.ctv
+#EXTINF:-1,CCTV13_05
+https://yang-1989.eu.org/live/cctv13
 
 #EXTINF:-1,13新聞@@3[1920x1080][h264xaac][geo-limited]
 http://cfss.cc/api/ysp/cctv13.m3u8
