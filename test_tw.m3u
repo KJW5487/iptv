@@ -275,6 +275,8 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 https://epg.pw/stream/87c4f0b1e547d50afe27dccc9ca5c32af808a19495f3dd85d039797fa4868b68.ctv
 #EXTINF:-1,CCTV13_05
 https://yang-1989.eu.org/live/cctv13
+#EXTINF:-1,CCTV13_05
+rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 
 #EXTINF:-1,13新聞@@3[1920x1080][h264xaac][geo-limited]
 http://cfss.cc/api/ysp/cctv13.m3u8
