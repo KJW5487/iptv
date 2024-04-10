@@ -223,11 +223,14 @@ https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 #EXTINF:-1,凤凰资讯@@4[1920x1080][3.0mb][geo-limited]
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#https://yang-1989.eu.org/youtube/HFib76ySpbU
 #EXTINF:-1,凤凰资讯@@1[1920x1080][9.0mb][geo-limited]
 https://epg.pw/stream/679055deefd5d79a19efa07d9c82b326995f4f568f98f2917f444a458af574e1.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
 #http://r.jdshipin.com/NfC0f
-http://113.64.145.228:8081/hls/38/index.m3u8
+#http://113.64.145.228:8081/hls/38/index.m3u8
+#http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
+http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 #EXTINF:-1,凤凰中文
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1,凤凰资讯
@@ -247,6 +250,7 @@ https://epg.pw/stream/bac5d37580f833f121b23eca173d40e6af5c86c2539fd112cef6d6caa2
 #https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
 #http://mytv.dothome.co.kr/ch/public/1.php
 https://yang-1989.eu.org/kbs/11&p=0
+#http://mytv.dothome.co.kr/ch/public/12.php
 
 #EXTINF:-1,cctv4@@1[1920x1080][3.0mb]
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
