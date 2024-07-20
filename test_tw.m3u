@@ -301,6 +301,7 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
 #https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
 #http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
+#http://58.248.112.205:8006/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz
 
 #EXTINF:-1,CCTV13_05
 https://epg.pw/stream/87c4f0b1e547d50afe27dccc9ca5c32af808a19495f3dd85d039797fa4868b68.ctv
