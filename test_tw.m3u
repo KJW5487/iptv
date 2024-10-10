@@ -264,6 +264,7 @@ https://epg.pw/stream/bac5d37580f833f121b23eca173d40e6af5c86c2539fd112cef6d6caa2
 #http://mytv.dothome.co.kr/ch/public/1.php
 https://yang-1989.eu.org/kbs/11&p=0
 #http://mytv.dothome.co.kr/ch/public/12.php
+#https://z02.ubtvfans.com/live/rx3/2752/f2bb8421fd5571bb38f593b7030a6007/index.m3u8
 
 #EXTINF:-1,cctv4@@1[1920x1080][3.0mb]
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
@@ -302,6 +303,29 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
 #http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
 #http://58.248.112.205:8006/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz
+#https://node3.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
+#http://113.101.119.31:8090/hls/125/index.m3u8
+#http://61.52.157.67:808/hls/13/index.m3u8
+#https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
+#http://111.225.115.28:808/tsfile/live/0001_1.m3u8?key=txiptv
+#http://111.225.115.28:808/tsfile/live/0013_1.m3u8?key=txiptv
+#http://125.82.168.238:8888/rtp/235.254.198.9:1312
+#https://stream1.freetv.fun/cctv-13-6.m3u8
+#https://stream1.freetv.fun/cctv13hd-1.m3u8
+#http://112.123.155.153:9901/tsfile/live/0013_1.m3u8
+#https://stream1.freetv.fun/cctv13-38.m3u8
+#https://stream1.freetv.fun/cctv13-33.m3u8
+#https://stream1.freetv.fun/cctv13-9.m3u8
+#https://stream1.freetv.fun/cctv13-xin-wen-13.m3u8
+#https://stream1.freetv.fun/cctv13-xin-wen-18.m3u8
+#http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?&encrypt=
+#http://123.13.24.224:9992/tsfile/live/0013_1.m3u8?key=txiptv
+#http://36.249.150.9:9901/tsfile/live/0015_1.m3u8
+#http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031108/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031108
+#http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3
+#http://61.52.158.42:808/hls/13/index.m3u8
+#http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
 
 #EXTINF:-1,CCTV13_05
 https://epg.pw/stream/87c4f0b1e547d50afe27dccc9ca5c32af808a19495f3dd85d039797fa4868b68.ctv

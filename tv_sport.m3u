@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,tv701
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1,tv721
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1,tv731
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1,tv741
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1,tv761
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1,tv771
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1,GAORA SPORTS
+https://stream1.freetv.fun/60692083b20d3cc8b165b87ae01d3cc32a5736ed0a6e9789b8bc863a34cd4841.m3u8
+#EXTINF:-1,GAORA SPORTS
+https://stream1.freetv.fun/7ba3aa90993cde3c998ad14b42aedb321575f9981dc0a506ee201d3d71cf1c8e.m3u8
+#EXTINF:-1,GAORA SPORTS
+https://stream1.freetv.fun/402a98240c4d4a112e34fc8981ab18612c57a700f5d49ee17b7d8bf931171c24.m3u8
+#EXTINF:-1,GAORA SPORTS
+https://stream1.freetv.fun/41e332267a3c1a2733368e0cdf5bc6b17db205634eb06d570e79685327ca1088.m3u8
+#EXTINF:-1,GOLF NETWORK
+https://stream1.freetv.fun/48f2a3bcfaee57d00d71cea5d727ba70d141cdb85daaea76b93a1c15cb7930b9.m3u8
+#EXTINF:-1,GOLF NETWORK
+https://stream1.freetv.fun/ccf2003b8ce827dbb706476ff3281f9e3cc2a9ae0a4bf1ffd9b942630bd75fc7.m3u8
+#EXTINF:-1,J SPORTS 1
+https://stream1.freetv.fun/f63077b62062d29e7cc00ecb2288c9e91b749e96237d2582a666529ee1c70b43.m3u8
+#EXTINF:-1,J SPORTS 1
+https://stream1.freetv.fun/58b7a423fa26f3a3921d0dc76445cb8c3bf7db68d7c2f1b03f49641b6687cab0.m3u8
+#EXTINF:-1,J SPORTS 1
+https://stream1.freetv.fun/7358c7dd615a2c8605f7e944c781984d7f3799b73a180405ce843cc10efe9114.m3u8
+#EXTINF:-1,J SPORTS 2
+https://stream1.freetv.fun/d82d794655f8a43c1d6d9bd129ddf8295b4f0f24702077ca225f4603fc6187a4.m3u8
+#EXTINF:-1,J SPORTS 2
+https://stream1.freetv.fun/206523daf4bb7c4071cd8252e76dbc6daf64a6cdfc5c1c5234082e2e70038e47.m3u8
+#EXTINF:-1,J SPORTS 2
+https://stream1.freetv.fun/61ab0ebe4d136d28f71731bc10a7681d1443f80b59bc9a56c2d293ed9abd296b.m3u8
+#EXTINF:-1,J SPORTS 3
+https://stream1.freetv.fun/490c7aa4daa9e9bf1bb005d18c10d6656d9c48e6557dd77086b5f4b66c3394ca.m3u8
+#EXTINF:-1,J SPORTS 4
+https://stream1.freetv.fun/2cd0e2199568b14a56c31b95db21f0437011c2f09adcb583b24a96ef62637c46.m3u8
+#EXTINF:-1,J SPORTS 4
+https://stream1.freetv.fun/3692c40f884349c5fbd21b64fa3bae93d9c12e94704637704360dcf809274ed3.m3u8
+#EXTINF:-1,J SPORTS 4
+https://stream1.freetv.fun/7f1506471ffd7dc672ffdb6709a5a1330149232bed25611017e18a8aff7b8e22.m3u8
+#EXTINF:-1,ゴルフネット
+https://stream1.freetv.fun/a3c20c63400883209a25712de036a687e6ff29fb9fb859fecbeae06c9fe41450.m3u8
+#EXTINF:-1,スカイ・エー
+https://stream1.freetv.fun/a2132c6aa4a7a9e1bd64180e599f2ca8462afb922c42884cf62dae532fa56057.m3u8
