@@ -213,12 +213,15 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://epg.pw/stream/1da42fae77d86738fe5d675a9f425f692160ed5bde551f7be0651d33be29bece.ctv
 #EXTINF:-1,gx06 NHK G
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+#https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 #EXTINF:-1,NHK World Premium[1920x1080][8.0mb]
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1,NTV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1,cs11 TBS NEWS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&checkedby:iptvcat.com
+#https://www.youtube.com/watch?v=ohI356mwBp8
 #EXTINF:-1,tbs news[1280x720][7.0mb][geo-limited]
 https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 #EXTINF:-1 ,TV45 TBS NESWS DIG
@@ -324,6 +327,7 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #http://36.249.150.9:9901/tsfile/live/0015_1.m3u8
 #http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031108/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031108
 #http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3
+#http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031108/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
 #http://61.52.158.42:808/hls/13/index.m3u8
 #http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
 
